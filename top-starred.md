@@ -2,6 +2,8 @@
 
 # Top 200 Most Starred
 
+⭐ The heavy hitters: the 200 most-starred projects across the entire catalog, ranked by the only metric the community votes with. If you have time for just one page, this is the one, the battle-tested frameworks and breakout tools everyone is already building on.
+
 [↑ Back to index](README.md)
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) — ⭐ 499,288 · `Markdown` · Training — This repository offers a collection of tutorials and exercises that guide programmers in rebuilding popular technologies like Git, Redis, and LLMs from scratch. It helps users master programming fundamentals through hands-on construction.

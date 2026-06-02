@@ -2,7 +2,7 @@
 
 # Resource Lists
 
-Curated awesome-lists and other meta resources, grouped by domain.
+🗺️ The maps that lead to every other treasure: hand-picked awesome-lists, curated collections, and meta-resources that bundle hundreds of tools into one link. Start here when you want the lay of the land before going deep.
 
 [↑ Back to index](README.md)
 
@@ -32,6 +32,9 @@ Curated awesome-lists and other meta resources, grouped by domain.
 
 ## Image
 
+<details>
+<summary>Show 12 repos</summary>
+
 - [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) — ⭐ 12,780 · `Python` · Awesome List — This repository is an awesome list collecting high-quality prompts and API resources specifically for GPT-Image-2. It serves as a template library for users to generate diverse images, including portraits, posters, character designs, and UI mockups.
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) — ⭐ 12,037 · `TypeScript` · Awesome List — A comprehensive, multilingual library providing over 10,000 curated prompts, complete with preview images, specifically designed for Google Gemini AI image generation. This resource is free and open-source.
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) — ⭐ 4,722 · `TypeScript` · Awesome List — This repository is the world's largest, daily-updated library of over 2000 curated prompts for OpenAI's GPT Image 2 model. It focuses on commercial-grade illustration, pixel-perfect text rendering, and cross-image consistency.
@@ -45,6 +48,8 @@ Curated awesome-lists and other meta resources, grouped by domain.
 - [houshifang/image](https://github.com/houshifang/image) — ⭐ 108 · `JavaScript` · Awesome List — This is an AI image prompt inspiration library for designers, featuring various design scenarios like app UIs, posters, and illustrations. Each image includes readily available, copyable AI prompts to help users generate high-quality images.
 - [gpt-img-2/ai-image-prompt-cookbook](https://github.com/gpt-img-2/ai-image-prompt-cookbook) — ⭐ 26 · Awesome List — This repository provides a Chinese AI image prompt library, or "cookbook," offering pre-designed prompts for various applications like fashion, e-commerce, product photography, and advertising posters. It helps users generate high-quality AI images using tools like Midjourney, DALL·E, and GPT by copying and adapting the provided prompts.
 
+</details>
+
 ## Audio
 
 - [jim-schwoebel/voice\_datasets](https://github.com/jim-schwoebel/voice_datasets) — ⭐ 2,168 · Awesome List — This repository offers a comprehensive, curated list of over 95 open-source datasets specifically for voice and sound computing tasks. It serves as a valuable resource for researchers and developers in audio AI looking for training data.
@@ -54,6 +59,9 @@ Curated awesome-lists and other meta resources, grouped by domain.
 - [dreamtheater123/Awesome-SpeechLM-Survey](https://github.com/dreamtheater123/Awesome-SpeechLM-Survey) — ⭐ 192 · Awesome List — This repository provides a comprehensive survey and knowledge map of recent advances in Speech Language Models (SpeechLMs), compiling key models, training datasets, and evaluation benchmarks for researchers.
 
 ## Text
+
+<details>
+<summary>Show 35 repos</summary>
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — ⭐ 74,441 · `MDX` · Tutorial/Course — This repository is a comprehensive guide to prompt engineering, offering a rich collection of papers, lessons, notebooks, and resources. It covers prompt design, context engineering, RAG, and AI agents for large language models.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) — ⭐ 62,215 · `Python` · Awesome List — This is a curated list of awesome Claude Skills, resources, and tools designed to help customize and enhance Claude AI workflows. It provides a structured way to manage and progressively load hundreds of skills for Claude agents without exhausting context windows.
@@ -91,7 +99,12 @@ Curated awesome-lists and other meta resources, grouped by domain.
 - [raullenchai/awesome-deepseek-integration](https://github.com/raullenchai/awesome-deepseek-integration) — ⭐ 32 · Awesome List — This repository is an awesome list collecting various software, platforms, tools, frameworks, plugins, and extensions that integrate with the DeepSeek API. It helps developers discover existing DeepSeek-compatible solutions for LLM integration.
 - [PKU-PILLAR-Group/Survey-Intrinsic-Interpretability-of-LLMs](https://github.com/PKU-PILLAR-Group/Survey-Intrinsic-Interpretability-of-LLMs) — ⭐ 10 · Awesome List — This repository contains a paper list for an ACL 2026 survey focused on intrinsic interpretability of Large Language Models (LLMs). The survey explores design principles and architectures for building transparency directly into LLM models to understand their internal workings.
 
+</details>
+
 ## Code
+
+<details>
+<summary>Show 48 repos</summary>
 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — ⭐ 130,858 · Skill Pack — This repository offers a single Markdown file that applies Andrej Karpathy's insights on LLM coding pitfalls, providing a set of principles to improve the behavior of Claude Code.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) — ⭐ 105,289 · `Dockerfile` · Awesome List — This is a curated list of best practices for Node.js development, offering a comprehensive guide to improve code quality and development efficiency in Node.js applications.
@@ -142,6 +155,8 @@ Curated awesome-lists and other meta resources, grouped by domain.
 - [Zijian-Ni/awesome-ai-agents-2026](https://github.com/Zijian-Ni/awesome-ai-agents-2026) — ⭐ 20 · Awesome List — This is a curated list of AI agent frameworks, tools, platforms, and resources, envisioning their mainstream adoption by 2026.
 - [Joe-Huber/AI-For-Brokies](https://github.com/Joe-Huber/AI-For-Brokies) — ⭐ 15 · Awesome List — This repository is a curated list of free AI-powered coding tools, organized by category with details on pricing and features. It serves as a resource for developers looking for cost-free AI assistance in their coding workflows.
 
+</details>
+
 ## Browser
 
 - [cporter202/social-media-scraping-apis](https://github.com/cporter202/social-media-scraping-apis) — ⭐ 1,204 · `JavaScript` · Awesome List — This is a curated collection of social media scraping APIs and tools for major platforms like Instagram, LinkedIn, Twitter/X, TikTok, YouTube, and Facebook. It helps users extract various data, including posts, profiles, videos, and engagement metrics.
@@ -178,6 +193,9 @@ Curated awesome-lists and other meta resources, grouped by domain.
 
 ## Training
 
+<details>
+<summary>Show 12 repos</summary>
+
 - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) — ⭐ 15,636 · `Jupyter Notebook` · Tutorial/Course — This repository serves as a collection of resources and supporting materials for AI engineers, designed to accompany the upcoming book "AI Engineering" by Chip Huyen.
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) — ⭐ 13,726 · Awesome List — This is an 'awesome list' curating a comprehensive collection of resources for learning Artificial Intelligence, including courses, books, video lectures, and research papers across various AI subfields. It serves as a guide for AI education.
 - [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) — ⭐ 5,498 · Awesome List — This repository provides a comprehensive, curated collection of free learning resources and a structured path for individuals to learn AI and LLM engineering from basic concepts to advanced topics like RAG and AI agents.
@@ -190,6 +208,8 @@ Curated awesome-lists and other meta resources, grouped by domain.
 - [PrinceSinghhub/Ultimate-AI-Engineer-Roadmap-2026](https://github.com/PrinceSinghhub/Ultimate-AI-Engineer-Roadmap-2026) — ⭐ 157 · Tutorial/Course — This repository provides a comprehensive roadmap for AI engineers to build production-level AI systems, covering topics from Python fundamentals to advanced concepts like multi-LLM orchestration, RAG, agents, and fine-tuning.
 - [sadanandpai/ai-learning-kit](https://github.com/sadanandpai/ai-learning-kit) — ⭐ 91 · Tutorial/Course — A curated collection of learning materials and resources, including roadmaps, for AI engineering and related fields like machine learning and deep learning.
 - [chrisliu298/awesome-on-policy-distillation](https://github.com/chrisliu298/awesome-on-policy-distillation) — ⭐ 48 · Awesome List — This is a curated collection of papers, technical reports, frameworks, and tools focused on on-policy distillation for large language models.
+
+</details>
 
 ## Infrastructure
 
@@ -211,6 +231,9 @@ Curated awesome-lists and other meta resources, grouped by domain.
 - [JavisVerse/Awesome-AVI](https://github.com/JavisVerse/Awesome-AVI) — ⭐ 27 · Awesome List — This repository serves as a comprehensive survey and curated collection of resources focused on Audio-Visual Intelligence. It encompasses a wide range of topics including multimodal large language models, audio-video generation, processing, and vision-language models.
 
 ## Security
+
+<details>
+<summary>Show 31 repos</summary>
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) — ⭐ 221,038 · Awesome List — A comprehensive collection of inspiring lists, manuals, cheatsheets, and command-line/web tools, specifically curated as a resource for security researchers, pentesters, and system operators.
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) — ⭐ 26,627 · `Jupyter Notebook` · Awesome List — This repository is a comprehensive and long-maintained collection of resources for cybersecurity professionals and enthusiasts. It provides tools, scripts, tutorials, and study materials covering ethical hacking, bug bounties, digital forensics, AI security, vulnerability research, and exploit development.
@@ -244,7 +267,12 @@ Curated awesome-lists and other meta resources, grouped by domain.
 - [LiQiiiii/Awesome-VLA-Safety](https://github.com/LiQiiiii/Awesome-VLA-Safety) — ⭐ 83 · Awesome List — A resource list focused on the safety aspects of Vision-Language-Action (VLA) models, compiling research papers, challenges, evaluation methods, and mechanisms.
 - [MyuriKanao/src-hunter-skill](https://github.com/MyuriKanao/src-hunter-skill) — ⭐ 56 · Skill Pack — Practical SRC / Crowdsourcing / Bug Bounty Vulnerability Discovery: Claude's Code Skills — 19 attack playbooks, 305 structured payloads, 263 WAF/EDR bypasses, 2887 HackerOne real-world cases, and 88,636 WooYun case statistics.
 
+</details>
+
 ## Productivity
+
+<details>
+<summary>Show 19 repos</summary>
 
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) — ⭐ 40,299 · `JavaScript` · Awesome List — This repository hosts the source for remoteintech.company, a community-maintained directory listing tech companies with remote work opportunities. It's a valuable resource for job seekers.
 - [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) — ⭐ 26,486 · Awesome List — A curated list of resources, prompts, and tools aimed at improving and streamlining the process of writing AI research papers.
@@ -266,7 +294,12 @@ Curated awesome-lists and other meta resources, grouped by domain.
 - [danielrosehill/Awesome-Obsidian-AI-Tools](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools) — ⭐ 120 · Awesome List — A categorized collection of Obsidian plugins focused on integrating AI and Large Language Models within the Obsidian note-taking environment. It helps users enhance knowledge management and text-based workflows with AI capabilities.
 - [princepal9120/awesome-solo-founder-oss](https://github.com/princepal9120/awesome-solo-founder-oss) — ⭐ 19 · Awesome List — This is a curated list of open-source tools and resources for solo founders, covering the entire product lifecycle from ideation and MVP development to marketing, customer support, and growth. It emphasizes self-hosted or CLI-driven solutions across various business functions.
 
+</details>
+
 ## Finance
+
+<details>
+<summary>Show 11 repos</summary>
 
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) — ⭐ 8,141 · `Python` · Awesome List — This repository is a curated list of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading. It serves as a comprehensive resource for quantitative finance and algorithmic trading enthusiasts.
 - [EliteQuant/EliteQuant](https://github.com/EliteQuant/EliteQuant) — ⭐ 3,838 · Awesome List — A curated list of online resources for quantitative modeling, trading, and portfolio management, serving as a comprehensive guide for those interested in quantitative finance and algorithmic trading.
@@ -280,7 +313,12 @@ Curated awesome-lists and other meta resources, grouped by domain.
 - [OpenBB-finance/awesome-openbb](https://github.com/OpenBB-finance/awesome-openbb) — ⭐ 91 · Awesome List — A curated list of applications, widgets, data sources, and AI agents related to OpenBB, a financial data platform. It serves as a comprehensive resource for extending and utilizing OpenBB's capabilities.
 - [Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers) — ⭐ 55 · Awesome List — This repository is a curated collection of academic papers focused on quantitative trading using large language models. It serves as a resource for researchers and practitioners in the field.
 
+</details>
+
 ## Science
+
+<details>
+<summary>Show 22 repos</summary>
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) — ⭐ 81,311 · Awesome List — A curated list of free computer science courses from top universities worldwide, presented with video lectures and covering topics like algorithms, operating systems, machine learning, and generative AI.
 - [mli/paper-reading](https://github.com/mli/paper-reading) — ⭐ 33,062 · Tutorial/Course — A curated collection of detailed, paragraph-by-paragraph analyses and intensive readings of classic and new deep learning research papers.
@@ -305,7 +343,12 @@ Curated awesome-lists and other meta resources, grouped by domain.
 - [Jerry-0821/ml-dl-formula-cheatsheet](https://github.com/Jerry-0821/ml-dl-formula-cheatsheet) — ⭐ 245 · `TeX` · Tutorial/Course — A repository containing two PDF cheatsheets, written in LaTeX, that summarize core mathematical formulas for Machine Learning and Deep Learning. It helps users quickly review key concepts, symbols, update rules, and tensor shapes without needing to refer to full textbooks.
 - [GoekeLab/awesome-genomic-skills](https://github.com/GoekeLab/awesome-genomic-skills) — ⭐ 11 · Awesome List — A curated list of agentic skills, MCPs, and benchmarks focused on genomics and bioinformatics. It provides resources compatible with various coding AI assistants.
 
+</details>
+
 ## Other
+
+<details>
+<summary>Show 39 repos</summary>
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) — ⭐ 433,568 · `Python` · Awesome List — This repository offers a comprehensive, collective list of free public APIs across various domains. It serves as a valuable resource for developers looking to integrate external services and data into their applications.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — ⭐ 108,885 · `Python` · Awesome List — This repository is an awesome list featuring over 100 runnable AI Agent and RAG applications. It provides resources that can be cloned, customized, and shipped by developers.
@@ -346,3 +389,5 @@ Curated awesome-lists and other meta resources, grouped by domain.
 - [cporter202/awesome-ai-tools](https://github.com/cporter202/awesome-ai-tools) — ⭐ 167 · Awesome List — This is a curated list of AI tools for building, automating, and monetizing projects. It covers a range of applications including content, video, APIs, websites, workflows, and AI voice.
 - [Shiyao-Huang/awesome-agent-evolution](https://github.com/Shiyao-Huang/awesome-agent-evolution) — ⭐ 74 · `TeX` · Awesome List — This is an awesome list or curated collection related to the evolution and development of AI agents. Although the tweet describes a terminal-based coding agent built by the author, the repository name suggests it primarily serves as a resource list.
 - [mira-ai-lab/awesome-mas-life](https://github.com/mira-ai-lab/awesome-mas-life) — ⭐ 14 · `TeX` · Awesome List — This repository contains resources related to a survey on multi-agent collaboration, attribution, and evolution, likely serving as a curated list alongside a research paper.
+
+</details>

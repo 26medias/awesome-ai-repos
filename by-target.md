@@ -2,22 +2,25 @@
 
 # By Target Tool
 
-Partial index — only repos tagged with a target tool appear, and a repo with multiple targets is listed under each. Counts are entry counts.
+🎯 Built for the AI tools you already live in: Claude Code, Cursor, Codex CLI, MCP servers, and more. Skill packs, extensions, and integrations grouped by the agent or runtime they plug into, so you can supercharge your exact setup. Coverage is partial, showing only repos tagged to a specific target.
 
 [↑ Back to index](README.md)
 
-- [Generic LLM](#generic-llm) — 774
-- [Claude Code](#claude-code) — 466
-- [Codex CLI](#codex-cli) — 203
-- [Anthropic API](#anthropic-api) — 180
-- [OpenAI API](#openai-api) — 163
+- [Generic LLM](#generic-llm) — 776
+- [Claude Code](#claude-code) — 468
+- [Codex CLI](#codex-cli) — 205
+- [Anthropic API](#anthropic-api) — 181
+- [OpenAI API](#openai-api) — 164
 - [Cursor](#cursor) — 110
-- [Gemini CLI](#gemini-cli) — 94
+- [Gemini CLI](#gemini-cli) — 96
 - [Claude.ai](#claudeai) — 49
 - [GitHub Copilot](#github-copilot) — 44
 - [ChatGPT](#chatgpt) — 38
 
 ## Generic LLM
+
+<details>
+<summary>Show 776 repos</summary>
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) — ⭐ 368,773 · `TypeScript` · Productivity — OpenClaw is a personal AI assistant built to run on any operating system and platform. It aims to offer a customizable AI experience with a strong emphasis on user data ownership.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — ⭐ 187,477 · `JavaScript` · Code — This is an agent harness system designed to optimize the performance of AI coding agents like Claude Code, Codex, and Cursor. It provides capabilities for managing agent skills, memory, instincts, and security, facilitating research-first development.
@@ -393,6 +396,7 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) — ⭐ 819 · `Python` · Code — JiuwenSwarm is an intelligent AI Agent framework built on openJiuwen that enables large language models to collaborate and solve complex tasks efficiently, extending their capabilities through daily communication apps.
 - [miantiao-me/ssh-ai-chat](https://github.com/miantiao-me/ssh-ai-chat) — ⭐ 817 · `TypeScript` · Text — This is a command-line interface tool that allows users to chat with various AI models over an SSH connection. It provides a text-based user interface (TUI) for interacting with LLMs.
 - [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) — ⭐ 815 · `JavaScript` · Infrastructure — This is an MCP (Model Context Protocol) server designed to enable AI assistants to query 12306 train ticket information. It provides an API for functionalities like ticket search, filtering, stopover, and transfer queries, aiming to integrate train booking into AI-driven travel planning.
+- [jrswab/axe](https://github.com/jrswab/axe) — ⭐ 815 · `Go` · Code — Axe is a lightweight CLI tool for running single-purpose AI agents. It allows users to define focused agents using TOML and trigger them from various contexts such as pipes, Git hooks, cron jobs, or directly from the terminal.
 - [Deodat-Lawson/LaunchStack](https://github.com/Deodat-Lawson/LaunchStack) — ⭐ 815 · `TypeScript` · Productivity — LaunchStack is an AI-powered startup accelerator engine with document management, chat, predictive missing-document detection, and insight extraction capabilities to support startup operations.
 - [wenyuanw/quick-prompt](https://github.com/wenyuanw/quick-prompt) — ⭐ 812 · `TypeScript` · Text — Quick Prompt is a browser extension designed for managing and quickly inputting AI prompts. It allows users to store, organize, and effortlessly insert their frequently used prompts into any web input field.
 - [0xSero/vllm-studio](https://github.com/0xSero/vllm-studio) — ⭐ 811 · `TypeScript` · Infrastructure — A control panel to manage and host LLM serving frameworks like vLLM, Sglang, llama.cpp, and exllamav3, providing local infrastructure for AI models and agents to run complex workflows.
@@ -782,6 +786,7 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [EYHN/appshots](https://github.com/EYHN/appshots) — ⭐ 14 · `Swift` · Productivity — AppShots is a macOS menu bar application that captures 'appshots,' combining screenshots with accessibility state information. This tool enables users to quickly grab window content and paste it to AI agents like Claude Code or other similar tools.
 - [T-Lab-CUHKSZ/G2RPO-A](https://github.com/T-Lab-CUHKSZ/G2RPO-A) — ⭐ 14 · `Python` · Training — G²RPO-A (Guided Group Relative Policy Optimization with Adaptive Guidance) is a research contribution aimed at improving the reasoning capabilities of smaller language models. It adaptively feeds correct reasoning steps into the training process, dynamically adjusting guidance as the model improves, and performs well on math and code benchmarks.
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) — ⭐ 14 · `HTML` · Code — Html-anything is an agentic HTML editor where a local AI agent writes HTML based on user input. It integrates with various coding AI assistants for zero-API-key operation across multiple design surfaces.
+- [s-age/pipe](https://github.com/s-age/pipe) — ⭐ 14 · `Python` · Code — AI Context Takt, or 'pipe', is a pipeline tool designed for structural control over LLM context. It aims to maximize token efficiency and enforce precise reasoning for complex development tasks, allowing users to interact with AI agents as regular CLI tools.
 - [mitsuhiko/pi-llamacpp](https://github.com/mitsuhiko/pi-llamacpp) — ⭐ 13 · `TypeScript` · Text — An experimental \`pi\` extension for running and managing different versions of the Qwen 3.6 language model via \`llama.cpp\`, handling compilation, model downloads, and setup for execution.
 - [gnurio/porter-strategy-skills](https://github.com/gnurio/porter-strategy-skills) — ⭐ 13 · Productivity — This repository provides a pack of 12 executable AI agent skills for competitive strategy analysis, derived from Michael Porter's "Competitive Strategy." It helps AI agents deliver insights on topics like five forces, competitor profiling, and strategic groups to aid business decision-making.
 - [crimx/agentic-markdown](https://github.com/crimx/agentic-markdown) — ⭐ 12 · `TypeScript` · Text — This library enables the conditional rendering of Markdown content for AI agents, using HTML comment blocks to generate tailored instructions or 'skills' based on specific agent requirements.
@@ -794,7 +799,12 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [pipecat-ai/gb-benchmarks](https://github.com/pipecat-ai/gb-benchmarks) — ⭐ 10 · `Python` · Text — This repository offers a collection of benchmarks specifically for evaluating multi-agent systems, providing a standardized way to measure their performance and capabilities, likely in the context of LLM-based agents.
 - [webxos/microcuda](https://github.com/webxos/microcuda) — ⭐ 10 · `Python` · Infrastructure — MicroCUDA is a lightweight framework that provides GPU-like compute abstractions and a local AI agent on CPUs. It simulates a CUDA runtime with OpenMP and SIMD, enabling the execution of large language models via Ollama.
 
+</details>
+
 ## Claude Code
+
+<details>
+<summary>Show 468 repos</summary>
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — ⭐ 187,477 · `JavaScript` · Code — This is an agent harness system designed to optimize the performance of AI coding agents like Claude Code, Codex, and Cursor. It provides capabilities for managing agent skills, memory, instincts, and security, facilitating research-first development.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 184,116 · `JavaScript` · Code — This repository provides an agent harness system for optimizing the performance, skills, memory, and security of AI coding agents. It supports development for various tools like Claude Code, Codex, Opencode, and Cursor.
@@ -991,6 +1001,7 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) — ⭐ 853 · `Python` · Text — This repository provides a suite of 30 sub-skills and 5 agents for Claude Code, designed to generate and optimize blog content. It aims to improve Google search rankings and AI citations for the created content.
 - [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) — ⭐ 835 · `TypeScript` · Code — This is an MCP (Model Context Protocol) server designed for semantic code research and context generation using LLM patterns. It enables natural searching across public and private code repositories and transforms codebases into AI-optimized knowledge.
 - [sandroandric/AgentHandover](https://github.com/sandroandric/AgentHandover) — ⭐ 833 · `Python` · Code — This project trains AI agents to replicate user workflows by observing screen actions, aiming to teach them self-improving skills. It is designed to automate tasks for tools like Claude Code and Codex without explicit instructions.
+- [jrswab/axe](https://github.com/jrswab/axe) — ⭐ 815 · `Go` · Code — Axe is a lightweight CLI tool for running single-purpose AI agents. It allows users to define focused agents using TOML and trigger them from various contexts such as pipes, Git hooks, cron jobs, or directly from the terminal.
 - [Dicklesworthstone/claude\_code\_agent\_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm) — ⭐ 815 · `Shell` · Code — This is an orchestration framework designed to run multiple Claude Code agents in parallel, facilitating automated tasks like bug fixing and best-practice checks, with real-time monitoring via tmux.
 - [happier-dev/happier](https://github.com/happier-dev/happier) — ⭐ 794 · `TypeScript` · Code — Happier is a cross-device client (Web, Desktop, Mobile) for interacting with various AI coding agents like Claude Code, Codex, OpenCode, Kimi, Augment Code, and Qwen, providing end-to-end encryption for secure communication.
 - [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) — ⭐ 780 · `PowerShell` · Security — This repository provides a skill pack and routing mechanism for AI agents, specifically tailored for reverse engineering and penetration testing tasks. It contains over 20 sub-skills covering areas like APK reverse engineering, IDA analysis, firmware penetration, and EDR bypass, enabling AI to intelligently select the appropriate method for security challenges.
@@ -1252,6 +1263,7 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [alookai/alook](https://github.com/alookai/alook) — ⭐ 14 · `TypeScript` · Code — Alook is an open-source collaboration layer for AI agents, allowing users to orchestrate a 'personal AI company'. It enables agents to coordinate through email, share memory, and learn from tasks by assigning roles and a chain of command.
 - [EYHN/appshots](https://github.com/EYHN/appshots) — ⭐ 14 · `Swift` · Productivity — AppShots is a macOS menu bar application that captures 'appshots,' combining screenshots with accessibility state information. This tool enables users to quickly grab window content and paste it to AI agents like Claude Code or other similar tools.
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) — ⭐ 14 · `HTML` · Code — Html-anything is an agentic HTML editor where a local AI agent writes HTML based on user input. It integrates with various coding AI assistants for zero-API-key operation across multiple design surfaces.
+- [s-age/pipe](https://github.com/s-age/pipe) — ⭐ 14 · `Python` · Code — AI Context Takt, or 'pipe', is a pipeline tool designed for structural control over LLM context. It aims to maximize token efficiency and enforce precise reasoning for complex development tasks, allowing users to interact with AI agents as regular CLI tools.
 - [x-glacier/kali-pentest](https://github.com/x-glacier/kali-pentest) — ⭐ 13 · Security — This repository provides a Kali Linux penetration testing skill for AI agents like Claude Code or Hermes Agent. It equips agents with over 200 CLI tools and playbooks, enabling them to autonomously plan and execute ethical hacking strategies with human approval gates.
 - [gnurio/porter-strategy-skills](https://github.com/gnurio/porter-strategy-skills) — ⭐ 13 · Productivity — This repository provides a pack of 12 executable AI agent skills for competitive strategy analysis, derived from Michael Porter's "Competitive Strategy." It helps AI agents deliver insights on topics like five forces, competitor profiling, and strategic groups to aid business decision-making.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — ⭐ 12 · `CSS` · Text — This repository contains an "anti-AI-slop design skill" intended to guide AI agents to produce more unique and less generic outputs, specifically for tools like Claude Code, Cursor, and Codex. It aims to help AI avoid common "AI tells" in its generated content.
@@ -1263,7 +1275,12 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [NazzarenoGiannelli/tuiboard](https://github.com/NazzarenoGiannelli/tuiboard) — ⭐ 10 · `TypeScript` · Productivity — Tuiboard is a terminal dashboard that unifies markdown task boards, including kanban and daily schedules, with a view for Claude Code agent sessions, all within a TUI environment.
 - [majiayu000/vibeguard](https://github.com/majiayu000/vibeguard) — ⭐ 10 · `Shell` · Code — A collection of native rules, hooks, and guards designed to prevent AI coding assistants like Claude Code and Codex from generating hallucinated, duplicated, or unverified code, thereby enhancing code quality and safety.
 
+</details>
+
 ## Codex CLI
+
+<details>
+<summary>Show 205 repos</summary>
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — ⭐ 187,477 · `JavaScript` · Code — This is an agent harness system designed to optimize the performance of AI coding agents like Claude Code, Codex, and Cursor. It provides capabilities for managing agent skills, memory, instincts, and security, facilitating research-first development.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 184,116 · `JavaScript` · Code — This repository provides an agent harness system for optimizing the performance, skills, memory, and security of AI coding agents. It supports development for various tools like Claude Code, Codex, Opencode, and Cursor.
@@ -1338,6 +1355,7 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) — ⭐ 966 · `Python` · Code — This tool allows users to transform any workflow into reusable AI agent skills that can be installed across various AI agent platforms. It aims for cross-platform compatibility, using a single SKILL.md file for deployment on multiple tools.
 - [voicetreelab/voicetree](https://github.com/voicetreelab/voicetree) — ⭐ 857 · `TypeScript` · Code — Voicetree is a spatial IDE for orchestrating recursive multi-agent systems, providing a visual interface akin to an Obsidian graph-view for designing and managing agent workflows.
 - [sandroandric/AgentHandover](https://github.com/sandroandric/AgentHandover) — ⭐ 833 · `Python` · Code — This project trains AI agents to replicate user workflows by observing screen actions, aiming to teach them self-improving skills. It is designed to automate tasks for tools like Claude Code and Codex without explicit instructions.
+- [jrswab/axe](https://github.com/jrswab/axe) — ⭐ 815 · `Go` · Code — Axe is a lightweight CLI tool for running single-purpose AI agents. It allows users to define focused agents using TOML and trigger them from various contexts such as pipes, Git hooks, cron jobs, or directly from the terminal.
 - [happier-dev/happier](https://github.com/happier-dev/happier) — ⭐ 794 · `TypeScript` · Code — Happier is a cross-device client (Web, Desktop, Mobile) for interacting with various AI coding agents like Claude Code, Codex, OpenCode, Kimi, Augment Code, and Qwen, providing end-to-end encryption for secure communication.
 - [steipete/birdclaw](https://github.com/steipete/birdclaw) — ⭐ 771 · `TypeScript` · Productivity — Birdclaw is a local-first CLI tool designed to store and manage a user's personal data from X (formerly Twitter), including tweets, DMs, bookmarks, and likes. It makes this data easily accessible and 'claw-able' for agents or for building a personal knowledge base with tools like Codex.
 - [vibeforge1111/keep-codex-fast](https://github.com/vibeforge1111/keep-codex-fast) — ⭐ 743 · `Python` · Code — This repository provides a Codex skill for maintaining the performance, cleanliness, and recoverability of a local Codex application's state, aiming to resolve slowness issues from prolonged use.
@@ -1461,6 +1479,7 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [kunchenguid/baby-menu](https://github.com/kunchenguid/baby-menu) — ⭐ 16 · `TypeScript` · Productivity — A personalized, self-evolving menu bar icon application for macOS that allows users to integrate their own AI agents, supporting tools like Claude Code, Codex, or other ACPs.
 - [alookai/alook](https://github.com/alookai/alook) — ⭐ 14 · `TypeScript` · Code — Alook is an open-source collaboration layer for AI agents, allowing users to orchestrate a 'personal AI company'. It enables agents to coordinate through email, share memory, and learn from tasks by assigning roles and a chain of command.
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) — ⭐ 14 · `HTML` · Code — Html-anything is an agentic HTML editor where a local AI agent writes HTML based on user input. It integrates with various coding AI assistants for zero-API-key operation across multiple design surfaces.
+- [s-age/pipe](https://github.com/s-age/pipe) — ⭐ 14 · `Python` · Code — AI Context Takt, or 'pipe', is a pipeline tool designed for structural control over LLM context. It aims to maximize token efficiency and enforce precise reasoning for complex development tasks, allowing users to interact with AI agents as regular CLI tools.
 - [chAng-L19/codex-redteam-optin-mode](https://github.com/chAng-L19/codex-redteam-optin-mode) — ⭐ 12 · `Python` · Security — Provides a 'red team mode' profile for Codex and other AIs, configuring them to simulate offensive attack thinking for security-related tasks.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — ⭐ 12 · `CSS` · Text — This repository contains an "anti-AI-slop design skill" intended to guide AI agents to produce more unique and less generic outputs, specifically for tools like Claude Code, Cursor, and Codex. It aims to help AI avoid common "AI tells" in its generated content.
 - [zhuohangu/peek](https://github.com/zhuohangu/peek) — ⭐ 11 · `Python` · Code — This project investigates how recent agentic systems like Claude Code and Codex manage long-term context by externalizing information into the environment. It aims to analyze the surprising results and implications of this approach for agent functionality.
@@ -1469,7 +1488,12 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [QQQingyu/feishu-codex-bridge](https://github.com/QQQingyu/feishu-codex-bridge) — ⭐ 10 · `TypeScript` · Productivity — This bridge allows users to run the local Codex CLI from Feishu (Lark) chat, providing session management, attachment support, and background service capabilities to integrate Claude Code with Feishu.
 - [majiayu000/vibeguard](https://github.com/majiayu000/vibeguard) — ⭐ 10 · `Shell` · Code — A collection of native rules, hooks, and guards designed to prevent AI coding assistants like Claude Code and Codex from generating hallucinated, duplicated, or unverified code, thereby enhancing code quality and safety.
 
+</details>
+
 ## Anthropic API
+
+<details>
+<summary>Show 181 repos</summary>
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — ⭐ 187,477 · `JavaScript` · Code — This is an agent harness system designed to optimize the performance of AI coding agents like Claude Code, Codex, and Cursor. It provides capabilities for managing agent skills, memory, instincts, and security, facilitating research-first development.
 - [anthropics/skills](https://github.com/anthropics/skills) — ⭐ 128,176 · `Python` · Code — This repository provides public resources and best practices for developing "skills" for AI agents, particularly for Claude. It serves as a guide for engineers to scaffold and write effective agent skills.
@@ -1650,9 +1674,15 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) — ⭐ 24 · `Python` · Security — An AI-powered OSINT agent featuring an interactive REPL, MCP server, and CLI, offering nine tools for security research and compatible with Claude, GPT-4, or local models.
 - [fluyeporlaweb/mcp-x-intelligence](https://github.com/fluyeporlaweb/mcp-x-intelligence) — ⭐ 17 · `TypeScript` · Data — This is a Model Context Protocol (MCP) server that provides AI agents with research capabilities on X/Twitter data. It's designed to be compatible with tools like Claude, Cursor, and other MCP-enabled AI agents.
 - [PDBeurope/PDBe-MCP-Servers](https://github.com/PDBeurope/PDBe-MCP-Servers) — ⭐ 14 · `Python` · Science — This repository provides Model Context Protocol (MCP) servers that integrate Protein Data Bank Europe resources with Large Language Models. It offers seamless access to protein structure data via API tools and aids in generating intelligent Cypher queries for structural biology research.
+- [s-age/pipe](https://github.com/s-age/pipe) — ⭐ 14 · `Python` · Code — AI Context Takt, or 'pipe', is a pipeline tool designed for structural control over LLM context. It aims to maximize token efficiency and enforce precise reasoning for complex development tasks, allowing users to interact with AI agents as regular CLI tools.
 - [ibis-ssl/crane](https://github.com/ibis-ssl/crane) — ⭐ 10 · `C++` · Infrastructure — A dynamic workflow engine designed to orchestrate complex tasks and processes, integrating with large language models like Claude. It provides a programmatic framework for users to define and manage multi-step operations.
 
+</details>
+
 ## OpenAI API
+
+<details>
+<summary>Show 164 repos</summary>
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — ⭐ 135,682 · `Python` · Infrastructure — Open-WebUI offers a user-friendly web interface for interacting with various AI models, including those supported by Ollama and OpenAI API. It facilitates self-hosted access and management of LLMs and RAG systems.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) — ⭐ 130,291 · `Python` · Text — A Python tool designed to convert various document formats, including Microsoft Office files and PDFs, into Markdown. It facilitates content extraction and preparation for text-based processing workflows, often integrating with AI agent systems.
@@ -1816,9 +1846,15 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [AnisurRahmann/llm-wiki-kit](https://github.com/AnisurRahmann/llm-wiki-kit) — ⭐ 17 · `Shell` · Text — This tool implements Karpathy's 'LLM Wiki' vision, allowing users to create and manage a personal knowledge base by leveraging large language models for information retrieval and generation.
 - [hxdflying/paperbanana](https://github.com/hxdflying/paperbanana) — ⭐ 17 · Science — An open-source tool that automates the generation of academic figures, diagrams, research visuals, and slides. Users provide text or PDF inputs along with a caption, and a multi-agent system uses OpenAI's gpt-image-2 to plan, stylize, generate, and refine the visuals until satisfied.
 - [umutcetinkaya/live-translator](https://github.com/umutcetinkaya/live-translator) — ⭐ 15 · `Python` · Audio — Live Translator is a macOS application that provides real-time translation of any system audio, such as from YouTube videos, podcasts, or meetings. It uses on-device speech recognition and integrates with OpenAI or Google Gemini to display natural, context-aware translations live on screen.
+- [s-age/pipe](https://github.com/s-age/pipe) — ⭐ 14 · `Python` · Code — AI Context Takt, or 'pipe', is a pipeline tool designed for structural control over LLM context. It aims to maximize token efficiency and enforce precise reasoning for complex development tasks, allowing users to interact with AI agents as regular CLI tools.
 - [wingXIII/video-subtitle-master-](https://github.com/wingXIII/video-subtitle-master-) — ⭐ 11 · Audio — A cross-platform client tool that automatically generates subtitles for videos and audio files, and can also batch translate these subtitles into multiple languages. It supports various translation services including OpenAI, DeepSeek, and Ollama.
 
+</details>
+
 ## Cursor
+
+<details>
+<summary>Show 110 repos</summary>
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — ⭐ 187,477 · `JavaScript` · Code — This is an agent harness system designed to optimize the performance of AI coding agents like Claude Code, Codex, and Cursor. It provides capabilities for managing agent skills, memory, instincts, and security, facilitating research-first development.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 184,116 · `JavaScript` · Code — This repository provides an agent harness system for optimizing the performance, skills, memory, and security of AI coding agents. It supports development for various tools like Claude Code, Codex, Opencode, and Cursor.
@@ -1929,9 +1965,14 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) — ⭐ 14 · `HTML` · Code — Html-anything is an agentic HTML editor where a local AI agent writes HTML based on user input. It integrates with various coding AI assistants for zero-API-key operation across multiple design surfaces.
 - [gnurio/porter-strategy-skills](https://github.com/gnurio/porter-strategy-skills) — ⭐ 13 · Productivity — This repository provides a pack of 12 executable AI agent skills for competitive strategy analysis, derived from Michael Porter's "Competitive Strategy." It helps AI agents deliver insights on topics like five forces, competitor profiling, and strategic groups to aid business decision-making.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — ⭐ 12 · `CSS` · Text — This repository contains an "anti-AI-slop design skill" intended to guide AI agents to produce more unique and less generic outputs, specifically for tools like Claude Code, Cursor, and Codex. It aims to help AI avoid common "AI tells" in its generated content.
-- [elastic/example-mcp-dashbuilder](https://github.com/elastic/example-mcp-dashbuilder) — ⭐ 11 · `TypeScript` · Data — This is an example application for the Elastic Multimodal Conversation Platform (MCP) that enables users to build interactive Kibana dashboards within AI conversations. It queries Elasticsearch data using ES|QL and automatically selects appropriate chart types.
+- [elastic/example-mcp-dashbuilder](https://github.com/elastic/example-mcp-dashbuilder) — ⭐ 11 · `TypeScript` · Data — This is an example application for the Elastic Multimodal Conversation Platform (MCP) that enables users to build interactive Kibana dashboards within AI conversations. It queries Elasticsearch data using ES\|QL and automatically selects appropriate chart types.
+
+</details>
 
 ## Gemini CLI
+
+<details>
+<summary>Show 96 repos</summary>
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) — ⭐ 103,230 · `TypeScript` · Multimodal — This is an open-source AI agent that integrates the capabilities of Gemini directly into the command-line interface.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) — ⭐ 88,112 · `TypeScript` · Productivity — This is a lightweight and fast cross-platform AI assistant that provides a unified interface for interacting with various large language models like ChatGPT, Claude, Gemini, and Ollama across Web, iOS, macOS, Android, Linux, and Windows. It aims to simplify AI interaction by offering a single, performant application for diverse models.
@@ -1977,6 +2018,7 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [MadAppGang/claudish](https://github.com/MadAppGang/claudish) — ⭐ 878 · `TypeScript` · Code — This repository provides a tool to execute "Claude Code" (a specific format for AI coding agents) using various underlying Large Language Models, including those from OpenAI, Google Gemini, and local models, thereby expanding the interoperability of Claude Code.
 - [Renset/macai](https://github.com/Renset/macai) — ⭐ 877 · `Swift` · Productivity — MacAI is a native macOS AI chat application that provides a unified interface for interacting with various LLM services such as ChatGPT, Claude, and Gemini.
 - [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) — ⭐ 827 · `Go` · Infrastructure — GoModel is a lightweight AI gateway written in Go, providing a unified OpenAI-compatible API to manage access to diverse LLM providers. It offers essential features like observability, guardrails, streaming, and cost tracking.
+- [jrswab/axe](https://github.com/jrswab/axe) — ⭐ 815 · `Go` · Code — Axe is a lightweight CLI tool for running single-purpose AI agents. It allows users to define focused agents using TOML and trigger them from various contexts such as pipes, Git hooks, cron jobs, or directly from the terminal.
 - [0xsline/StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier) — ⭐ 751 · `JavaScript` · Video — This is an AI-assisted web tool for generating storyboards and stitched video clips from text. It integrates Gemini for storyboard text and frames, Vertex AI Veo for transition clips, and FFmpeg for video assembly, with features for logging and gallery management.
 - [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) — ⭐ 735 · `Shell` · Text — This project orchestrates 18 distinct AI personas to deliberate on complex decisions using multiple LLM providers like Claude, Gemini, and OpenAI. It offers a structured, multi-round deliberation process for genuine model diversity and insightful outcomes via a simple CLI command.
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) — ⭐ 710 · Browser — Official Chrome guidance defining AI Agent Skills by organizing web platform features into expert-verified use cases. It aims to enable AI agents to interact with web content, supporting offline operation and compatibility with various AI tools.
@@ -2027,8 +2069,14 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) — ⭐ 25 · `Go` · Code — Agenttrace is a Terminal User Interface (TUI) for observing AI coding agents. It allows developers to trace and monitor aspects like cost, token usage, tool failures, latency, and overall health for agents such as Claude Code, Codex CLI, and Gemini CLI.
 - [umutcetinkaya/live-translator](https://github.com/umutcetinkaya/live-translator) — ⭐ 15 · `Python` · Audio — Live Translator is a macOS application that provides real-time translation of any system audio, such as from YouTube videos, podcasts, or meetings. It uses on-device speech recognition and integrates with OpenAI or Google Gemini to display natural, context-aware translations live on screen.
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) — ⭐ 14 · `HTML` · Code — Html-anything is an agentic HTML editor where a local AI agent writes HTML based on user input. It integrates with various coding AI assistants for zero-API-key operation across multiple design surfaces.
+- [s-age/pipe](https://github.com/s-age/pipe) — ⭐ 14 · `Python` · Code — AI Context Takt, or 'pipe', is a pipeline tool designed for structural control over LLM context. It aims to maximize token efficiency and enforce precise reasoning for complex development tasks, allowing users to interact with AI agents as regular CLI tools.
+
+</details>
 
 ## Claude.ai
+
+<details>
+<summary>Show 49 repos</summary>
 
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) — ⭐ 88,112 · `TypeScript` · Productivity — This is a lightweight and fast cross-platform AI assistant that provides a unified interface for interacting with various large language models like ChatGPT, Claude, Gemini, and Ollama across Web, iOS, macOS, Android, Linux, and Windows. It aims to simplify AI interaction by offering a single, performant application for diverse models.
 - [mattpocock/skills](https://github.com/mattpocock/skills) — ⭐ 60,762 · `Shell` · Code — This repository contains a collection of skills for "Real Engineers," specifically sourced from a .claude directory. These skills are designed to enhance the capabilities of an AI assistant like Claude.
@@ -2080,7 +2128,12 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [finch-xu/cc-router](https://github.com/finch-xu/cc-router) — ⭐ 27 · `Rust` · Infrastructure — A local intelligent router that consolidates API quotas and plans from multiple large language models, allowing flexible resource allocation, request scheduling, and automatic handling of rate limits and failures for optimized AI service usage.
 - [PDBeurope/PDBe-MCP-Servers](https://github.com/PDBeurope/PDBe-MCP-Servers) — ⭐ 14 · `Python` · Science — This repository provides Model Context Protocol (MCP) servers that integrate Protein Data Bank Europe resources with Large Language Models. It offers seamless access to protein structure data via API tools and aids in generating intelligent Cypher queries for structural biology research.
 
+</details>
+
 ## GitHub Copilot
+
+<details>
+<summary>Show 44 repos</summary>
 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — ⭐ 137,041 · Code — This repository collects and documents system prompts, internal tools, and AI models from popular AI-powered development environments like GitHub Copilot and Cursor. It provides insights into the underlying mechanisms of various AI coding assistants.
 - [github/spec-kit](https://github.com/github/spec-kit) — ⭐ 92,737 · `Python` · Code — Spec-Kit is a toolkit that streamlines spec-driven development, likely integrating AI features like Copilot. It helps engineers and product teams build software efficiently based on clear specifications.
@@ -2127,7 +2180,12 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) — ⭐ 14 · `HTML` · Code — Html-anything is an agentic HTML editor where a local AI agent writes HTML based on user input. It integrates with various coding AI assistants for zero-API-key operation across multiple design surfaces.
 - [geekjourneyx/readme-generator](https://github.com/geekjourneyx/readme-generator) — ⭐ 11 · `HTML` · Code — This project generates professional README.md files, including infographics, SEO-optimized metadata, and structured author sections, by leveraging Playwright and AI agent skills. It simplifies the process of creating comprehensive documentation for open-source projects.
 
+</details>
+
 ## ChatGPT
+
+<details>
+<summary>Show 38 repos</summary>
 
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) — ⭐ 88,112 · `TypeScript` · Productivity — This is a lightweight and fast cross-platform AI assistant that provides a unified interface for interacting with various large language models like ChatGPT, Claude, Gemini, and Ollama across Web, iOS, macOS, Android, Linux, and Windows. It aims to simplify AI interaction by offering a single, performant application for diverse models.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) — ⭐ 73,282 · `Jupyter Notebook` · Text — A collection of examples and guides (cookbooks) to help users effectively utilize the OpenAI API for various tasks, with practical recipes for models like ChatGPT and GPT-4.
@@ -2167,3 +2225,5 @@ Partial index — only repos tagged with a target tool appear, and a repo with m
 - [basionwang-bot/HermesPet](https://github.com/basionwang-bot/HermesPet) — ⭐ 67 · `Swift` · Productivity — HermesPet is a desktop AI companion designed for macOS, residing in the MacBook's Dynamic Island or notch area. It offers multi-modal interactions like chat, voice, file drag-and-drop, and desktop monitoring, supporting multiple AI engines out-of-the-box.
 - [YosefHayim/ebay-mcp](https://github.com/YosefHayim/ebay-mcp) — ⭐ 59 · `TypeScript` · Infrastructure — This is an open-source local Model Context Protocol (MCP) server that gives AI assistants comprehensive access to eBay's Sell APIs. It includes 325 tools for various e-commerce functions like inventory management, order fulfillment, and marketing.
 - [0xSero/codex-shim](https://github.com/0xSero/codex-shim) — ⭐ 24 · `Python` · Code — This is a local API shim designed to expose Factory BYOK (Bring Your Own Key) models, along with an optional ChatGPT GPT-5.5 passthrough, to Codex Desktop. It acts as an intermediary to integrate various language models with the Codex coding environment.
+
+</details>

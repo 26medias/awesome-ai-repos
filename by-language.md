@@ -2,15 +2,15 @@
 
 # By Language
 
-Tools grouped by primary language.
+🧬 Pick your stack and dive straight in: from Python's deep-learning juggernauts to Rust's blazing inference engines, TypeScript agent frameworks, and Go infra tooling. Every repo sorted by the language you actually write, so you can clone something that fits your toolchain today.
 
 [↑ Back to index](README.md)
 
-- [Python](#python) — 1319
+- [Python](#python) — 1321
 - [TypeScript](#typescript) — 609
 - [JavaScript](#javascript) — 179
 - [Rust](#rust) — 128
-- [Go](#go) — 122
+- [Go](#go) — 124
 - [Jupyter Notebook](#jupyter-notebook) — 106
 - [C++](#c) — 96
 - [Shell](#shell) — 95
@@ -63,6 +63,9 @@ Tools grouped by primary language.
 - [Unknown](#unknown) — 168
 
 ## Python
+
+<details>
+<summary>Show 1321 repos</summary>
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) — ⭐ 347,418 · `Python` · Other — Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) — ⭐ 221,187 · `Python` · Code — This repository provides a comprehensive collection of algorithms across various domains like sorting, searching, graph theory, dynamic programming, machine learning, and computer vision, all implemented in Python. It serves as an educational resource and reference for developers to learn and master fundamental computer science algorithms and data structures.
@@ -659,7 +662,7 @@ Tools grouped by primary language.
 - [concept-graphs/concept-graphs](https://github.com/concept-graphs/concept-graphs) — ⭐ 854 · `Python` · 3D — This repository contains the official code release for ConceptGraphs, a project that generates open-vocabulary 3D scene graphs.
 - [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) — ⭐ 853 · `Python` · Text — This repository provides a suite of 30 sub-skills and 5 agents for Claude Code, designed to generate and optimize blog content. It aims to improve Google search rankings and AI citations for the created content.
 - [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) — ⭐ 849 · `Python` · Text — Typeagent is a Python library designed for Structured RAG (Retrieval-Augmented Generation), enabling efficient ingestion, indexing, and querying of data for LLM applications.
-- [IAAR-Shanghai/Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) — ⭐ 848 · `Python` · Other — Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design. Awesome-AI-Memory 是一个 集中式、持续更新的 AI 记忆知识库，系统性整理了与 大模型记忆（LLM Memory）与智能体记忆（Agent Memory） 相关的前沿研究、工程框架、系统设计、评测基准与真实应用实践。
+- [IAAR-Shanghai/Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) — ⭐ 848 · `Python` · Other — Awesome AI Memory \| LLM Memory \| A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design. Awesome-AI-Memory 是一个 集中式、持续更新的 AI 记忆知识库，系统性整理了与 大模型记忆（LLM Memory）与智能体记忆（Agent Memory） 相关的前沿研究、工程框架、系统设计、评测基准与真实应用实践。
 - [EvolvingLMMs-Lab/LLaVA-OneVision-2](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2) — ⭐ 835 · `Python` · Multimodal — LLaVA-OneVision-2 is an open framework designed for democratized multimodal training, particularly focusing on vision-language models and video understanding tasks. It aims to provide tools and implementations for developing multimodal AI.
 - [sandroandric/AgentHandover](https://github.com/sandroandric/AgentHandover) — ⭐ 833 · `Python` · Code — This project trains AI agents to replicate user workflows by observing screen actions, aiming to teach them self-improving skills. It is designed to automate tasks for tools like Claude Code and Codex without explicit instructions.
 - [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) — ⭐ 833 · `Python` · Productivity — This repository provides a collection of office-related skills for AI agents like OpenClaw and hermes-agent. It includes functionalities such as generating images/infographics, creating presentations (PPTs), analyzing Excel data, and conducting in-depth research to produce reports, allowing agents to perform these tasks individually or as part of a complete workflow.
@@ -1083,6 +1086,7 @@ Tools grouped by primary language.
 - [Azure/Copilot-Studio-and-Azure](https://github.com/Azure/Copilot-Studio-and-Azure) — ⭐ 98 · `Python` · Text — This repository contains an Azure AI Search connector for SharePoint, enabling the integration of SharePoint data into Azure AI Search for use with AI applications.
 - [Hi-FullHouse/CyberSecurity-Skills](https://github.com/Hi-FullHouse/CyberSecurity-Skills) — ⭐ 98 · `Python` · Security — This repository contains a knowledge base of 195 cybersecurity skills, systematically organized across 39 modules for penetration testing. It covers the entire process from information gathering to post-exploitation, intended to be operated by AI.
 - [mit-han-lab/kernel-design-agents](https://github.com/mit-han-lab/kernel-design-agents) — ⭐ 98 · `Python` · Code — Kernel Design Agents (KDA) is an AI agent system from HAN Lab that designs and optimizes CUDA kernels for high-performance computing. It aims to automatically generate efficient low-level code for GPU acceleration, achieving near state-of-the-art results in competitive contests.
+- [DaojiePENG/LOVON](https://github.com/DaojiePENG/LOVON) — ⭐ 98 · `Python` · Robotics — LOVON is a novel framework that integrates large language models for hierarchical task planning with open-vocabulary visual detection models. It is tailored for legged robots to perform effective long-range object navigation in dynamic, unstructured environments.
 - [jrcruciani/obsidian-memory-for-ai](https://github.com/jrcruciani/obsidian-memory-for-ai) — ⭐ 98 · `Python` · Productivity — This repository provides a guide and resources for creating a persistent memory system for AI assistants using Obsidian notes. It enables AI to retain conversational context and user information across sessions, preventing the need for repeated explanations.
 - [microsoft/clarity-agent](https://github.com/microsoft/clarity-agent) — ⭐ 97 · `Python` · Productivity — An AI thinking partner that guides users to clarify problems, explore solutions, and analyze potential failure modes, producing version-controlled, human-readable documentation. It helps users refine their ideas and plans without writing code.
 - [EvoLinkAI/GPT-Image-2-Seedance2-Workflow](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow) — ⭐ 97 · `Python` · Video — This repository provides workflows and prompt templates for creating high-quality AI-generated videos by leveraging GPT-Image-2 and Seedance2, focusing on practical implementation for video production.
@@ -1346,6 +1350,7 @@ Tools grouped by primary language.
 - [Lethe044/hermes-skill-marketplace](https://github.com/Lethe044/hermes-skill-marketplace) — ⭐ 14 · `Python` · Code — This project describes a self-evolving Hermes agent designed to autonomously create, test, and publish reusable skills. It incorporates memory and reinforcement learning to manage and expand its own capabilities.
 - [lifeiteng/OmniVAD-Kit](https://github.com/lifeiteng/OmniVAD-Kit) — ⭐ 14 · `Python` · Audio — This is a cross-platform toolkit for Voice Activity Detection (VAD) and Audio Event Detection, offering APIs for Python, TypeScript, and C. It features compact DFSMN models and provides high-performance operation across diverse environments, including native applications, browsers via WebAssembly, and Node.js.
 - [PDBeurope/PDBe-MCP-Servers](https://github.com/PDBeurope/PDBe-MCP-Servers) — ⭐ 14 · `Python` · Science — This repository provides Model Context Protocol (MCP) servers that integrate Protein Data Bank Europe resources with Large Language Models. It offers seamless access to protein structure data via API tools and aids in generating intelligent Cypher queries for structural biology research.
+- [s-age/pipe](https://github.com/s-age/pipe) — ⭐ 14 · `Python` · Code — AI Context Takt, or 'pipe', is a pipeline tool designed for structural control over LLM context. It aims to maximize token efficiency and enforce precise reasoning for complex development tasks, allowing users to interact with AI agents as regular CLI tools.
 - [bisect-group/BrowseNet](https://github.com/bisect-group/BrowseNet) — ⭐ 13 · `Python` · Other — BrowseNet is a novel graph-based Retrieval-Augmented Generation (RAG) framework designed for efficient context retrieval in complex multi-hop queries by traversing a structured Graph-of-Chunks. It improves upon standard RAG by modeling relationships between information chunks, enhancing contextual understanding for LLMs.
 - [caiyuchen-ustc/EffOPD](https://github.com/caiyuchen-ustc/EffOPD) — ⭐ 13 · `Python` · 3D — This repository provides the official code implementation for "EffOPD: Efficient One-Pass 3D Pose Diffusion", a research paper focused on efficient 3D human pose estimation and generation. It serves as an accompanying resource to the paper and its related dataset.
 - [Anil-matcha/gemini-omni-comfyui](https://github.com/Anil-matcha/gemini-omni-comfyui) — ⭐ 13 · `Python` · Video — This repository provides custom nodes for ComfyUI, enabling users to perform text-to-video, image-to-video generation, and video editing using the Google Gemini Omni API. It integrates multimodal video capabilities into the ComfyUI workflow.
@@ -1384,7 +1389,12 @@ Tools grouped by primary language.
 - [shang-zhu/violin](https://github.com/shang-zhu/violin) — ⭐ 10 · `Python` · Video — A video translation skill that combines speech recognition and dubbing to translate video content into other languages, making it globally accessible for lectures, talks, and podcasts.
 - [UCSC-VLAA/VLM-CapCurriculum](https://github.com/UCSC-VLAA/VLM-CapCurriculum) — ⭐ 10 · `Python` · Multimodal — This repository presents a capability curriculum designed to improve the perceptual accuracy of Vision-Language Models (VLMs), specifically addressing perception errors in models like Qwen3-VL-8B before focusing on reasoning.
 
+</details>
+
 ## TypeScript
+
+<details>
+<summary>Show 609 repos</summary>
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) — ⭐ 368,773 · `TypeScript` · Productivity — OpenClaw is a personal AI assistant built to run on any operating system and platform. It aims to offer a customizable AI experience with a strong emphasis on user data ownership.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) — ⭐ 188,545 · `TypeScript` · Productivity — n8n is an open-source, fair-code workflow automation platform with native AI capabilities, serving as a Zapier alternative. It enables users to visually build and integrate custom code for automating workflows across 400+ services, supporting both self-hosting and cloud deployments.
@@ -1987,7 +1997,7 @@ Tools grouped by primary language.
 - [tensor2023/OpenPixel-RPG](https://github.com/tensor2023/OpenPixel-RPG) — ⭐ 13 · `TypeScript` · Gaming — This AI-powered JRPG generates interactive pixel-art game worlds from user-provided photos or addresses, creating local NPCs and narratives based on a chosen style. It leverages AI, including Gemini, for world design, map generation, and dynamic NPC behavior, offering users a unique, customizable game experience.
 - [mitsuhiko/pi-llamacpp](https://github.com/mitsuhiko/pi-llamacpp) — ⭐ 13 · `TypeScript` · Text — An experimental \`pi\` extension for running and managing different versions of the Qwen 3.6 language model via \`llama.cpp\`, handling compilation, model downloads, and setup for execution.
 - [crimx/agentic-markdown](https://github.com/crimx/agentic-markdown) — ⭐ 12 · `TypeScript` · Text — This library enables the conditional rendering of Markdown content for AI agents, using HTML comment blocks to generate tailored instructions or 'skills' based on specific agent requirements.
-- [elastic/example-mcp-dashbuilder](https://github.com/elastic/example-mcp-dashbuilder) — ⭐ 11 · `TypeScript` · Data — This is an example application for the Elastic Multimodal Conversation Platform (MCP) that enables users to build interactive Kibana dashboards within AI conversations. It queries Elasticsearch data using ES|QL and automatically selects appropriate chart types.
+- [elastic/example-mcp-dashbuilder](https://github.com/elastic/example-mcp-dashbuilder) — ⭐ 11 · `TypeScript` · Data — This is an example application for the Elastic Multimodal Conversation Platform (MCP) that enables users to build interactive Kibana dashboards within AI conversations. It queries Elasticsearch data using ES\|QL and automatically selects appropriate chart types.
 - [coffeejones/gitvision](https://github.com/coffeejones/gitvision) — ⭐ 11 · `TypeScript` · Code — GitVision is a tool for analyzing GitHub repositories to map their structure, identify high-risk dependencies, duplicate code, and untested areas. It uses AST parsing to provide insights into code quality and the potential impact of changes.
 - [run-llama/liteparse-server](https://github.com/run-llama/liteparse-server) — ⭐ 11 · `TypeScript` · Multimodal — This is an Express.js HTTP server built on top of LiteParse, designed to provide a lightweight backend for document parsing. It can process PDFs, images, and Office documents, and generate page screenshots, acting as a self-hosted infrastructure for document understanding.
 - [0xcaff/codex-web](https://github.com/0xcaff/codex-web) — ⭐ 10 · `TypeScript` · Code — Codex-web is a browser-based frontend for the Codex desktop application, enabling users to monitor and steer long-running agents from any browser or mobile device.
@@ -1996,7 +2006,12 @@ Tools grouped by primary language.
 - [IgorWarzocha/pi-subagent-review](https://github.com/IgorWarzocha/pi-subagent-review) — ⭐ 10 · `TypeScript` · Code — This repository provides a \`pi\` subagent designed to automate code review workflows with intelligent base branch detection. It automatically reviews worktrees against parent branches and development branches against main/master.
 - [NazzarenoGiannelli/tuiboard](https://github.com/NazzarenoGiannelli/tuiboard) — ⭐ 10 · `TypeScript` · Productivity — Tuiboard is a terminal dashboard that unifies markdown task boards, including kanban and daily schedules, with a view for Claude Code agent sessions, all within a TUI environment.
 
+</details>
+
 ## JavaScript
+
+<details>
+<summary>Show 179 repos</summary>
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — ⭐ 187,477 · `JavaScript` · Code — This is an agent harness system designed to optimize the performance of AI coding agents like Claude Code, Codex, and Cursor. It provides capabilities for managing agent skills, memory, instincts, and security, facilitating research-first development.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 184,116 · `JavaScript` · Code — This repository provides an agent harness system for optimizing the performance, skills, memory, and security of AI coding agents. It supports development for various tools like Claude Code, Codex, Opencode, and Cursor.
@@ -2178,7 +2193,12 @@ Tools grouped by primary language.
 - [joeseesun/qiaomu-tab](https://github.com/joeseesun/qiaomu-tab) — ⭐ 13 · `JavaScript` · Browser — A browser extension that provides a calm, local-first new tab dashboard for Chrome.
 - [daniel-farina/grok-remote](https://github.com/daniel-farina/grok-remote) — ⭐ 11 · `JavaScript` · Infrastructure — This project enables users to run 'grok agents' on a single machine and control them remotely from any device within their Tailscale network. It provides a live web user interface that interacts directly with the grok agent's standard I/O.
 
+</details>
+
 ## Rust
+
+<details>
+<summary>Show 128 repos</summary>
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) — ⭐ 90,783 · `Rust` · Code — Bun is an extremely fast, all-in-one JavaScript and TypeScript toolkit, serving as a runtime, bundler, test runner, and package manager. It provides a comprehensive and efficient environment for modern web development.
 - [zed-industries/zed](https://github.com/zed-industries/zed) — ⭐ 82,716 · `Rust` · Code — Zed is a high-performance, multiplayer code editor built by the creators of Atom, emphasizing speed and collaborative coding. Its latest release includes significant upgrades to its AI Agent capabilities for improved reliability and efficiency in code editing tasks.
@@ -2309,7 +2329,12 @@ Tools grouped by primary language.
 - [echosoar/canvas-cli](https://github.com/echosoar/canvas-cli) — ⭐ 16 · `Rust` · Image — This is a Rust CLI library that acts as a canvas API, enabling AI models that don't natively produce raw images to generate various visuals like diagrams, illustrations, and technical schematics from SVG or textual descriptions.
 - [Nonanti/narwhal](https://github.com/Nonanti/narwhal) — ⭐ 16 · `Rust` · Data — A terminal-based database client that connects to multiple SQL databases like Postgres, MySQL, and SQLite. It features a built-in Model Context Protocol (MCP) server, allowing AI assistants like Claude Desktop or Cursor to directly query database schemas.
 
+</details>
+
 ## Go
+
+<details>
+<summary>Show 124 repos</summary>
 
 - [ollama/ollama](https://github.com/ollama/ollama) — ⭐ 170,752 · `Go` · Infrastructure — Ollama is a platform designed to simplify the deployment and use of various large language models (LLMs) such as Kimi-K2.5, GLM-5, DeepSeek, and Gemma. It allows users to easily get up and running with these models.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) — ⭐ 58,770 · `Go` · Infrastructure — PocketBase is an open-source, real-time backend solution provided in a single file, offering a database, authentication, file storage, and an admin panel, making it ideal for quickly building MVPs and small applications, including backends for AI tools.
@@ -2333,6 +2358,7 @@ Tools grouped by primary language.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) — ⭐ 16,756 · `Go` · Data — Katana is a next-generation crawling and spidering framework written in Go, designed for efficient web content discovery and enumeration. It functions as a command-line tool for reconnaissance.
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — ⭐ 15,391 · `Go` · Text — WeKnora is an open-source LLM knowledge platform designed to transform raw documents into a queryable RAG system, an autonomous reasoning agent, and a self-maintaining Wiki. It enables the creation of searchable knowledge bases from diverse data sources.
 - [muesli/duf](https://github.com/muesli/duf) — ⭐ 14,997 · `Go` · Productivity — Duf is an enhanced, user-friendly command-line utility that serves as an alternative to the traditional 'df' command. It displays disk usage and free space, offering categorized insights across local, network, and special devices.
+- [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) — ⭐ 14,968 · `Go` · Productivity — BillionMail is an open-source, self-hosted email marketing platform and mail server. It enables users to create and send newsletters and promotional emails using AI-generated or drag-and-drop templates, manage contacts, and monitor campaign performance with real-time analytics for delivery, open, and click rates.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) — ⭐ 13,596 · `Go` · Security — Subfinder is a fast command-line tool for passive subdomain enumeration. It helps discover subdomains for a given target by leveraging various curated sources, primarily used in security reconnaissance and bug bounty hunting.
 - [gizak/termui](https://github.com/gizak/termui) — ⭐ 13,561 · `Go` · Productivity — This is a Go library for building terminal dashboards, allowing users to create interactive command-line interfaces with charts, gauges, and other widgets. It's designed for displaying real-time data or monitoring within a terminal.
 - [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) — ⭐ 13,272 · `Go` · Productivity — An MCP (Multi-Channel Publishing) server for Xiaohongshu.com, automating operational tasks like persistent login, rich media publishing, searching, and fetching recommendations, with AI assistant integration.
@@ -2386,6 +2412,7 @@ Tools grouped by primary language.
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) — ⭐ 961 · `Go` · Security — Agent Vault is an open-source HTTP credential proxy and vault specifically designed for AI agents. It ensures secure secrets management by injecting credentials at the network level, preventing agents from directly handling sensitive API keys.
 - [hyperion-cs/dpi-checkers](https://github.com/hyperion-cs/dpi-checkers) — ⭐ 928 · `Go` · Security — This project provides tools to test internet service providers for censorship.
 - [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) — ⭐ 827 · `Go` · Infrastructure — GoModel is a lightweight AI gateway written in Go, providing a unified OpenAI-compatible API to manage access to diverse LLM providers. It offers essential features like observability, guardrails, streaming, and cost tracking.
+- [jrswab/axe](https://github.com/jrswab/axe) — ⭐ 815 · `Go` · Code — Axe is a lightweight CLI tool for running single-purpose AI agents. It allows users to define focused agents using TOML and trigger them from various contexts such as pipes, Git hooks, cron jobs, or directly from the terminal.
 - [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) — ⭐ 813 · `Go` · Infrastructure — Netgoat is a self-hosted reverse proxy and DNS solution that functions as an open-source alternative to Cloudflare, offering features for both local and cloud environments.
 - [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library) — ⭐ 669 · `Go` · Code — This is the official library for command-line interfaces (CLIs) generated by the CLI Printing Press tool. It offers a collection of CLIs for interacting with various services and integrating AI skills, such as the Digg CLI with Claude Code Skill.
 - [floatpane/matcha](https://github.com/floatpane/matcha) — ⭐ 601 · `Go` · Productivity — Matcha is a beautiful and functional email client designed for the terminal, built with Go and the Bubble Tea TUI library. It allows users to manage their inbox and send emails directly from the command line.
@@ -2434,7 +2461,12 @@ Tools grouped by primary language.
 - [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) — ⭐ 25 · `Go` · Code — Agenttrace is a Terminal User Interface (TUI) for observing AI coding agents. It allows developers to trace and monitor aspects like cost, token usage, tool failures, latency, and overall health for agents such as Claude Code, Codex CLI, and Gemini CLI.
 - [Ithildur/Ithiltir](https://github.com/Ithildur/Ithiltir) — ⭐ 10 · `Go` · Infrastructure — Ithiltir is a self-hosted server monitoring dashboard that provides agent metrics, traffic statistics, and alerts. It includes theming options and a bundled web admin console for comprehensive server oversight.
 
+</details>
+
 ## Jupyter Notebook
+
+<details>
+<summary>Show 106 repos</summary>
 
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) — ⭐ 182,192 · `Jupyter Notebook` · Code — A 100-day curriculum to learn Python programming, designed as an educational resource for aspiring developers.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) — ⭐ 110,260 · `Jupyter Notebook` · Text — A structured course with 21 lessons for beginners to learn generative AI, covering prompting, RAG, agents, and fine-tuning.
@@ -2543,7 +2575,12 @@ Tools grouped by primary language.
 - [UKPLab/tmlr2026-manifold-analysis](https://github.com/UKPLab/tmlr2026-manifold-analysis) — ⭐ 11 · `Jupyter Notebook` · Text — This repository contains code accompanying a research paper that proposes a model-agnostic method called Hypothesis-Driven Feature Manifold Analysis (HFMA) to test geometric hypotheses about latent representations within Large Language Models (LLMs).
 - [chchenhui/fabscore](https://github.com/chchenhui/fabscore) — ⭐ 10 · `Jupyter Notebook` · Science — FabScore is a tool for fine-grained evaluation of fabrications present in AI-generated research papers, assessing their veracity and reliability.
 
+</details>
+
 ## C++
+
+<details>
+<summary>Show 96 repos</summary>
 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) — ⭐ 108,653 · `C++` · Infrastructure — llama.cpp is a C/C++ project designed for efficient inference of large language models (LLMs), optimizing runtime performance for various models including Qwen3.6.
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) — ⭐ 50,276 · `C++` · Audio — This project is a high-performance C/C++ port of OpenAI's Whisper model, optimized for efficient inference of speech recognition and speech-to-text tasks. It enables running the Whisper model on various platforms with native C/C++ speed.
@@ -2642,7 +2679,12 @@ Tools grouped by primary language.
 - [redteamfortress/PhantomKiller](https://github.com/redteamfortress/PhantomKiller) — ⭐ 11 · `C++` · Security — A BYOVD (Bring Your Own Vulnerable Driver) process killer designed to bypass all EDR (Endpoint Detection and Response) solutions, provided as a fully signed tool.
 - [ibis-ssl/crane](https://github.com/ibis-ssl/crane) — ⭐ 10 · `C++` · Infrastructure — A dynamic workflow engine designed to orchestrate complex tasks and processes, integrating with large language models like Claude. It provides a programmatic framework for users to define and manage multi-step operations.
 
+</details>
+
 ## Shell
+
+<details>
+<summary>Show 95 repos</summary>
 
 - [obra/superpowers](https://github.com/obra/superpowers) — ⭐ 178,459 · `Shell` · Code — Superpowers is an agentic skills framework and software development methodology. It provides a structured approach for building and managing AI agents, aiming to improve code quality and development efficiency.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) — ⭐ 120,414 · `Shell` · Code — Claude Code is a terminal-based agentic coding tool that understands codebases. It assists developers by automating routine tasks, explaining complex code, and managing Git workflows using natural language commands.
@@ -2740,7 +2782,12 @@ Tools grouped by primary language.
 - [radimsem/forge-skills](https://github.com/radimsem/forge-skills) — ⭐ 13 · `Shell` · Code — This repository combines various AI agentic skills into a unified workflow for fixing software issues, guiding the process from planning to deploying a solution.
 - [majiayu000/vibeguard](https://github.com/majiayu000/vibeguard) — ⭐ 10 · `Shell` · Code — A collection of native rules, hooks, and guards designed to prevent AI coding assistants like Claude Code and Codex from generating hallucinated, duplicated, or unverified code, thereby enhancing code quality and safety.
 
+</details>
+
 ## Swift
+
+<details>
+<summary>Show 78 repos</summary>
 
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) — ⭐ 17,440 · `Swift` · Code — A Ghostty-based macOS terminal application featuring vertical tabs and notifications, specifically designed to enhance the workflow for AI coding agents.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) — ⭐ 12,417 · `Swift` · Infrastructure — A macOS menu bar application that displays real-time usage statistics for OpenAI Codex and Claude Code, allowing developers to monitor their API limits without needing to log in to separate services.
@@ -2821,7 +2868,12 @@ Tools grouped by primary language.
 - [Sanyam-G/switch](https://github.com/Sanyam-G/switch) — ⭐ 11 · `Swift` · Productivity — Switch is a keyboard-driven window switcher for macOS, providing more flexible window management than the default system tool, including switching across Spaces and sorting by recent usage.
 - [b-nnett/codex-apple-watch](https://github.com/b-nnett/codex-apple-watch) — ⭐ 10 · `Swift` · Code — This project offers an Apple Watch companion application for Codex, OpenAI's desktop and CLI-based coding agent. It enables users to monitor and interact with their AI coding assistant directly from their wrist, providing convenience for a mobile workflow.
 
+</details>
+
 ## HTML
+
+<details>
+<summary>Show 72 repos</summary>
 
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) — ⭐ 50,997 · `HTML` · Code — This repository provides best practices and tactics for "agentic engineering" with Claude Code, aimed at improving its performance. It teaches users how to effectively leverage Claude for coding tasks.
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) — ⭐ 16,034 · `HTML` · Security — Zphisher is an automated command-line tool designed for phishing, offering over 30 pre-built templates for creating phishing pages. It's intended for educational purposes related to cybersecurity awareness.
@@ -2896,7 +2948,12 @@ Tools grouped by primary language.
 - [kajogo777/tutorial-agent-harness](https://github.com/kajogo777/tutorial-agent-harness) — ⭐ 12 · `HTML` · Code — This repository provides a tutorial on how to build an AI agent harness from scratch, incorporating practical lessons learned from maintaining such a system in production over a year.
 - [geekjourneyx/readme-generator](https://github.com/geekjourneyx/readme-generator) — ⭐ 11 · `HTML` · Code — This project generates professional README.md files, including infographics, SEO-optimized metadata, and structured author sections, by leveraging Playwright and AI agent skills. It simplifies the process of creating comprehensive documentation for open-source projects.
 
+</details>
+
 ## C
+
+<details>
+<summary>Show 37 repos</summary>
 
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) — ⭐ 140,358 · `C` · Other — Scrcpy is a free and open-source application that allows users to display and control their Android devices from a desktop computer, featuring screen mirroring and recording capabilities.
 - [netdata/netdata](https://github.com/netdata/netdata) — ⭐ 78,964 · `C` · Infrastructure — Netdata is an AI-powered, open-source monitoring system that provides full-stack observability for servers, applications, and infrastructure. It offers real-time performance monitoring, intelligent alerting, and data visualization to help teams quickly identify and troubleshoot issues across their systems.
@@ -2936,7 +2993,12 @@ Tools grouped by primary language.
 - [AmmarkoV/SAM3DBody-cpp](https://github.com/AmmarkoV/SAM3DBody-cpp) — ⭐ 51 · `C` · Video — This is a pure C++ runtime for real-time 3D full-body reconstruction and multi-person motion capture from a single camera. It provides a 70-joint skeleton output, including hands, in BVH format.
 - [MWR-CyberSec/VeeamDumper-BOF](https://github.com/MWR-CyberSec/VeeamDumper-BOF) — ⭐ 35 · `C` · Security — This repository contains a Beacon Object File (BOF) designed for extracting credentials from Veeam Backup and Replication and Veeam One software, serving as a specialized cybersecurity tool for credential harvesting.
 
+</details>
+
 ## C#
+
+<details>
+<summary>Show 31 repos</summary>
 
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) — ⭐ 18,975 · `C#` · Finance — Lean is an algorithmic trading engine by QuantConnect, used by hedge funds to backtest strategies with historical data and deploy them to brokers like Interactive Brokers or Alpaca. It supports development in Python and C#.
 - [bitwarden/server](https://github.com/bitwarden/server) — ⭐ 18,576 · `C#` · Productivity — This is the server-side infrastructure and backend for Bitwarden, an open-source password manager application, handling APIs, database, and Docker deployments.
@@ -2970,7 +3032,12 @@ Tools grouped by primary language.
 - [marco-beltrame/WinLens](https://github.com/marco-beltrame/WinLens) — ⭐ 16 · `C#` · Text — WinLens is a Windows desktop application that provides real-time, in-place translation of any on-screen text. It works by capturing a screenshot, performing OCR, and overlaying the translated text directly onto the original content, similar to Google Lens.
 - [4kk11/RhinoMCPServer](https://github.com/4kk11/RhinoMCPServer) — ⭐ 10 · `C#` · Other — This project proposes an MCP server design with a plugin architecture, likely within the Rhino environment. It aims to provide a unified core framework for developing and distributing community-contributed tools.
 
+</details>
+
 ## Java
+
+<details>
+<summary>Show 28 repos</summary>
 
 - [kdn251/interviews](https://github.com/kdn251/interviews) — ⭐ 64,944 · `Java` · Code — This comprehensive repository serves as an ultimate cheat sheet and tutorial for coding interviews, offering data structures, algorithms, and over a hundred LeetCode solutions in Java.
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) — ⭐ 25,564 · `Java` · Data — This is an AI-driven SQL client and database tool that supports over 16 different databases and can generate SQL queries using AI.
@@ -3001,7 +3068,12 @@ Tools grouped by primary language.
 - [SandraAhlgrimm/ai-nutrition-planner](https://github.com/SandraAhlgrimm/ai-nutrition-planner) — ⭐ 24 · `Java` · Code — This project provides agentic implementations for Java AI frameworks like LangChain4j, SpringAI, and Embabel. It aims to compare these different agentic AI frameworks, potentially for applications such as an AI nutrition planner.
 - [dimster-hq/dimster](https://github.com/dimster-hq/dimster) — ⭐ 12 · `Java` · Other — Information about this repository is unavailable. It is classified as an 'Other' type.
 
+</details>
+
 ## Kotlin
+
+<details>
+<summary>Show 17 repos</summary>
 
 - [plainhub/plain-app](https://github.com/plainhub/plain-app) — ⭐ 4,837 · `Kotlin` · Productivity — PlainApp is an open-source Android application that allows users to securely manage their phone's files, media, contacts, SMS, and calls from a web browser interface on their desktop.
 - [shiahonb777/web-to-app](https://github.com/shiahonb777/web-to-app) — ⭐ 3,192 · `Kotlin` · Browser — This is a native Android application that enables users to convert any website URL into a standalone Android application, effectively wrapping web content in a native app container.
@@ -3021,7 +3093,12 @@ Tools grouped by primary language.
 - [ahatem/QTranslate](https://github.com/ahatem/QTranslate) — ⭐ 60 · `Kotlin` · Text — QTranslate is a fast and extensible desktop translation suite offering features like translation, OCR, text-to-speech, and spell checking, powered by a plugin system.
 - [Core-Mate/OpenGUI](https://github.com/Core-Mate/OpenGUI) — ⭐ 46 · `Kotlin` · Productivity — OpenGUI is an open-source AI mobile operator that automates Android applications, allowing AI to directly control phone-based workflows for tasks like social media, research, and content operations. It functions as an agentic AI system for mobile automation, enabling long-running tasks on real Android devices.
 
+</details>
+
 ## Svelte
+
+<details>
+<summary>Show 12 repos</summary>
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) — ⭐ 40,874 · `Svelte` · Other — daisyUI is a popular, free, and open-source component library built for Tailwind CSS, providing pre-designed UI elements to accelerate web development.
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) — ⭐ 4,725 · `Svelte` · Productivity — This is an open-source desktop application designed for studying online courses and books, offering features like watching online courses with timestamped notes, spaced repetition flashcards, reading PDFs/EPUBs with highlights, and a focus timer. It also includes integrated video downloading capabilities for platforms like YouTube, Instagram, TikTok, and torrents.
@@ -3036,7 +3113,12 @@ Tools grouped by primary language.
 - [ansxuman/Clauge](https://github.com/ansxuman/Clauge) — ⭐ 158 · `Svelte` · Code — This is a desktop application that integrates various developer tools, including programming AI agents, API clients, SQL/NoSQL editors, SSH terminals, and project management boards. It aims to provide a unified environment to streamline developer workflows and reduce context switching.
 - [Razz19/Exort](https://github.com/Razz19/Exort) — ⭐ 88 · `Svelte` · Code — Exort is an Electron desktop application that provides an integrated AI coding agent for embedded device development. It helps users write, compile, and flash code for microcontrollers like Arduino, ESP32, and RP2040, and includes features for serial log viewing and waveform plotting.
 
+</details>
+
 ## Dart
+
+<details>
+<summary>Show 11 repos</summary>
 
 - [localsend/localsend](https://github.com/localsend/localsend) — ⭐ 82,203 · `Dart` · Productivity — This repo provides an open-source, cross-platform file sharing application similar to AirDrop, enabling direct transfer of files between various devices without needing cloud services or registration.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) — ⭐ 70,834 · `Dart` · Productivity — AppFlowy is an open-source, AI-powered collaborative workspace designed to manage projects, wikis, and teams. It serves as a self-hosted alternative to Notion, enabling users to achieve more while maintaining data control.
@@ -3050,7 +3132,12 @@ Tools grouped by primary language.
 - [RareSense/Nova3D](https://github.com/RareSense/Nova3D) — ⭐ 153 · `Dart` · 3D — An open-source client for Nova3D, allowing editable and part-aware 3D generation from text prompts or reference images. It generates Blender Python scripts rather than static mesh files, enabling individual editing of 3D model components.
 - [theoden8/webspace\_app](https://github.com/theoden8/webspace_app) — ⭐ 102 · `Dart` · Browser — This application allows users to organize web applications and websites into structured mobile webspaces. It leverages webviews to deliver a native-like experience for web content on phones.
 
+</details>
+
 ## PowerShell
+
+<details>
+<summary>Show 11 repos</summary>
 
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) — ⭐ 11,726 · `PowerShell` · Security — A PowerShell script designed to forcibly remove Microsoft Copilot, Recall, and other AI-related features and bloatware from Windows 11. It aims to enhance privacy and optimize the operating system by debloating AI components.
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) — ⭐ 7,591 · `PowerShell` · Other — Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
@@ -3063,6 +3150,8 @@ Tools grouped by primary language.
 - [anysearch-ai/anysearch-skill](https://github.com/anysearch-ai/anysearch-skill) — ⭐ 162 · `PowerShell` · Text — A skill pack that provides AI agents with a unified, real-time search engine, supporting multiple query modes and 23 vertical domains. It allows agents to integrate and leverage AnySearch's API for both general and specialized information retrieval.
 - [PrismML-Eng/Bonsai-Image-Demo](https://github.com/PrismML-Eng/Bonsai-Image-Demo) — ⭐ 109 · `PowerShell` · Image — This repository provides a demonstration for image-related models, allowing users to clone the project, download necessary models, and then test them out.
 - [lyehe/build\_gpu\_colmap](https://github.com/lyehe/build_gpu_colmap) — ⭐ 61 · `PowerShell` · 3D — This repository provides build scripts and a prebuilt Caspar GPU solver to enable GPU acceleration for COLMAP and pycolmap, aiming to significantly speed up 3D reconstruction and mapping tasks.
+
+</details>
 
 ## PHP
 
@@ -3261,6 +3350,9 @@ Tools grouped by primary language.
 
 ## Unknown
 
+<details>
+<summary>Show 168 repos</summary>
+
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — ⭐ 137,041 · Code — This repository collects and documents system prompts, internal tools, and AI models from popular AI-powered development environments like GitHub Copilot and Cursor. It provides insights into the underlying mechanisms of various AI coding assistants.
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) — ⭐ 112,029 · Code — This repository offers a CLAUDE.md file with rules and guidelines to improve code generation quality for LLMs like Claude Code. It aims to guide AI agents to write more thoughtful and concise code, addressing common LLM coding pitfalls.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) — ⭐ 79,034 · Text — A comprehensive course with roadmaps and Colab notebooks for learning about Large Language Models (LLMs), guiding users to understand and work with them.
@@ -3429,3 +3521,5 @@ Tools grouped by primary language.
 - [zjunlp/MemTrace](https://github.com/zjunlp/MemTrace) — ⭐ 11 · Code — MemTrace is a tool designed for tracing and attributing errors within large language model (LLM) memory systems. It aims to make debugging memory-augmented AI agents more transparent by identifying when and where errors occur in the memory lifecycle.
 - [wingXIII/video-subtitle-master-](https://github.com/wingXIII/video-subtitle-master-) — ⭐ 11 · Audio — A cross-platform client tool that automatically generates subtitles for videos and audio files, and can also batch translate these subtitles into multiple languages. It supports various translation services including OpenAI, DeepSeek, and Ollama.
 - [Gabson0x/bountyforge](https://github.com/Gabson0x/bountyforge) — ⭐ 10 · Security — Bountyforge is an all-in-one bug bounty solution that uses Claude Code parallelized agents for comprehensive security audits. It covers smart contract auditing across multiple blockchains (EVM, Move, Solana, TRON) and general web/API security, generating reports ready for major bug bounty platforms.
+
+</details>
