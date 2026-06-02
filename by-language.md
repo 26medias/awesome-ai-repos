@@ -6,61 +6,61 @@
 
 [↑ Back to index](README.md)
 
-- [Python](#python) — 1321
-- [TypeScript](#typescript) — 609
-- [JavaScript](#javascript) — 179
-- [Rust](#rust) — 128
-- [Go](#go) — 124
-- [Jupyter Notebook](#jupyter-notebook) — 106
-- [C++](#c) — 96
-- [Shell](#shell) — 95
-- [Swift](#swift) — 78
-- [HTML](#html) — 72
-- [C](#c-1) — 37
-- [C#](#c-2) — 31
-- [Java](#java) — 28
-- [Kotlin](#kotlin) — 17
-- [Svelte](#svelte) — 12
-- [Dart](#dart) — 11
-- [PowerShell](#powershell) — 11
-- [PHP](#php) — 8
-- [Cuda](#cuda) — 7
-- [TeX](#tex) — 7
-- [Vue](#vue) — 7
-- [CSS](#css) — 6
-- [Zig](#zig) — 6
-- [Elixir](#elixir) — 3
-- [MDX](#mdx) — 3
-- [Objective-C](#objective-c) — 3
-- [Dockerfile](#dockerfile) — 2
-- [Haskell](#haskell) — 2
-- [Lean](#lean) — 2
-- [Makefile](#makefile) — 2
-- [MATLAB](#matlab) — 2
-- [Ruby](#ruby) — 2
-- [Assembly](#assembly) — 1
-- [Astro](#astro) — 1
-- [Batchfile](#batchfile) — 1
-- [Bru](#bru) — 1
-- [Clojure](#clojure) — 1
-- [Eagle](#eagle) — 1
-- [GLSL](#glsl) — 1
-- [Jinja](#jinja) — 1
-- [Lua](#lua) — 1
-- [Markdown](#markdown) — 1
-- [Mojo](#mojo) — 1
-- [PDDL](#pddl) — 1
-- [PLpgSQL](#plpgsql) — 1
-- [PLSQL](#plsql) — 1
-- [QML](#qml) — 1
-- [ReScript](#rescript) — 1
-- [Scilab](#scilab) — 1
-- [SCSS](#scss) — 1
-- [Solidity](#solidity) — 1
-- [SystemVerilog](#systemverilog) — 1
-- [Typst](#typst) — 1
-- [Vim Script](#vim-script) — 1
-- [Unknown](#unknown) — 168
+- [Python](#python) <kbd>1321</kbd>
+- [TypeScript](#typescript) <kbd>609</kbd>
+- [JavaScript](#javascript) <kbd>179</kbd>
+- [Rust](#rust) <kbd>128</kbd>
+- [Go](#go) <kbd>124</kbd>
+- [Jupyter Notebook](#jupyter-notebook) <kbd>106</kbd>
+- [C++](#c) <kbd>96</kbd>
+- [Shell](#shell) <kbd>95</kbd>
+- [Swift](#swift) <kbd>78</kbd>
+- [HTML](#html) <kbd>72</kbd>
+- [C](#c-1) <kbd>37</kbd>
+- [C#](#c-2) <kbd>31</kbd>
+- [Java](#java) <kbd>28</kbd>
+- [Kotlin](#kotlin) <kbd>17</kbd>
+- [Svelte](#svelte) <kbd>12</kbd>
+- [Dart](#dart) <kbd>11</kbd>
+- [PowerShell](#powershell) <kbd>11</kbd>
+- [PHP](#php) <kbd>8</kbd>
+- [Cuda](#cuda) <kbd>7</kbd>
+- [TeX](#tex) <kbd>7</kbd>
+- [Vue](#vue) <kbd>7</kbd>
+- [CSS](#css) <kbd>6</kbd>
+- [Zig](#zig) <kbd>6</kbd>
+- [Elixir](#elixir) <kbd>3</kbd>
+- [MDX](#mdx) <kbd>3</kbd>
+- [Objective-C](#objective-c) <kbd>3</kbd>
+- [Dockerfile](#dockerfile) <kbd>2</kbd>
+- [Haskell](#haskell) <kbd>2</kbd>
+- [Lean](#lean) <kbd>2</kbd>
+- [Makefile](#makefile) <kbd>2</kbd>
+- [MATLAB](#matlab) <kbd>2</kbd>
+- [Ruby](#ruby) <kbd>2</kbd>
+- [Assembly](#assembly) <kbd>1</kbd>
+- [Astro](#astro) <kbd>1</kbd>
+- [Batchfile](#batchfile) <kbd>1</kbd>
+- [Bru](#bru) <kbd>1</kbd>
+- [Clojure](#clojure) <kbd>1</kbd>
+- [Eagle](#eagle) <kbd>1</kbd>
+- [GLSL](#glsl) <kbd>1</kbd>
+- [Jinja](#jinja) <kbd>1</kbd>
+- [Lua](#lua) <kbd>1</kbd>
+- [Markdown](#markdown) <kbd>1</kbd>
+- [Mojo](#mojo) <kbd>1</kbd>
+- [PDDL](#pddl) <kbd>1</kbd>
+- [PLpgSQL](#plpgsql) <kbd>1</kbd>
+- [PLSQL](#plsql) <kbd>1</kbd>
+- [QML](#qml) <kbd>1</kbd>
+- [ReScript](#rescript) <kbd>1</kbd>
+- [Scilab](#scilab) <kbd>1</kbd>
+- [SCSS](#scss) <kbd>1</kbd>
+- [Solidity](#solidity) <kbd>1</kbd>
+- [SystemVerilog](#systemverilog) <kbd>1</kbd>
+- [Typst](#typst) <kbd>1</kbd>
+- [Vim Script](#vim-script) <kbd>1</kbd>
+- [Unknown](#unknown) <kbd>168</kbd>
 
 ## Python
 

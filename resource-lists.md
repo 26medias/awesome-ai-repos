@@ -6,23 +6,23 @@
 
 [↑ Back to index](README.md)
 
-- [Video](#video) — 3
-- [Image](#image) — 12
-- [Audio](#audio) — 5
-- [Text](#text) — 35
-- [Code](#code) — 48
-- [Browser](#browser) — 2
-- [Robotics](#robotics) — 9
-- [3D](#3d) — 6
-- [Data](#data) — 5
-- [Training](#training) — 12
-- [Infrastructure](#infrastructure) — 8
-- [Multimodal](#multimodal) — 5
-- [Security](#security) — 31
-- [Productivity](#productivity) — 19
-- [Finance](#finance) — 11
-- [Science](#science) — 22
-- [Other](#other) — 39
+- [Video](#video) <kbd>3</kbd>
+- [Image](#image) <kbd>12</kbd>
+- [Audio](#audio) <kbd>5</kbd>
+- [Text](#text) <kbd>35</kbd>
+- [Code](#code) <kbd>48</kbd>
+- [Browser](#browser) <kbd>2</kbd>
+- [Robotics](#robotics) <kbd>9</kbd>
+- [3D](#3d) <kbd>6</kbd>
+- [Data](#data) <kbd>5</kbd>
+- [Training](#training) <kbd>12</kbd>
+- [Infrastructure](#infrastructure) <kbd>8</kbd>
+- [Multimodal](#multimodal) <kbd>5</kbd>
+- [Security](#security) <kbd>31</kbd>
+- [Productivity](#productivity) <kbd>19</kbd>
+- [Finance](#finance) <kbd>11</kbd>
+- [Science](#science) <kbd>22</kbd>
+- [Other](#other) <kbd>39</kbd>
 
 ## Video
 

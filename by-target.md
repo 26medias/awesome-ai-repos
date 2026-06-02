@@ -6,16 +6,16 @@
 
 [↑ Back to index](README.md)
 
-- [Generic LLM](#generic-llm) — 776
-- [Claude Code](#claude-code) — 468
-- [Codex CLI](#codex-cli) — 205
-- [Anthropic API](#anthropic-api) — 181
-- [OpenAI API](#openai-api) — 164
-- [Cursor](#cursor) — 110
-- [Gemini CLI](#gemini-cli) — 96
-- [Claude.ai](#claudeai) — 49
-- [GitHub Copilot](#github-copilot) — 44
-- [ChatGPT](#chatgpt) — 38
+- [Generic LLM](#generic-llm) <kbd>776</kbd>
+- [Claude Code](#claude-code) <kbd>468</kbd>
+- [Codex CLI](#codex-cli) <kbd>205</kbd>
+- [Anthropic API](#anthropic-api) <kbd>181</kbd>
+- [OpenAI API](#openai-api) <kbd>164</kbd>
+- [Cursor](#cursor) <kbd>110</kbd>
+- [Gemini CLI](#gemini-cli) <kbd>96</kbd>
+- [Claude.ai](#claudeai) <kbd>49</kbd>
+- [GitHub Copilot](#github-copilot) <kbd>44</kbd>
+- [ChatGPT](#chatgpt) <kbd>38</kbd>
 
 ## Generic LLM
 

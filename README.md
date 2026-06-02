@@ -26,185 +26,185 @@ Bookmark it. The frontier won't wait, and neither does this list.
 
 ## Browse by Domain
 
-- 🎬 [Video](domains/video.md) — 137
-- 🖼️ [Image](domains/image.md) — 113
-- 🎧 [Audio](domains/audio.md) — 115
-- 📝 [Text](domains/text.md) — 266
-- 💻 [Code](domains/code.md) — 666
-- 🌐 [Browser](domains/browser.md) — 87
-- 🤖 [Robotics](domains/robotics.md) — 154
-- 🧊 [3D](domains/3d.md) — 120
-- 🗂️ [Data](domains/data.md) — 70
-- 🏋️ [Training](domains/training.md) — 123
-- 🧠 [Models](domains/models.md) — 13
-- ⚙️ [Infrastructure](domains/infrastructure.md) — 288
-- 👁️ [Multimodal](domains/multimodal.md) — 130
-- 🛡️ [Security](domains/security.md) — 201
-- ⚡ [Productivity](domains/productivity.md) — 367
-- 💸 [Finance](domains/finance.md) — 111
-- 🔬 [Science](domains/science.md) — 82
-- 🎮 [Gaming](domains/gaming.md) — 40
-- 🧩 [Other](domains/other.md) — 124
+- 🎬 [Video](domains/video.md) <kbd>137</kbd>
+- 🖼️ [Image](domains/image.md) <kbd>113</kbd>
+- 🎧 [Audio](domains/audio.md) <kbd>115</kbd>
+- 📝 [Text](domains/text.md) <kbd>266</kbd>
+- 💻 [Code](domains/code.md) <kbd>666</kbd>
+- 🌐 [Browser](domains/browser.md) <kbd>87</kbd>
+- 🤖 [Robotics](domains/robotics.md) <kbd>154</kbd>
+- 🧊 [3D](domains/3d.md) <kbd>120</kbd>
+- 🗂️ [Data](domains/data.md) <kbd>70</kbd>
+- 🏋️ [Training](domains/training.md) <kbd>123</kbd>
+- 🧠 [Models](domains/models.md) <kbd>13</kbd>
+- ⚙️ [Infrastructure](domains/infrastructure.md) <kbd>288</kbd>
+- 👁️ [Multimodal](domains/multimodal.md) <kbd>130</kbd>
+- 🛡️ [Security](domains/security.md) <kbd>201</kbd>
+- ⚡ [Productivity](domains/productivity.md) <kbd>367</kbd>
+- 💸 [Finance](domains/finance.md) <kbd>111</kbd>
+- 🔬 [Science](domains/science.md) <kbd>82</kbd>
+- 🎮 [Gaming](domains/gaming.md) <kbd>40</kbd>
+- 🧩 [Other](domains/other.md) <kbd>124</kbd>
 
 ## Browse by Subdomain
 
 - **Video**
-  - [Editor](domains/video.md#editor) — 27
-  - [Generation](domains/video.md#generation) — 54
-  - [Motion Capture](domains/video.md#motion-capture) — 5
-  - [Streaming](domains/video.md#streaming) — 5
-  - [Analysis](domains/video.md#analysis) — 13
-  - [VFX](domains/video.md#vfx) — 8
-  - [Avatar/Talking Head](domains/video.md#avatartalking-head) — 13
-  - [Other](domains/video.md#other) — 12
+  - [Editor](domains/video.md#editor) <kbd>27</kbd>
+  - [Generation](domains/video.md#generation) <kbd>54</kbd>
+  - [Motion Capture](domains/video.md#motion-capture) <kbd>5</kbd>
+  - [Streaming](domains/video.md#streaming) <kbd>5</kbd>
+  - [Analysis](domains/video.md#analysis) <kbd>13</kbd>
+  - [VFX](domains/video.md#vfx) <kbd>8</kbd>
+  - [Avatar/Talking Head](domains/video.md#avatartalking-head) <kbd>13</kbd>
+  - [Other](domains/video.md#other) <kbd>12</kbd>
 - **Image**
-  - [Generation](domains/image.md#generation) — 35
-  - [Editing](domains/image.md#editing) — 17
-  - [Restoration](domains/image.md#restoration) — 6
-  - [Segmentation](domains/image.md#segmentation) — 8
-  - [Style Transfer](domains/image.md#style-transfer) — 1
-  - [Diffusion Tools](domains/image.md#diffusion-tools) — 24
-  - [Other](domains/image.md#other) — 22
+  - [Generation](domains/image.md#generation) <kbd>35</kbd>
+  - [Editing](domains/image.md#editing) <kbd>17</kbd>
+  - [Restoration](domains/image.md#restoration) <kbd>6</kbd>
+  - [Segmentation](domains/image.md#segmentation) <kbd>8</kbd>
+  - [Style Transfer](domains/image.md#style-transfer) <kbd>1</kbd>
+  - [Diffusion Tools](domains/image.md#diffusion-tools) <kbd>24</kbd>
+  - [Other](domains/image.md#other) <kbd>22</kbd>
 - **Audio**
-  - [Speech](domains/audio.md#speech) — 50
-  - [Music](domains/audio.md#music) — 12
-  - [Voice Cloning](domains/audio.md#voice-cloning) — 8
-  - [Source Separation](domains/audio.md#source-separation) — 2
-  - [Effects](domains/audio.md#effects) — 1
-  - [Transcription](domains/audio.md#transcription) — 31
-  - [Other](domains/audio.md#other) — 11
+  - [Speech](domains/audio.md#speech) <kbd>50</kbd>
+  - [Music](domains/audio.md#music) <kbd>12</kbd>
+  - [Voice Cloning](domains/audio.md#voice-cloning) <kbd>8</kbd>
+  - [Source Separation](domains/audio.md#source-separation) <kbd>2</kbd>
+  - [Effects](domains/audio.md#effects) <kbd>1</kbd>
+  - [Transcription](domains/audio.md#transcription) <kbd>31</kbd>
+  - [Other](domains/audio.md#other) <kbd>11</kbd>
 - **Text**
-  - [LLM Core](domains/text.md#llm-core) — 57
-  - [RAG](domains/text.md#rag) — 67
-  - [Translation](domains/text.md#translation) — 14
-  - [Summarization](domains/text.md#summarization) — 9
-  - [Search](domains/text.md#search) — 16
-  - [Embeddings](domains/text.md#embeddings) — 2
-  - [NLP Tools](domains/text.md#nlp-tools) — 34
-  - [Prompt Engineering](domains/text.md#prompt-engineering) — 45
-  - [Other](domains/text.md#other) — 22
+  - [LLM Core](domains/text.md#llm-core) <kbd>57</kbd>
+  - [RAG](domains/text.md#rag) <kbd>67</kbd>
+  - [Translation](domains/text.md#translation) <kbd>14</kbd>
+  - [Summarization](domains/text.md#summarization) <kbd>9</kbd>
+  - [Search](domains/text.md#search) <kbd>16</kbd>
+  - [Embeddings](domains/text.md#embeddings) <kbd>2</kbd>
+  - [NLP Tools](domains/text.md#nlp-tools) <kbd>34</kbd>
+  - [Prompt Engineering](domains/text.md#prompt-engineering) <kbd>45</kbd>
+  - [Other](domains/text.md#other) <kbd>22</kbd>
 - **Code**
-  - [Generation](domains/code.md#generation) — 59
-  - [Review](domains/code.md#review) — 25
-  - [Completion](domains/code.md#completion) — 4
-  - [Refactoring](domains/code.md#refactoring) — 2
-  - [IDE Plugin](domains/code.md#ide-plugin) — 27
-  - [CLI Coding Agent](domains/code.md#cli-coding-agent) — 68
-  - [Coding Agent Framework](domains/code.md#coding-agent-framework) — 312
-  - [Documentation](domains/code.md#documentation) — 24
-  - [Testing](domains/code.md#testing) — 15
-  - [Debugging](domains/code.md#debugging) — 10
-  - [Other](domains/code.md#other) — 120
+  - [Generation](domains/code.md#generation) <kbd>59</kbd>
+  - [Review](domains/code.md#review) <kbd>25</kbd>
+  - [Completion](domains/code.md#completion) <kbd>4</kbd>
+  - [Refactoring](domains/code.md#refactoring) <kbd>2</kbd>
+  - [IDE Plugin](domains/code.md#ide-plugin) <kbd>27</kbd>
+  - [CLI Coding Agent](domains/code.md#cli-coding-agent) <kbd>68</kbd>
+  - [Coding Agent Framework](domains/code.md#coding-agent-framework) <kbd>312</kbd>
+  - [Documentation](domains/code.md#documentation) <kbd>24</kbd>
+  - [Testing](domains/code.md#testing) <kbd>15</kbd>
+  - [Debugging](domains/code.md#debugging) <kbd>10</kbd>
+  - [Other](domains/code.md#other) <kbd>120</kbd>
 - **Browser**
-  - [Automation](domains/browser.md#automation) — 21
-  - [Scraping](domains/browser.md#scraping) — 18
-  - [Extension](domains/browser.md#extension) — 8
-  - [Web Agent](domains/browser.md#web-agent) — 29
-  - [Anti-detect](domains/browser.md#anti-detect) — 5
-  - [Other](domains/browser.md#other) — 6
+  - [Automation](domains/browser.md#automation) <kbd>21</kbd>
+  - [Scraping](domains/browser.md#scraping) <kbd>18</kbd>
+  - [Extension](domains/browser.md#extension) <kbd>8</kbd>
+  - [Web Agent](domains/browser.md#web-agent) <kbd>29</kbd>
+  - [Anti-detect](domains/browser.md#anti-detect) <kbd>5</kbd>
+  - [Other](domains/browser.md#other) <kbd>6</kbd>
 - **Robotics**
-  - [VLA Models](domains/robotics.md#vla-models) — 16
-  - [Simulation](domains/robotics.md#simulation) — 28
-  - [Control](domains/robotics.md#control) — 42
-  - [Manipulation](domains/robotics.md#manipulation) — 21
-  - [Locomotion](domains/robotics.md#locomotion) — 12
-  - [Other](domains/robotics.md#other) — 35
+  - [VLA Models](domains/robotics.md#vla-models) <kbd>16</kbd>
+  - [Simulation](domains/robotics.md#simulation) <kbd>28</kbd>
+  - [Control](domains/robotics.md#control) <kbd>42</kbd>
+  - [Manipulation](domains/robotics.md#manipulation) <kbd>21</kbd>
+  - [Locomotion](domains/robotics.md#locomotion) <kbd>12</kbd>
+  - [Other](domains/robotics.md#other) <kbd>35</kbd>
 - **3D**
-  - [Mesh Generation](domains/3d.md#mesh-generation) — 41
-  - [NeRF/Gaussian Splatting](domains/3d.md#nerfgaussian-splatting) — 21
-  - [Scene Understanding](domains/3d.md#scene-understanding) — 29
-  - [Modeling Tools](domains/3d.md#modeling-tools) — 13
-  - [Rendering](domains/3d.md#rendering) — 11
-  - [Other](domains/3d.md#other) — 5
+  - [Mesh Generation](domains/3d.md#mesh-generation) <kbd>41</kbd>
+  - [NeRF/Gaussian Splatting](domains/3d.md#nerfgaussian-splatting) <kbd>21</kbd>
+  - [Scene Understanding](domains/3d.md#scene-understanding) <kbd>29</kbd>
+  - [Modeling Tools](domains/3d.md#modeling-tools) <kbd>13</kbd>
+  - [Rendering](domains/3d.md#rendering) <kbd>11</kbd>
+  - [Other](domains/3d.md#other) <kbd>5</kbd>
 - **Data**
-  - [ETL/Pipelines](domains/data.md#etlpipelines) — 17
-  - [Synthetic Data](domains/data.md#synthetic-data) — 4
-  - [Annotation](domains/data.md#annotation) — 3
-  - [Quality/Validation](domains/data.md#qualityvalidation) — 4
-  - [Web Crawling](domains/data.md#web-crawling) — 15
-  - [Other](domains/data.md#other) — 27
+  - [ETL/Pipelines](domains/data.md#etlpipelines) <kbd>17</kbd>
+  - [Synthetic Data](domains/data.md#synthetic-data) <kbd>4</kbd>
+  - [Annotation](domains/data.md#annotation) <kbd>3</kbd>
+  - [Quality/Validation](domains/data.md#qualityvalidation) <kbd>4</kbd>
+  - [Web Crawling](domains/data.md#web-crawling) <kbd>15</kbd>
+  - [Other](domains/data.md#other) <kbd>27</kbd>
 - **Training**
-  - [Fine-tuning](domains/training.md#fine-tuning) — 12
-  - [RL/RLHF](domains/training.md#rlrlhf) — 37
-  - [Distributed Training](domains/training.md#distributed-training) — 4
-  - [Distillation](domains/training.md#distillation) — 7
-  - [Quantization](domains/training.md#quantization) — 10
-  - [Pretraining](domains/training.md#pretraining) — 4
-  - [Other](domains/training.md#other) — 49
+  - [Fine-tuning](domains/training.md#fine-tuning) <kbd>12</kbd>
+  - [RL/RLHF](domains/training.md#rlrlhf) <kbd>37</kbd>
+  - [Distributed Training](domains/training.md#distributed-training) <kbd>4</kbd>
+  - [Distillation](domains/training.md#distillation) <kbd>7</kbd>
+  - [Quantization](domains/training.md#quantization) <kbd>10</kbd>
+  - [Pretraining](domains/training.md#pretraining) <kbd>4</kbd>
+  - [Other](domains/training.md#other) <kbd>49</kbd>
 - **Models**
-  - [LLM Weights](domains/models.md#llm-weights) — 7
-  - [Specialized Models](domains/models.md#specialized-models) — 5
-  - [Other](domains/models.md#other) — 1
+  - [LLM Weights](domains/models.md#llm-weights) <kbd>7</kbd>
+  - [Specialized Models](domains/models.md#specialized-models) <kbd>5</kbd>
+  - [Other](domains/models.md#other) <kbd>1</kbd>
 - **Infrastructure**
-  - [Inference Server](domains/infrastructure.md#inference-server) — 56
-  - [GPU/Hardware](domains/infrastructure.md#gpuhardware) — 27
-  - [Vector DB](domains/infrastructure.md#vector-db) — 12
-  - [Model Routing](domains/infrastructure.md#model-routing) — 29
-  - [Observability](domains/infrastructure.md#observability) — 37
-  - [Cost Optimization](domains/infrastructure.md#cost-optimization) — 16
-  - [Other](domains/infrastructure.md#other) — 111
+  - [Inference Server](domains/infrastructure.md#inference-server) <kbd>56</kbd>
+  - [GPU/Hardware](domains/infrastructure.md#gpuhardware) <kbd>27</kbd>
+  - [Vector DB](domains/infrastructure.md#vector-db) <kbd>12</kbd>
+  - [Model Routing](domains/infrastructure.md#model-routing) <kbd>29</kbd>
+  - [Observability](domains/infrastructure.md#observability) <kbd>37</kbd>
+  - [Cost Optimization](domains/infrastructure.md#cost-optimization) <kbd>16</kbd>
+  - [Other](domains/infrastructure.md#other) <kbd>111</kbd>
 - **Multimodal**
-  - [VLM](domains/multimodal.md#vlm) — 29
-  - [World Models](domains/multimodal.md#world-models) — 16
-  - [Document Understanding](domains/multimodal.md#document-understanding) — 23
-  - [Multimodal Generation](domains/multimodal.md#multimodal-generation) — 46
-  - [Other](domains/multimodal.md#other) — 16
+  - [VLM](domains/multimodal.md#vlm) <kbd>29</kbd>
+  - [World Models](domains/multimodal.md#world-models) <kbd>16</kbd>
+  - [Document Understanding](domains/multimodal.md#document-understanding) <kbd>23</kbd>
+  - [Multimodal Generation](domains/multimodal.md#multimodal-generation) <kbd>46</kbd>
+  - [Other](domains/multimodal.md#other) <kbd>16</kbd>
 - **Security**
-  - [Red Team](domains/security.md#red-team) — 94
-  - [Blue Team](domains/security.md#blue-team) — 35
-  - [AI Safety/Jailbreaks](domains/security.md#ai-safetyjailbreaks) — 22
-  - [Bug Bounty](domains/security.md#bug-bounty) — 5
-  - [Forensics](domains/security.md#forensics) — 7
-  - [Privacy](domains/security.md#privacy) — 24
-  - [Other](domains/security.md#other) — 14
+  - [Red Team](domains/security.md#red-team) <kbd>94</kbd>
+  - [Blue Team](domains/security.md#blue-team) <kbd>35</kbd>
+  - [AI Safety/Jailbreaks](domains/security.md#ai-safetyjailbreaks) <kbd>22</kbd>
+  - [Bug Bounty](domains/security.md#bug-bounty) <kbd>5</kbd>
+  - [Forensics](domains/security.md#forensics) <kbd>7</kbd>
+  - [Privacy](domains/security.md#privacy) <kbd>24</kbd>
+  - [Other](domains/security.md#other) <kbd>14</kbd>
 - **Productivity**
-  - [Notes](domains/productivity.md#notes) — 28
-  - [Tasks](domains/productivity.md#tasks) — 9
-  - [Email/Calendar](domains/productivity.md#emailcalendar) — 7
-  - [Writing](domains/productivity.md#writing) — 43
-  - [Personal Assistant](domains/productivity.md#personal-assistant) — 104
-  - [Files](domains/productivity.md#files) — 23
-  - [Communication](domains/productivity.md#communication) — 16
-  - [Other](domains/productivity.md#other) — 137
+  - [Notes](domains/productivity.md#notes) <kbd>28</kbd>
+  - [Tasks](domains/productivity.md#tasks) <kbd>9</kbd>
+  - [Email/Calendar](domains/productivity.md#emailcalendar) <kbd>7</kbd>
+  - [Writing](domains/productivity.md#writing) <kbd>43</kbd>
+  - [Personal Assistant](domains/productivity.md#personal-assistant) <kbd>104</kbd>
+  - [Files](domains/productivity.md#files) <kbd>23</kbd>
+  - [Communication](domains/productivity.md#communication) <kbd>16</kbd>
+  - [Other](domains/productivity.md#other) <kbd>137</kbd>
 - **Finance**
-  - [Algorithmic Trading](domains/finance.md#algorithmic-trading) — 65
-  - [Quant Research](domains/finance.md#quant-research) — 6
-  - [DeFi](domains/finance.md#defi) — 2
-  - [Analysis/Reporting](domains/finance.md#analysisreporting) — 36
-  - [Other](domains/finance.md#other) — 2
+  - [Algorithmic Trading](domains/finance.md#algorithmic-trading) <kbd>65</kbd>
+  - [Quant Research](domains/finance.md#quant-research) <kbd>6</kbd>
+  - [DeFi](domains/finance.md#defi) <kbd>2</kbd>
+  - [Analysis/Reporting](domains/finance.md#analysisreporting) <kbd>36</kbd>
+  - [Other](domains/finance.md#other) <kbd>2</kbd>
 - **Science**
-  - [Computational Biology](domains/science.md#computational-biology) — 7
-  - [Drug Discovery](domains/science.md#drug-discovery) — 1
-  - [Physics](domains/science.md#physics) — 3
-  - [Chemistry](domains/science.md#chemistry) — 1
-  - [Math](domains/science.md#math) — 8
-  - [Research Tools](domains/science.md#research-tools) — 52
-  - [Other](domains/science.md#other) — 10
+  - [Computational Biology](domains/science.md#computational-biology) <kbd>7</kbd>
+  - [Drug Discovery](domains/science.md#drug-discovery) <kbd>1</kbd>
+  - [Physics](domains/science.md#physics) <kbd>3</kbd>
+  - [Chemistry](domains/science.md#chemistry) <kbd>1</kbd>
+  - [Math](domains/science.md#math) <kbd>8</kbd>
+  - [Research Tools](domains/science.md#research-tools) <kbd>52</kbd>
+  - [Other](domains/science.md#other) <kbd>10</kbd>
 - **Gaming**
-  - [Game AI](domains/gaming.md#game-ai) — 11
-  - [Procedural Generation](domains/gaming.md#procedural-generation) — 8
-  - [Game Engines](domains/gaming.md#game-engines) — 11
-  - [Modding](domains/gaming.md#modding) — 2
-  - [Other](domains/gaming.md#other) — 8
+  - [Game AI](domains/gaming.md#game-ai) <kbd>11</kbd>
+  - [Procedural Generation](domains/gaming.md#procedural-generation) <kbd>8</kbd>
+  - [Game Engines](domains/gaming.md#game-engines) <kbd>11</kbd>
+  - [Modding](domains/gaming.md#modding) <kbd>2</kbd>
+  - [Other](domains/gaming.md#other) <kbd>8</kbd>
 - **Other** → [124](domains/other.md)
 
 ## Browse by Type
 
-- 🚀 [Application](types/application.md) — 711
-- 📦 [Library](types/library.md) — 433
-- 🏗️ [Framework](types/framework.md) — 236
-- ⌨️ [CLI Tool](types/cli-tool.md) — 242
-- 🤖 [AI Agent](types/ai-agent.md) — 199
-- 🧩 [Agent Framework](types/agent-framework.md) — 186
-- 🔌 [MCP Server](types/mcp-server.md) — 109
-- 🧷 [Plugin/Extension](types/plugin-extension.md) — 183
-- 🎒 [Skill Pack](types/skill-pack.md) — 177
-- 🎓 [Tutorial/Course](types/tutorial-course.md) — 192
-- 🔬 [Paper Code](types/paper-code.md) — 234
-- 📊 [Dataset](types/dataset.md) — 18
-- 🧠 [Model Weights](types/model-weights.md) — 35
-- 🖥️ [Self-hosted Service](types/self-hosted-service.md) — 220
-- ⚡ [Boilerplate/Template](types/boilerplate-template.md) — 32
+- 🚀 [Application](types/application.md) <kbd>711</kbd>
+- 📦 [Library](types/library.md) <kbd>433</kbd>
+- 🏗️ [Framework](types/framework.md) <kbd>236</kbd>
+- ⌨️ [CLI Tool](types/cli-tool.md) <kbd>242</kbd>
+- 🤖 [AI Agent](types/ai-agent.md) <kbd>199</kbd>
+- 🧩 [Agent Framework](types/agent-framework.md) <kbd>186</kbd>
+- 🔌 [MCP Server](types/mcp-server.md) <kbd>109</kbd>
+- 🧷 [Plugin/Extension](types/plugin-extension.md) <kbd>183</kbd>
+- 🎒 [Skill Pack](types/skill-pack.md) <kbd>177</kbd>
+- 🎓 [Tutorial/Course](types/tutorial-course.md) <kbd>192</kbd>
+- 🔬 [Paper Code](types/paper-code.md) <kbd>234</kbd>
+- 📊 [Dataset](types/dataset.md) <kbd>18</kbd>
+- 🧠 [Model Weights](types/model-weights.md) <kbd>35</kbd>
+- 🖥️ [Self-hosted Service](types/self-hosted-service.md) <kbd>220</kbd>
+- ⚡ [Boilerplate/Template](types/boilerplate-template.md) <kbd>32</kbd>
 
 ## More ways to browse
 
