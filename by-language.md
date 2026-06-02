@@ -11,7 +11,7 @@
 - [JavaScript](#javascript) <kbd>179</kbd>
 - [Rust](#rust) <kbd>128</kbd>
 - [Go](#go) <kbd>124</kbd>
-- [Jupyter Notebook](#jupyter-notebook) <kbd>106</kbd>
+- [Jupyter Notebook](#jupyter-notebook) <kbd>107</kbd>
 - [C++](#c) <kbd>96</kbd>
 - [Shell](#shell) <kbd>95</kbd>
 - [Swift](#swift) <kbd>78</kbd>
@@ -2466,7 +2466,7 @@
 ## Jupyter Notebook
 
 <details>
-<summary>Show 106 repos</summary>
+<summary>Show 107 repos</summary>
 
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) — ⭐ 182,192 · `Jupyter Notebook` · Code — A 100-day curriculum to learn Python programming, designed as an educational resource for aspiring developers.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) — ⭐ 110,260 · `Jupyter Notebook` · Text — A structured course with 21 lessons for beginners to learn generative AI, covering prompting, RAG, agents, and fine-tuning.
@@ -2486,6 +2486,7 @@
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) — ⭐ 25,842 · `Jupyter Notebook` · Text — This is the official code repository accompanying the O'Reilly book "Hands-On Large Language Models." It contains practical code examples and resources for learning about and working with large language models.
 - [shap/shap](https://github.com/shap/shap) — ⭐ 25,411 · `Jupyter Notebook` · Science — This library provides a game theoretic approach, specifically SHAP values, to explain the output of any machine learning model, enhancing interpretability.
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) — ⭐ 24,728 · `Jupyter Notebook` · Multimodal — A screen parsing tool that extracts structured elements from UI screenshots. It facilitates the development of pure vision-based GUI agents capable of understanding and interacting with graphical user interfaces.
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) — ⭐ 22,896 · `Jupyter Notebook` · Training — This repository provides a comprehensive tutorial that guides users through building neural networks from scratch using Python, starting from foundational concepts.
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) — ⭐ 21,434 · `Jupyter Notebook` · Text — Guidance provides a domain-specific language for programmatically controlling large language models, allowing developers to define structured outputs and manage complex interaction flows. It aims to make LLM prompting more intuitive and reliable.
 - [anthropics/courses](https://github.com/anthropics/courses) — ⭐ 21,377 · `Jupyter Notebook` · Text — This repository contains educational courses provided by Anthropic, likely focusing on best practices for using their AI models, such as Claude, possibly through prompt engineering or specific development patterns.
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) — ⭐ 20,018 · `Jupyter Notebook` · Models — FinGPT provides open-source financial Large Language Models (LLMs), with trained model weights released on HuggingFace, aiming to revolutionize financial applications.
