@@ -6,16 +6,16 @@
 
 [↑ Back to index](README.md)
 
-- [Python](#python) <kbd>1442</kbd>
+- [Python](#python) <kbd>1444</kbd>
 - [TypeScript](#typescript) <kbd>640</kbd>
-- [JavaScript](#javascript) <kbd>187</kbd>
+- [JavaScript](#javascript) <kbd>189</kbd>
 - [Rust](#rust) <kbd>137</kbd>
 - [Go](#go) <kbd>130</kbd>
 - [Jupyter Notebook](#jupyter-notebook) <kbd>112</kbd>
 - [C++](#c) <kbd>107</kbd>
 - [Shell](#shell) <kbd>102</kbd>
 - [Swift](#swift) <kbd>87</kbd>
-- [HTML](#html) <kbd>74</kbd>
+- [HTML](#html) <kbd>75</kbd>
 - [C](#c-1) <kbd>39</kbd>
 - [C#](#c-2) <kbd>33</kbd>
 - [Java](#java) <kbd>29</kbd>
@@ -68,7 +68,7 @@
 ## Python
 
 <details>
-<summary>Show 1442 repos</summary>
+<summary>Show 1444 repos</summary>
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) — ⭐ 347,418 · `Python` · Other — Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) — ⭐ 221,187 · `Python` · Code — This repository provides a comprehensive collection of algorithms across various domains like sorting, searching, graph theory, dynamic programming, machine learning, and computer vision, all implemented in Python. It serves as an educational resource and reference for developers to learn and master fundamental computer science algorithms and data structures.
@@ -915,6 +915,7 @@
 - [TutteInstitute/evoc](https://github.com/TutteInstitute/evoc) — ⭐ 302 · `Python` · Data — EVōC is a new Python algorithm and library for efficient clustering of embedding vectors. It is designed to provide high-quality clusters significantly faster than traditional methods, making it suitable for various data analysis and machine learning tasks.
 - [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server) — ⭐ 302 · `Python` · Finance — This repository provides an MCP (Model Context Protocol) server that acts as a bridge, allowing AI LLMs to perform trading operations on the MetaTrader platform using natural language commands.
 - [zcai0612/UP2You](https://github.com/zcai0612/UP2You) — ⭐ 302 · `Python` · 3D — This repository provides the official implementation for "UP2You," a research project aimed at reconstructing textured 3D meshes from unconstrained 2D photos. It allows users to generate detailed 3D models from collections of images.
+- [verl-project/verl-omni](https://github.com/verl-project/verl-omni) — ⭐ 302 · `Python` · Multimodal — VeRL-Omni is a general Reinforcement Learning (RL) post-training framework built on Verl and VLLM-Omni. It is designed for diffusion and omni-modality models, handling heterogeneous pipelines, flexible reward engines, and modular backends, achieving high throughput for image, video, and audio generation and understanding.
 - [amzn/convolutional-handwriting-gan](https://github.com/amzn/convolutional-handwriting-gan) — ⭐ 300 · `Python` · Image — This repository contains the implementation of ScrabbleGAN, a semi-supervised model from CVPR20 that generates realistic handwritten text of varying lengths from text inputs.
 - [WUBING2023/ExamPass-Assistant](https://github.com/WUBING2023/ExamPass-Assistant) — ⭐ 300 · `Python` · Text — This tool converts various course materials (PPT, Word, PDF) into structured knowledge summaries and interactive test questions, making exam preparation more efficient for students and teachers.
 - [harveyai/harvey-labs](https://github.com/harveyai/harvey-labs) — ⭐ 298 · `Python` · Text — Harvey Labs provides a benchmark to evaluate and improve the capabilities of LLM agents in legal work. It assesses agent performance across a dataset of 1251 legal tasks.
@@ -1105,6 +1106,7 @@
 - [zjunlp/SkillX](https://github.com/zjunlp/SkillX) — ⭐ 130 · `Python` · Text — SkillX is a system designed to automatically construct and manage hierarchical knowledge bases of skills for Large Language Model (LLM) agents. It aims to equip LLMs with structured and reusable capabilities, enhancing their ability to perform various tasks.
 - [veryyoldman/Genspark-AI](https://github.com/veryyoldman/Genspark-AI) — ⭐ 129 · `Python` · Productivity — This is an open-source, self-hosted "Super Agent" framework, offering a free alternative to Genspark.ai. It provides multi-agent orchestration for tasks like deep research, content generation (slides, sheets), and image generation, supporting local execution with various LLMs.
 - [shiyao-li/MAGICIAN](https://github.com/shiyao-li/MAGICIAN) — ⭐ 129 · `Python` · Robotics — Presents MAGICIAN, a method for efficient long-term planning and active mapping for robotic systems, using imagined Gaussians for 3D environment representation.
+- [GuyMannDude/mnemo-cortex](https://github.com/GuyMannDude/mnemo-cortex) — ⭐ 129 · `Python` · Text — This is an open-source memory coprocessor designed for AI agents, providing capabilities for persistent recall, semantic search, and crash-safe capture of information without requiring explicit hooks. It functions as a sidecar for agent memory management.
 - [omni2sound/Omni2Sound](https://github.com/omni2sound/Omni2Sound) — ⭐ 127 · `Python` · Audio — Omni2Sound is a multimodal audio generation codebase that allows a single model to generate high-quality audio from video, text, or a combination of both, without compromising performance across different input modalities. It utilizes a novel dataset called SoundAtlas and a three-stage training schedule to resolve task conflicts.
 - [gurjar1/OmniDictate](https://github.com/gurjar1/OmniDictate) — ⭐ 127 · `Python` · Audio — OmniDictate is a free, open-source, real-time dictation application for Windows. It leverages local AI for speech-to-text conversion, enabling users to dictate directly into any application via a GUI.
 - [chancharikmitra/CHAI](https://github.com/chancharikmitra/CHAI) — ⭐ 126 · `Python` · Video — This repository contains the official codebase for the CVPR 2026 paper "Building a Precise Video Language with Human–AI Oversight." It introduces CHAI, a system designed to caption videos with the precision of a professional filmmaker using human-defined visual primitives.
@@ -2166,7 +2168,7 @@
 ## JavaScript
 
 <details>
-<summary>Show 187 repos</summary>
+<summary>Show 189 repos</summary>
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — ⭐ 187,477 · `JavaScript` · Code — This is an agent harness system designed to optimize the performance of AI coding agents like Claude Code, Codex, and Cursor. It provides capabilities for managing agent skills, memory, instincts, and security, facilitating research-first development.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 184,116 · `JavaScript` · Code — This repository provides an agent harness system for optimizing the performance, skills, memory, and security of AI coding agents. It supports development for various tools like Claude Code, Codex, Opencode, and Cursor.
@@ -2196,6 +2198,7 @@
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) — ⭐ 6,271 · `JavaScript` · Browser — This is the official Firecrawl MCP Server, providing powerful web scraping and search capabilities for various LLM clients like Cursor and Claude.
 - [decolua/9router](https://github.com/decolua/9router) — ⭐ 5,947 · `JavaScript` · Infrastructure — 9router is an intelligent AI gateway or router that connects various AI coding tools to a wide range of AI providers and models, including free options. It features automatic fallback, token cost optimization, and helps users avoid API rate limits.
 - [presenton/presenton](https://github.com/presenton/presenton) — ⭐ 5,639 · `JavaScript` · Productivity — Presenton is an open-source, self-hostable AI presentation generator and API that creates editable PPTX and PDF slides from text prompts or uploaded documents, offering an alternative to commercial presentation tools.
+- [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) — ⭐ 5,396 · `JavaScript` · Productivity — This is a web-based workspace designed for the Hermes Agent, offering features like chat, terminal access, memory management, skill interaction, and an inspector. It serves as an integrated workbench for agent operations.
 - [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders) — ⭐ 4,700 · `JavaScript` · Text — Follow-builders is an AI digest tool that automatically monitors content from top AI builders on X (Twitter) and YouTube podcasts, then remixes it into concise, digestible summaries. It helps users stay informed by focusing on creators' actual output.
 - [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) — ⭐ 4,331 · `JavaScript` · Text — This is a plugin that provides enhanced long-term memory capabilities for OpenClaw agents, utilizing LanceDB for hybrid retrieval, reranking, and multi-scope isolation. It includes a management CLI for interaction.
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) — ⭐ 4,272 · `JavaScript` · Science — Monitors satellites, processes radio signals from SDRs, and displays related data for satellite tracking, signal analysis, and weather monitoring.
@@ -2315,6 +2318,7 @@
 - [derek-larson14/obsidian-claude-anywhere](https://github.com/derek-larson14/obsidian-claude-anywhere) — ⭐ 107 · `JavaScript` · Code — This project provides a utility to remotely access and control Claude Code, an AI assistant running on a Mac, from a mobile phone or tablet.
 - [LakshmanTurlapati/FSB](https://github.com/LakshmanTurlapati/FSB) — ⭐ 105 · `JavaScript` · Browser — This is an intelligent, open-source assistant that automates browser tasks, leveraging multiple AI models and designed for agents to operate in real, logged-in browser environments.
 - [vinvcn/mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN) — ⭐ 104 · `JavaScript` · Text — This repository offers a Simplified Chinese translation of Matt Pocock's "engineering skills" (likely prompts or guidelines) for AI coding agents, making them more accessible to Chinese-speaking users.
+- [imcuttle/flipbook-app](https://github.com/imcuttle/flipbook-app) — ⭐ 102 · `JavaScript` · Multimodal — Flipbook Canvas is a click-to-explore knowledge picture-book that transforms AI-generated images into an interactive knowledge tree. Users can long-press any image to generate an annotated child diagram via a pluggable multimodal pipeline that integrates LLMs, image generation, web search, and OCR.
 - [jianshuo/ccglass](https://github.com/jianshuo/ccglass) — ⭐ 100 · `JavaScript` · Code — This tool acts as a local proxy and web dashboard, allowing developers to observe and debug the interactions between their coding agents (like Claude Code, Codex, or Kimi) and the underlying language models. It visualizes the agent's actions, tool selection, execution flow, and model prompts/responses.
 - [kijai/ComfyUI-MemoryVisualization](https://github.com/kijai/ComfyUI-MemoryVisualization) — ⭐ 90 · `JavaScript` · Image — A custom node for ComfyUI that provides a visualization of memory usage, helping users monitor and optimize their GPU memory when running diffusion models.
 - [maowuzz/chatgpt-session-forge](https://github.com/maowuzz/chatgpt-session-forge) — ⭐ 89 · `JavaScript` · Productivity — This is a local ChatGPT session manager that allows users to bulk import Outlook accounts, automatically receive verification codes to log into ChatGPT, and then export session credentials in various formats. It includes a web UI for easy management.
@@ -3084,7 +3088,7 @@
 ## HTML
 
 <details>
-<summary>Show 74 repos</summary>
+<summary>Show 75 repos</summary>
 
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) — ⭐ 50,997 · `HTML` · Code — This repository provides best practices and tactics for "agentic engineering" with Claude Code, aimed at improving its performance. It teaches users how to effectively leverage Claude for coding tasks.
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) — ⭐ 16,034 · `HTML` · Security — Zphisher is an automated command-line tool designed for phishing, offering over 30 pre-built templates for creating phishing pages. It's intended for educational purposes related to cybersecurity awareness.
@@ -3147,6 +3151,7 @@
 - [DanielSuo117/velocitai](https://github.com/DanielSuo117/velocitai) — ⭐ 57 · `HTML` · Code — Velocitai is a UI automation harness built with Python and Playwright, designed to empower AI agents to generate, architect, and execute enterprise-grade UI test code. It acts as an AI agent governance framework, enabling agents like Claude Code or GitHub Copilot to autonomously write, debug, and evolve UI tests.
 - [yifanzhang-pro/HLA](https://github.com/yifanzhang-pro/HLA) — ⭐ 52 · `HTML` · Text — This is the official project page for Higher-order Linear Attention (HLA), a research contribution in deep learning. It focuses on advanced model architectures for large language models by generalizing state-space duality to higher-order linear attention.
 - [ynarwal/how-llms-work](https://github.com/ynarwal/how-llms-work) — ⭐ 47 · `HTML` · Text — This project is an interactive web page that visually explains the complete working process of large language models, covering stages from data collection to post-training alignment, based on Karpathy's lectures.
+- [Felix-Forever/hermes-agent-desktop](https://github.com/Felix-Forever/hermes-agent-desktop) — ⭐ 44 · `HTML` · Productivity — This is a desktop client for a multi-agent AI system, enabling 20 specialist agents to collaborate on tasks with features like a visual skill store and streaming chat. It acts as an orchestrator and supports various LLMs.
 - [KilledByAPixel/LittleJS-AI](https://github.com/KilledByAPixel/LittleJS-AI) — ⭐ 37 · `HTML` · Gaming — This repository features AI-powered games, tools, and experiments built with the LittleJS game engine. It aims to accelerate game development by integrating AI capabilities, specifically utilizing Claude for faster creation.
 - [HKUST-LongGroup/SwiftI2V](https://github.com/HKUST-LongGroup/SwiftI2V) — ⭐ 29 · `HTML` · Video — SwiftI2V is a project for efficient high-resolution image-to-video generation, detailed in a research paper. It employs a two-stage framework to produce crisp 2K videos by first generating a low-resolution motion map and then refining it.
 - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) — ⭐ 26 · `HTML` · Productivity — Osaurus is an open-source, Swift-based AI framework for macOS that enables local-first AI capabilities, integrating intelligent agents, memory, and tools. It supports offline operation with local models and optional cloud model integration for privacy-focused, personalized desktop AI.

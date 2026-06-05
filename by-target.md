@@ -6,11 +6,11 @@
 
 [↑ Back to index](README.md)
 
-- [Generic LLM](#generic-llm) <kbd>824</kbd>
+- [Generic LLM](#generic-llm) <kbd>827</kbd>
 - [Claude Code](#claude-code) <kbd>509</kbd>
 - [Codex CLI](#codex-cli) <kbd>223</kbd>
 - [Anthropic API](#anthropic-api) <kbd>194</kbd>
-- [OpenAI API](#openai-api) <kbd>174</kbd>
+- [OpenAI API](#openai-api) <kbd>175</kbd>
 - [Cursor](#cursor) <kbd>123</kbd>
 - [Gemini CLI](#gemini-cli) <kbd>100</kbd>
 - [Claude.ai](#claudeai) <kbd>51</kbd>
@@ -20,7 +20,7 @@
 ## Generic LLM
 
 <details>
-<summary>Show 824 repos</summary>
+<summary>Show 827 repos</summary>
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) — ⭐ 368,773 · `TypeScript` · Productivity — OpenClaw is a personal AI assistant built to run on any operating system and platform. It aims to offer a customizable AI experience with a strong emphasis on user data ownership.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — ⭐ 187,477 · `JavaScript` · Code — This is an agent harness system designed to optimize the performance of AI coding agents like Claude Code, Codex, and Cursor. It provides capabilities for managing agent skills, memory, instincts, and security, facilitating research-first development.
@@ -661,6 +661,7 @@
 - [tlehman/litprog-skill](https://github.com/tlehman/litprog-skill) — ⭐ 132 · `TypeScript` · Code — This repository provides a literate programming skill designed for AI agent platforms such as Claude Code, OpenCode, and Hermes Agent. It allows for the interweaving of code and prose into executable notebooks, streamlining the development and documentation process.
 - [sdwolf4103/opencode-working-memory](https://github.com/sdwolf4103/opencode-working-memory) — ⭐ 130 · `TypeScript` · Code — An automatic memory system for OpenCode agents, providing persistent workspace memory, hot session context, and compaction-based memory extraction without additional API calls.
 - [veryyoldman/Genspark-AI](https://github.com/veryyoldman/Genspark-AI) — ⭐ 129 · `Python` · Productivity — This is an open-source, self-hosted "Super Agent" framework, offering a free alternative to Genspark.ai. It provides multi-agent orchestration for tasks like deep research, content generation (slides, sheets), and image generation, supporting local execution with various LLMs.
+- [GuyMannDude/mnemo-cortex](https://github.com/GuyMannDude/mnemo-cortex) — ⭐ 129 · `Python` · Text — This is an open-source memory coprocessor designed for AI agents, providing capabilities for persistent recall, semantic search, and crash-safe capture of information without requiring explicit hooks. It functions as a sidecar for agent memory management.
 - [MrGray17/opentoken](https://github.com/MrGray17/opentoken) — ⭐ 129 · `TypeScript` · Code — A token compression engine for AI coding agents that intercepts and filters noisy command-line tool outputs (like git diff or npm install) before they are sent to an LLM. It uses a multi-stage pipeline to save tokens without degrading output quality, acting as a companion to tools like OpenCode.
 - [arorarishi/Prompt-Engineering-Jumpstart](https://github.com/arorarishi/Prompt-Engineering-Jumpstart) — ⭐ 128 · Text — This is a free, open-source eBook and guide designed to teach beginners prompt engineering principles for interacting with AI models like ChatGPT and DALL-E, using simple analogies and copy-paste examples.
 - [gonemedia/aipointer](https://github.com/gonemedia/aipointer) — ⭐ 127 · `TypeScript` · Multimodal — An AI cursor assistant for macOS, Windows, and Linux that allows users to ask questions about screen content via a hotkey, using vision-capable AI models from OpenRouter, Anthropic, OpenAI, and Gemini, with a focus on privacy and local-first operation.
@@ -690,6 +691,7 @@
 - [vinvcn/mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN) — ⭐ 104 · `JavaScript` · Text — This repository offers a Simplified Chinese translation of Matt Pocock's "engineering skills" (likely prompts or guidelines) for AI coding agents, making them more accessible to Chinese-speaking users.
 - [rulyone/Simple-ReAct-Agent](https://github.com/rulyone/Simple-ReAct-Agent) — ⭐ 104 · `Python` · Text — A minimalist, four-file Python implementation of a ReAct Agent designed for educational purposes, running locally with Ollama and Llama 3.2 3B without API keys. It features built-in calculation and web search tools and supports multi-turn conversations.
 - [colossus-lab/openarg\_backend](https://github.com/colossus-lab/openarg_backend) — ⭐ 103 · `Python` · Data — An AI-powered backend system to analyze Argentine government open data, featuring a multi-agent pipeline, data connectors, natural language to SQL capabilities, and LLMs for processing.
+- [imcuttle/flipbook-app](https://github.com/imcuttle/flipbook-app) — ⭐ 102 · `JavaScript` · Multimodal — Flipbook Canvas is a click-to-explore knowledge picture-book that transforms AI-generated images into an interactive knowledge tree. Users can long-press any image to generate an annotated child diagram via a pluggable multimodal pipeline that integrates LLMs, image generation, web search, and OCR.
 - [NVIDIA/skills](https://github.com/NVIDIA/skills) — ⭐ 102 · `Python` · Code — This repository provides a collection of skill configuration files designed to teach AI agents how to utilize various development tools and optimize code, enhancing their capabilities for coding tasks without complex installation.
 - [ogallotti/rtk-hermes](https://github.com/ogallotti/rtk-hermes) — ⭐ 101 · `Python` · Infrastructure — A plugin for the Hermes AI agent that utilizes RTK to rewrite shell commands, significantly reducing LLM token consumption by 60-90% for cost optimization.
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) — ⭐ 101 · `Python` · Security — A security scanner designed to detect vulnerabilities, malicious patterns, and security risks within AI agent skills.
@@ -755,6 +757,7 @@
 - [wlzh/prd-manager](https://github.com/wlzh/prd-manager) — ⭐ 45 · Code — This tool assists AI coding by generating structured requirement and operational documents like PRDs and technical specs. It organizes ideas into clear references, guiding AI to improve coding accuracy and streamline the development process.
 - [AlephantAI/AIephant-AI-Gateway](https://github.com/AlephantAI/AIephant-AI-Gateway) — ⭐ 44 · `Rust` · Infrastructure — An open-source, OpenAI-compatible AI Gateway that supports over 50 providers and 320 models, offering features like cost optimization, observability, and rate-limiting for AI operations.
 - [biao994/DocPaws](https://github.com/biao994/DocPaws) — ⭐ 44 · `Python` · Text — DocPaws is a RAG document Q&A system for managing knowledge bases, indexing PDFs and folders, and engaging in streaming conversations. It features a FastAPI backend and Vue 3 frontend, and can refuse answers if retrieval distance exceeds a threshold.
+- [Felix-Forever/hermes-agent-desktop](https://github.com/Felix-Forever/hermes-agent-desktop) — ⭐ 44 · `HTML` · Productivity — This is a desktop client for a multi-agent AI system, enabling 20 specialist agents to collaborate on tasks with features like a visual skill store and streaming chat. It acts as an orchestrator and supports various LLMs.
 - [tiann/execplan-skill](https://github.com/tiann/execplan-skill) — ⭐ 43 · Code — This repository offers an Agent Skill that empowers AI coding agents to autonomously handle complex and long-running implementation tasks through a persistent execution planning capability.
 - [edkdev/defi-trading-mcp](https://github.com/edkdev/defi-trading-mcp) — ⭐ 42 · `JavaScript` · Finance — This server enables an AI assistant to operate as an autonomous DeFi crypto trading agent, offering a comprehensive toolset for real-time trading across multiple blockchains. It includes market analysis, gasless swaps, and MEV protection, all controllable via natural language.
 - [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp) — ⭐ 42 · `Python` · Code — This is an IDA Pro plugin that sets up an HTTP Multi-platform Communication Protocol (MCP) server. It exposes IDA Pro's static analysis capabilities, such as disassemblies, decompilations, and cross-references, allowing AI clients and agents to directly query information from the IDB database.
@@ -1802,7 +1805,7 @@
 ## OpenAI API
 
 <details>
-<summary>Show 174 repos</summary>
+<summary>Show 175 repos</summary>
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — ⭐ 135,682 · `Python` · Infrastructure — Open-WebUI offers a user-friendly web interface for interacting with various AI models, including those supported by Ollama and OpenAI API. It facilitates self-hosted access and management of LLMs and RAG systems.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) — ⭐ 130,291 · `Python` · Text — A Python tool designed to convert various document formats, including Microsoft Office files and PDFs, into Markdown. It facilitates content extraction and preparation for text-based processing workflows, often integrating with AI agent systems.
@@ -1962,6 +1965,7 @@
 - [IgorWarzocha/pi-codex-conversion](https://github.com/IgorWarzocha/pi-codex-conversion) — ⭐ 48 · `TypeScript` · Code — This repository provides a 1:1 adapter for OpenAI models, replacing the built-in Pi toolkit. It enables enhanced capabilities such as executing commands, writing to stdin, applying patches, viewing images, and performing web searches for AI agents operating on the Pi platform.
 - [Kobar-Project/KoBar](https://github.com/Kobar-Project/KoBar) — ⭐ 45 · `TypeScript` · Productivity — KoBar is a modular desktop utility sidebar that stays always-on-top, offering a multi-functional assistant with features like clipboard management, rich text notes, screenshot annotation, media controls, and an integrated AI assistant supporting various LLM APIs. It aims to enhance desktop productivity.
 - [AlephantAI/AIephant-AI-Gateway](https://github.com/AlephantAI/AIephant-AI-Gateway) — ⭐ 44 · `Rust` · Infrastructure — An open-source, OpenAI-compatible AI Gateway that supports over 50 providers and 320 models, offering features like cost optimization, observability, and rate-limiting for AI operations.
+- [Felix-Forever/hermes-agent-desktop](https://github.com/Felix-Forever/hermes-agent-desktop) — ⭐ 44 · `HTML` · Productivity — This is a desktop client for a multi-agent AI system, enabling 20 specialist agents to collaborate on tasks with features like a visual skill store and streaming chat. It acts as an orchestrator and supports various LLMs.
 - [AFK-surf/OpenBridge](https://github.com/AFK-surf/OpenBridge) — ⭐ 43 · `Swift` · Code — An open-source project designed to serve as a functional alternative to OpenAI Codex, likely providing similar capabilities for code generation or completion.
 - [areu01or00/Codex-App-Linux](https://github.com/areu01or00/Codex-App-Linux) — ⭐ 35 · `Shell` · Code — This is an open-source port of the macOS Codex App to Linux, featuring mobile pairing, UI stability, voice input, and a new plugin/hooks rewrite, with ongoing efforts to maintain feature parity with the upstream app.
 - [chopper1026/kimi2api](https://github.com/chopper1026/kimi2api) — ⭐ 35 · `Python` · Infrastructure — This repository offers a reverse proxy service for Kimi AI's web version, translating its conversational AI capabilities into an OpenAI-compatible API. It enables various clients and SDKs, such as OpenAI SDK, LobeChat, and NextChat, to integrate with Kimi AI using a standard /v1 interface.
