@@ -8,9 +8,9 @@
 
 - [Video](#video) <kbd>3</kbd>
 - [Image](#image) <kbd>18</kbd>
-- [Audio](#audio) <kbd>5</kbd>
-- [Text](#text) <kbd>55</kbd>
-- [Code](#code) <kbd>82</kbd>
+- [Audio](#audio) <kbd>6</kbd>
+- [Text](#text) <kbd>56</kbd>
+- [Code](#code) <kbd>84</kbd>
 - [Browser](#browser) <kbd>2</kbd>
 - [Robotics](#robotics) <kbd>10</kbd>
 - [3D](#3d) <kbd>6</kbd>
@@ -19,7 +19,7 @@
 - [Models](#models) <kbd>4</kbd>
 - [Infrastructure](#infrastructure) <kbd>19</kbd>
 - [Multimodal](#multimodal) <kbd>7</kbd>
-- [Security](#security) <kbd>39</kbd>
+- [Security](#security) <kbd>40</kbd>
 - [Productivity](#productivity) <kbd>35</kbd>
 - [Finance](#finance) <kbd>13</kbd>
 - [Science](#science) <kbd>33</kbd>
@@ -64,11 +64,12 @@
 - [wildminder/awesome-ai-voice](https://github.com/wildminder/awesome-ai-voice) — ⭐ 270 · Awesome List — This repository is a curated list of open-source models and tools for various AI voice technologies, including text-to-speech (TTS), voice cloning, and music generation. It serves as a resource for discovering advanced audio AI solutions.
 - [Kwwwww74/Awesome-Trustworthy-AudioLLMs](https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs) — ⭐ 202 · Awesome List — This is a curated reading list and collection of resources focused on trustworthy audio large language models.
 - [dreamtheater123/Awesome-SpeechLM-Survey](https://github.com/dreamtheater123/Awesome-SpeechLM-Survey) — ⭐ 192 · Awesome List — This repository provides a comprehensive survey and knowledge map of recent advances in Speech Language Models (SpeechLMs), compiling key models, training datasets, and evaluation benchmarks for researchers.
+- [yaph/tts-samples](https://github.com/yaph/tts-samples) — ⭐ 97 · `Python` · Dataset — This repository offers a collection of text-to-speech (TTS) audio samples in MP3 format, covering a wide array of languages, all generated using the Microsoft Edge TTS engine.
 
 ## Text
 
 <details>
-<summary>Show 55 repos</summary>
+<summary>Show 56 repos</summary>
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — ⭐ 74,441 · `MDX` · Tutorial/Course — This repository is a comprehensive guide to prompt engineering, offering a rich collection of papers, lessons, notebooks, and resources. It covers prompt design, context engineering, RAG, and AI agents for large language models.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) — ⭐ 62,215 · `Python` · Awesome List — This is a curated list of awesome Claude Skills, resources, and tools designed to help customize and enhance Claude AI workflows. It provides a structured way to manage and progressively load hundreds of skills for Claude agents without exhausting context windows.
@@ -93,6 +94,7 @@
 - [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) — ⭐ 1,865 · `Python` · Library — This repository offers a curated library of over a hundred Chinese AI prompts categorized for various real-world applications like work, study, and marketing. It also includes a built-in system to help users generate high-quality prompts based on their needs.
 - [rafska/awesome-local-llm](https://github.com/rafska/awesome-local-llm) — ⭐ 1,812 · Awesome List — This is a curated list of resources, platforms, and tools aimed at helping users run large language models (LLMs) locally. It serves as a comprehensive guide for local LLM deployment and usage.
 - [asinghcsu/AgenticRAG-Survey](https://github.com/asinghcsu/AgenticRAG-Survey) — ⭐ 1,619 · Awesome List — This repository provides a comprehensive survey on Agentic Retrieval-Augmented Generation (RAG) frameworks and patterns. It explores advanced RAG systems that are enhanced with AI LLM agents and multi-agent workflows.
+- [kyegomez/awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) — ⭐ 1,604 · `TeX` · Awesome List — This repository is a curated compilation of significant research papers focusing on multi-agent systems, particularly those involving LLMs and autonomous agents.
 - [JShollaj/awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability) — ⭐ 1,506 · Awesome List — A curated list of resources focused on the interpretability of Large Language Models, including tools, papers, and articles.
 - [themanojdesai/genai-llm-ml-case-studies](https://github.com/themanojdesai/genai-llm-ml-case-studies) — ⭐ 1,442 · Awesome List — This repository is a curated collection of over 500 real-world case studies detailing how top technology companies design and implement Machine Learning and Large Language Model systems in production. It serves as a learning resource for GenAI system design.
 - [webfuse-com/awesome-claude](https://github.com/webfuse-com/awesome-claude) — ⭐ 1,429 · `TypeScript` · Awesome List — This repository is an 'awesome list' that curates a collection of resources, models, prompts, and tools related to Anthropic Claude. It serves as a comprehensive directory for developers and researchers looking to explore or build with the Claude AI agent.
@@ -131,7 +133,7 @@
 ## Code
 
 <details>
-<summary>Show 82 repos</summary>
+<summary>Show 84 repos</summary>
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — ⭐ 451,590 · `TypeScript` · Tutorial/Course — freeCodeCamp is an open-source platform offering a comprehensive curriculum to learn math, programming, and computer science for free. It provides structured educational content and projects for aspiring developers worldwide.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) — ⭐ 391,662 · `Python` · Awesome List — This repository is a curated collection of freely available programming books, serving as a valuable educational resource for anyone looking to learn programming or computer science. It provides access to a vast library of digital books.
@@ -198,12 +200,14 @@
 - [aspi6246/Claude-Code-Presentation](https://github.com/aspi6246/Claude-Code-Presentation) — ⭐ 340 · `TeX` · Tutorial/Course — A collection of resources and possibly a presentation detailing various tools and techniques for working with Claude Code.
 - [OnlyTerp/hermes-optimization-guide](https://github.com/OnlyTerp/hermes-optimization-guide) — ⭐ 332 · `Shell` · Tutorial/Course — This repository serves as an advanced optimization and configuration guide for the Hermes Agent, covering setup, migration, integration with LightRAG and Telegram, and best practices for creating custom skills, effectively turning it into a comprehensive resource for advanced users.
 - [MadAppGang/claude-code](https://github.com/MadAppGang/claude-code) — ⭐ 265 · `TypeScript` · Awesome List — This repository functions as a marketplace for plugins specifically designed for 'Claude Code', a system used for AI-driven code generation. It facilitates the discovery and sharing of battle-tested AI workflows for coding tasks.
+- [Microck/ordinary-claude-skills](https://github.com/Microck/ordinary-claude-skills) — ⭐ 264 · `Python` · Skill Pack — This repository is a collection of official and community-contributed skills and resources designed for Anthropic's Claude AI, enabling users to aggregate and manage these extensions locally to enhance Claude's capabilities.
 - [ComposioHQ/awesome-agent-clis](https://github.com/ComposioHQ/awesome-agent-clis) — ⭐ 191 · Awesome List — This repository is a curated list of command-line interface (CLI) skills specifically designed for utilization by AI agents. It serves as a resource for developers seeking tools and capabilities to integrate into their agent-based applications.
 - [0xNyk/awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) — ⭐ 187 · `JavaScript` · Awesome List — This repository provides a "sovereign agent stack" that includes practical scripts, on-chain identity solutions, and knowledge graph tools. It is intended for developing AI agents that possess autonomy, memory, and self-ownership capabilities.
 - [pulkitxm/claude-directory](https://github.com/pulkitxm/claude-directory) — ⭐ 181 · `TypeScript` · Awesome List — This repository is a directory showcasing over 60 landing pages and interactive prototypes generated using Anthropic's Claude Fable 5 models. Each project includes its original prompt and a screen recording, serving as an inspiration book for LUI design and a portfolio of Claude's capabilities.
 - [acvnace/awesome-vibe-coding-resources](https://github.com/acvnace/awesome-vibe-coding-resources) — ⭐ 146 · Awesome List — This is a curated list of awesome resources for "vibe coding," focusing on AI coding tools and agents, including those compatible with platforms like Cursor.
 - [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) — ⭐ 144 · `Vue` · Awesome List — This repository provides a knowledge base of software architecture templates and a system design tutorial, focusing on various architectural patterns including those for AI gateways, RAG, and AI agents. It serves as a resource for learning and applying software architecture principles.
 - [NeverSight/learn-skills.dev](https://github.com/NeverSight/learn-skills.dev) — ⭐ 138 · Skill Pack — This repository provides a curated collection of high-quality skills designed for AI coding agents. Users can search, install, copy, and share these skills, which are compatible with various AI coding tools such as Claude Code, Cursor, and OpenClaw.
+- [happycapy-ai/Happycapy-skills](https://github.com/happycapy-ai/Happycapy-skills) — ⭐ 132 · `HTML` · Skill Pack — This repository is a curated collection of high-quality skills specifically designed for Claude Code, intended to enhance a developer's workflow.
 - [enderzcx/pi-docs-playbook](https://github.com/enderzcx/pi-docs-playbook) — ⭐ 115 · Awesome List — This repository provides a documentation navigator and an agent-readable playbook for the \`earendil-works/pi\` project. It mirrors and reclassifies existing documentation by topic, enabling AI coding agents like Codex, Claude, and Cursor to efficiently find and utilize relevant information for various development problems.
 - [Develp10/rust-roadmap-ru](https://github.com/Develp10/rust-roadmap-ru) — ⭐ 106 · Tutorial/Course — This is a comprehensive roadmap and resource list for learning Rust, structured into 25 stages from beginner to advanced topics, including concurrency, embedded systems, WASM, game development, and machine learning. It's specifically tailored for Russian-speaking developers.
 - [dontriskit/awesome-ai-software-engineering](https://github.com/dontriskit/awesome-ai-software-engineering) — ⭐ 103 · Awesome List — This repository is a curated list of AI coding agents and software engineering resources, providing a centralized collection of tools and information for developers.
@@ -327,7 +331,7 @@
 ## Security
 
 <details>
-<summary>Show 39 repos</summary>
+<summary>Show 40 repos</summary>
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) — ⭐ 221,038 · Awesome List — A comprehensive collection of inspiring lists, manuals, cheatsheets, and command-line/web tools, specifically curated as a resource for security researchers, pentesters, and system operators.
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) — ⭐ 47,750 · `Kotlin` · Tutorial/Course — This project offers extensive tutorials and resources for internet censorship circumvention (fanqiang), covering methods like downloading software, registering accounts, and setting up VPS or soft routers. It provides guides for multiple operating systems, maintained and updated for nearly a decade.
@@ -368,6 +372,7 @@
 - [vinayaklatthe/microsoft-security-skills](https://github.com/vinayaklatthe/microsoft-security-skills) — ⭐ 85 · `JavaScript` · Skill Pack — This repository offers a curated collection of 56 Microsoft Security skills for AI agents, enabling them to provide accurate security configuration and operational guidance for products like Defender, Sentinel, and Entra. Each skill details decision processes, operational steps, and common pitfalls, all derived from Microsoft Learn documentation.
 - [LiQiiiii/Awesome-VLA-Safety](https://github.com/LiQiiiii/Awesome-VLA-Safety) — ⭐ 83 · Awesome List — A resource list focused on the safety aspects of Vision-Language-Action (VLA) models, compiling research papers, challenges, evaluation methods, and mechanisms.
 - [MyuriKanao/src-hunter-skill](https://github.com/MyuriKanao/src-hunter-skill) — ⭐ 56 · Skill Pack — Practical SRC / Crowdsourcing / Bug Bounty Vulnerability Discovery: Claude's Code Skills — 19 attack playbooks, 305 structured payloads, 263 WAF/EDR bypasses, 2887 HackerOne real-world cases, and 88,636 WooYun case statistics.
+- [Yeti-791/Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape) — ⭐ 31 · Awesome List — This repository is a comprehensive curated list documenting open-source projects, academic papers, benchmarks, and commercial solutions related to AI penetration testing, LLM red teaming, and autonomous offensive agents.
 
 </details>
 
