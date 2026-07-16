@@ -7,7 +7,7 @@
 [↑ Back to index](README.md)
 
 - [Video](#video) <kbd>3</kbd>
-- [Image](#image) <kbd>18</kbd>
+- [Image](#image) <kbd>19</kbd>
 - [Audio](#audio) <kbd>6</kbd>
 - [Text](#text) <kbd>57</kbd>
 - [Code](#code) <kbd>85</kbd>
@@ -19,9 +19,9 @@
 - [Models](#models) <kbd>4</kbd>
 - [Infrastructure](#infrastructure) <kbd>19</kbd>
 - [Multimodal](#multimodal) <kbd>7</kbd>
-- [Security](#security) <kbd>41</kbd>
+- [Security](#security) <kbd>42</kbd>
 - [Productivity](#productivity) <kbd>36</kbd>
-- [Finance](#finance) <kbd>13</kbd>
+- [Finance](#finance) <kbd>14</kbd>
 - [Science](#science) <kbd>33</kbd>
 - [Other](#other) <kbd>49</kbd>
 
@@ -34,7 +34,7 @@
 ## Image
 
 <details>
-<summary>Show 18 repos</summary>
+<summary>Show 19 repos</summary>
 
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) — ⭐ 23,402 · Awesome List — This is a curated collection of links and resources related to the field of computer vision.
 - [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) — ⭐ 12,780 · `Python` · Awesome List — This repository is an awesome list collecting high-quality prompts and API resources specifically for GPT-Image-2. It serves as a template library for users to generate diverse images, including portraits, posters, character designs, and UI mockups.
@@ -47,6 +47,7 @@
 - [Anil-matcha/Awesome-GPT-Image-2-API-Prompts](https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts) — ⭐ 1,927 · Awesome List — This repository offers a curated collection of ready-to-use GPT-Image-2 prompts specifically for the OpenAI API. It covers various use cases like portraits, UI mockups, and game screenshots.
 - [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image) — ⭐ 1,295 · `Python` · Awesome List — This is an awesome list collecting the best GPT Image 2 prompts and examples, sourced from top creators. It provides a curated set of prompts to facilitate image generation.
 - [jau123/MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) — ⭐ 1,112 · `TypeScript` · MCP Server — This is a Model Context Protocol (MCP) server that integrates with various image generation tools like ComfyUI and supports specific AI models. It includes a large library of over 1,400 prompts and a multi-task orchestration system, designed to enhance AI design workflows, especially for image and video creation.
+- [YouMind-OpenLab/ai-image-prompts-skill](https://github.com/YouMind-OpenLab/ai-image-prompts-skill) — ⭐ 448 · `TypeScript` · Skill Pack — This repository offers a collection of over 10,000 curated prompts specifically designed for various AI image generation models, including Midjourney, DALL-E, and Stable Diffusion. It serves as a resource for users to find effective prompts for creative image generation.
 - [nevertoday/zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors) — ⭐ 320 · `JavaScript` · Awesome List — This open-source project provides a curated collection of 742 high-definition Chinese traditional color cards. Each card includes the color name, HEX, RGB, CMYK values, pairing recommendations, and descriptive keywords, serving as a comprehensive resource for designers.
 - [VigoZhao/AI-Visual-Prompt-Cookbook](https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook) — ⭐ 179 · `Python` · Awesome List — This repository offers a curated and daily updated collection of reusable JSON prompt templates and style references specifically designed for AI image generation.
 - [golanlevin/p5-single-line-font-resources](https://github.com/golanlevin/p5-single-line-font-resources) — ⭐ 177 · `JavaScript` · Dataset — An archive of single-line (monoline) vector fonts, including recovered data from vintage games, along with p5.js code for rendering them. It's designed for creative coding, generative art, and pen plotting.
@@ -333,7 +334,7 @@
 ## Security
 
 <details>
-<summary>Show 41 repos</summary>
+<summary>Show 42 repos</summary>
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) — ⭐ 221,038 · Awesome List — A comprehensive collection of inspiring lists, manuals, cheatsheets, and command-line/web tools, specifically curated as a resource for security researchers, pentesters, and system operators.
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) — ⭐ 47,750 · `Kotlin` · Tutorial/Course — This project offers extensive tutorials and resources for internet censorship circumvention (fanqiang), covering methods like downloading software, registering accounts, and setting up VPS or soft routers. It provides guides for multiple operating systems, maintained and updated for nearly a decade.
@@ -359,6 +360,7 @@
 - [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) — ⭐ 1,266 · `Python` · Skill Pack — This repository contains "Claude-Red", a curated library of offensive security skills in SKILL.md format, designed to turn Claude into an expert red team operator. It provides methodologies for various attack surfaces like SQLi and EDR evasion.
 - [ansjdnakjdnajkd/iOS](https://github.com/ansjdnakjdnajkd/iOS) — ⭐ 1,244 · Awesome List — A curated collection of usable tools and projects for iOS and macOS penetration testing and security research.
 - [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) — ⭐ 1,069 · `Ruby` · Awesome List — This is a curated list of tools and resources specifically for mobile hacking and penetration testing, targeting both Android and iOS platforms. It serves as a comprehensive collection for security professionals and bug bounty hunters.
+- [TalEliyahu/Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security) — ⭐ 798 · Awesome List — This is a curated list of resources, research, and tools specifically focused on securing AI systems, including LLMs and agentic systems, for AI security engineers.
 - [jaiswalakshansh/Facebook-BugBounty-Writeups](https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups) — ⭐ 725 · Awesome List — This repository gathers a collection of bug bounty writeups specifically related to Facebook's bug bounty program. It acts as a reference for security researchers interested in Facebook vulnerabilities.
 - [huhusmang/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection) — ⭐ 708 · `Python` · Awesome List — This repository is an awesome list curating Large Language Models (LLMs) that are useful for vulnerability detection in software and systems.
 - [ZishanAdThandar/pentest](https://github.com/ZishanAdThandar/pentest) — ⭐ 640 · `PHP` · Awesome List — This repository offers a comprehensive collection of notes, cheatsheets, and guides for ethical hackers, whitehat pentesters, and CTF players, covering penetration testing and bug bounties.
@@ -426,7 +428,7 @@
 ## Finance
 
 <details>
-<summary>Show 13 repos</summary>
+<summary>Show 14 repos</summary>
 
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) — ⭐ 8,141 · `Python` · Awesome List — This repository is a curated list of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading. It serves as a comprehensive resource for quantitative finance and algorithmic trading enthusiasts.
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) — ⭐ 6,065 · Awesome List — This is a curated list of awesome resources, including LLMs, deep learning strategies, and tools for analysis and trading in the financial market.
@@ -439,6 +441,7 @@
 - [yourincomehome/awesome-passive-income](https://github.com/yourincomehome/awesome-passive-income) — ⭐ 316 · Awesome List — This is a curated list of resources, ideas, and strategies for generating passive income online. It covers various methods such as affiliate marketing, blogging, and bootstrapping businesses.
 - [leoncuhk/awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai) — ⭐ 303 · `Jupyter Notebook` · Awesome List — This is a curated list of AI and machine learning resources relevant to quantitative investment and algorithmic trading strategies within the financial sector.
 - [MobiusQuant/OpenMobius-skill](https://github.com/MobiusQuant/OpenMobius-skill) — ⭐ 188 · `Python` · Skill Pack — A skill pack containing ICT/SMC trading knowledge, concepts, and case studies, designed to be integrated with AI coding agents. It provides a knowledge base derived from trading educational videos to enable agents to perform market analysis and data visualization.
+- [quantskills/quantskills](https://github.com/quantskills/quantskills) — ⭐ 148 · `JavaScript` · Awesome List — This is a panoramic navigator and resource list for the QuantSkills organization, providing a categorized and clickable index of quantitative skills and AI agents. It aims to help quantitative developers easily find, install, and reuse standardized assets related to factors, research, and trading.
 - [OpenBB-finance/awesome-openbb](https://github.com/OpenBB-finance/awesome-openbb) — ⭐ 91 · Awesome List — A curated list of applications, widgets, data sources, and AI agents related to OpenBB, a financial data platform. It serves as a comprehensive resource for extending and utilizing OpenBB's capabilities.
 - [Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers) — ⭐ 55 · Awesome List — This repository is a curated collection of academic papers focused on quantitative trading using large language models. It serves as a resource for researchers and practitioners in the field.
 
