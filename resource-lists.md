@@ -7,7 +7,7 @@
 [↑ Back to index](README.md)
 
 - [Video](#video) <kbd>3</kbd>
-- [Image](#image) <kbd>19</kbd>
+- [Image](#image) <kbd>20</kbd>
 - [Audio](#audio) <kbd>6</kbd>
 - [Text](#text) <kbd>57</kbd>
 - [Code](#code) <kbd>85</kbd>
@@ -34,7 +34,7 @@
 ## Image
 
 <details>
-<summary>Show 19 repos</summary>
+<summary>Show 20 repos</summary>
 
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) — ⭐ 23,402 · Awesome List — This is a curated collection of links and resources related to the field of computer vision.
 - [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) — ⭐ 12,780 · `Python` · Awesome List — This repository is an awesome list collecting high-quality prompts and API resources specifically for GPT-Image-2. It serves as a template library for users to generate diverse images, including portraits, posters, character designs, and UI mockups.
@@ -48,6 +48,7 @@
 - [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image) — ⭐ 1,295 · `Python` · Awesome List — This is an awesome list collecting the best GPT Image 2 prompts and examples, sourced from top creators. It provides a curated set of prompts to facilitate image generation.
 - [jau123/MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) — ⭐ 1,112 · `TypeScript` · MCP Server — This is a Model Context Protocol (MCP) server that integrates with various image generation tools like ComfyUI and supports specific AI models. It includes a large library of over 1,400 prompts and a multi-task orchestration system, designed to enhance AI design workflows, especially for image and video creation.
 - [YouMind-OpenLab/ai-image-prompts-skill](https://github.com/YouMind-OpenLab/ai-image-prompts-skill) — ⭐ 448 · `TypeScript` · Skill Pack — This repository offers a collection of over 10,000 curated prompts specifically designed for various AI image generation models, including Midjourney, DALL-E, and Stable Diffusion. It serves as a resource for users to find effective prompts for creative image generation.
+- [threerocks/hand-drawn-styles](https://github.com/threerocks/hand-drawn-styles) — ⭐ 363 · Skill Pack — A collection of hand-drawn style prompt recipes designed as a Claude Code skill to generate image prompts for various artistic styles, including children's coloring, Ghibli, and pixel art.
 - [nevertoday/zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors) — ⭐ 320 · `JavaScript` · Awesome List — This open-source project provides a curated collection of 742 high-definition Chinese traditional color cards. Each card includes the color name, HEX, RGB, CMYK values, pairing recommendations, and descriptive keywords, serving as a comprehensive resource for designers.
 - [VigoZhao/AI-Visual-Prompt-Cookbook](https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook) — ⭐ 179 · `Python` · Awesome List — This repository offers a curated and daily updated collection of reusable JSON prompt templates and style references specifically designed for AI image generation.
 - [golanlevin/p5-single-line-font-resources](https://github.com/golanlevin/p5-single-line-font-resources) — ⭐ 177 · `JavaScript` · Dataset — An archive of single-line (monoline) vector fonts, including recovered data from vintage games, along with p5.js code for rendering them. It's designed for creative coding, generative art, and pen plotting.
