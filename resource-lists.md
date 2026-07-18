@@ -6,27 +6,28 @@
 
 [↑ Back to index](README.md)
 
-- [Video](#video) <kbd>3</kbd>
+- [Video](#video) <kbd>4</kbd>
 - [Image](#image) <kbd>20</kbd>
 - [Audio](#audio) <kbd>6</kbd>
-- [Text](#text) <kbd>57</kbd>
+- [Text](#text) <kbd>58</kbd>
 - [Code](#code) <kbd>85</kbd>
 - [Browser](#browser) <kbd>2</kbd>
 - [Robotics](#robotics) <kbd>10</kbd>
 - [3D](#3d) <kbd>6</kbd>
-- [Data](#data) <kbd>6</kbd>
+- [Data](#data) <kbd>7</kbd>
 - [Training](#training) <kbd>18</kbd>
 - [Models](#models) <kbd>4</kbd>
 - [Infrastructure](#infrastructure) <kbd>19</kbd>
-- [Multimodal](#multimodal) <kbd>7</kbd>
+- [Multimodal](#multimodal) <kbd>8</kbd>
 - [Security](#security) <kbd>42</kbd>
 - [Productivity](#productivity) <kbd>36</kbd>
 - [Finance](#finance) <kbd>14</kbd>
-- [Science](#science) <kbd>33</kbd>
+- [Science](#science) <kbd>34</kbd>
 - [Other](#other) <kbd>49</kbd>
 
 ## Video
 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) — ⭐ 133,207 · `TypeScript` · Library — This repository is a comprehensive collection of publicly available IPTV (Internet Protocol Television) channels from around the world, provided as M3U playlists, designed for streaming and viewing TV content.
 - [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) — ⭐ 1,667 · `Shell` · Awesome List — This is an ultimate collection of high-fidelity prompts and resources for Seedance 2.0, focusing on generating cinematic film, anime, and other video content. It also includes API guides and advanced video generation workflows.
 - [cclank/lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) — ⭐ 27 · `HTML` · Awesome List — This repository provides a comprehensive toolkit for enterprise AI video generation projects. It includes a curated collection of 411 prompts, 15 models, 7 Claude Skills, and 14 methodologies to aid in creating AI-generated videos.
 - [NMM-Roadmap/Awesome-NMM-List](https://github.com/NMM-Roadmap/Awesome-NMM-List) — ⭐ 18 · Awesome List — A curated list of resources, papers, and projects related to Neural Motion Models (NMM), a field focused on generating and analyzing realistic motion for various applications.
@@ -71,7 +72,7 @@
 ## Text
 
 <details>
-<summary>Show 57 repos</summary>
+<summary>Show 58 repos</summary>
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — ⭐ 74,441 · `MDX` · Tutorial/Course — This repository is a comprehensive guide to prompt engineering, offering a rich collection of papers, lessons, notebooks, and resources. It covers prompt design, context engineering, RAG, and AI agents for large language models.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) — ⭐ 62,215 · `Python` · Awesome List — This is a curated list of awesome Claude Skills, resources, and tools designed to help customize and enhance Claude AI workflows. It provides a structured way to manage and progressively load hundreds of skills for Claude agents without exhausting context windows.
@@ -123,6 +124,7 @@
 - [guia-matthieu/clawfu-skills](https://github.com/guia-matthieu/clawfu-skills) — ⭐ 98 · `Python` · Skill Pack — This repository offers a collection of 172 expert marketing skills designed for AI agents, specifically compatible with the ClawFu MCP Server. It serves as a resource for enhancing AI agent capabilities in marketing.
 - [dama-cyber/Distilled-Novel-Toolbox](https://github.com/dama-cyber/Distilled-Novel-Toolbox) — ⭐ 97 · Tutorial/Course — A comprehensive knowledge base and toolbox for AI-assisted novel writing, covering the entire creative process from ideation to publishing with methodologies, reference documents, and templates.
 - [kid-sid/claude-spellbook](https://github.com/kid-sid/claude-spellbook) — ⭐ 77 · `Python` · Skill Pack — This repository provides a curated collection of skills, prompts, and workflows aimed at extending Claude AI's capabilities for code-related engineering tasks such as code review, security auditing, and test generation. It serves as a personal grimoire to specialize Claude for AI-powered development.
+- [selfimproving-agent/Awesome-Self-Improving-Agents](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents) — ⭐ 57 · `TeX` · Awesome List — A curated list of resources focused on self-improvement techniques for agentic systems built upon foundation models.
 - [madhvantyagi/SOUL.md](https://github.com/madhvantyagi/SOUL.md) — ⭐ 56 · Boilerplate/Template — This repository is a collection of \`Soul.md\` files, each designed to define unique personalities and behavioral traits for AI agents. These files specify how an agent speaks, what it believes, how it handles uncertainty, and its core principles.
 - [AICMO/AiCMO-Marketing-Prompt-Collection](https://github.com/AICMO/AiCMO-Marketing-Prompt-Collection) — ⭐ 53 · Awesome List — This repository provides a collection of prompts and a knowledge base tailored for AI-powered Chief Marketing Officers (CMOs). It aims to assist marketing professionals in leveraging AI effectively through structured prompts and curated information.
 - [worldbench/awesome-ai-auto-research](https://github.com/worldbench/awesome-ai-auto-research) — ⭐ 53 · `HTML` · Awesome List — This repository is a curated survey and resource list on AI Auto-Research, focusing on topics like AI agents, multi-agent systems, RAG, and large language models for automated research tasks.
@@ -255,6 +257,7 @@
 
 ## Data
 
+- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) — ⭐ 77,181 · Awesome List — This is a comprehensive, topic-centric list of high-quality, publicly available datasets across various domains like agriculture, biology, and healthcare, complete with metadata and availability status.
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) — ⭐ 71,501 · `Roff` · Dataset — An open-source collection of K-12 and university textbooks from China (People's Education Press), provided as PDF files for educational use.
 - [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list) — ⭐ 5,425 · `JavaScript` · Awesome List — A comprehensive collection of APIs for developers, enabling the creation of various applications from simple automations to full-scale projects. This list is a valuable resource for data collection and integration.
 - [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) — ⭐ 4,555 · Awesome List — This repository provides a curated list of datasets and tools specifically designed for post-training (e.g., instruction tuning, reasoning) of large language models.
@@ -324,6 +327,7 @@
 
 ## Multimodal
 
+- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) — ⭐ 12,344 · Awesome List — A curated list of modern Generative Artificial Intelligence projects and services, covering various aspects of AI, machine learning, and agent-based systems.
 - [knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) — ⭐ 3,005 · Awesome List — This is a curated list of research papers and resources related to world modeling, covering areas like embodied AI and autonomous driving. It serves as a central hub for researchers and practitioners interested in the field.
 - [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) — ⭐ 2,689 · `JavaScript` · Tutorial/Course — This repository serves as a comprehensive collection of tutorials, guides, and custom Python scripts for various generative AI technologies, including Stable Diffusion, SDXL, SD3, and FLUX. It covers topics like image and video generation, deepfakes, text-to-speech, and advanced training techniques such as LoRA and DreamBooth.
 - [tsinghua-fib-lab/World-Model](https://github.com/tsinghua-fib-lab/World-Model) — ⭐ 689 · Awesome List — This repository offers a comprehensive survey and curated list of research resources on World Models, focusing on understanding the world and predicting the future in various AI intelligence domains. It serves as an academic resource on model theory and applications.
@@ -451,7 +455,7 @@
 ## Science
 
 <details>
-<summary>Show 33 repos</summary>
+<summary>Show 34 repos</summary>
 
 - [ossu/computer-science](https://github.com/ossu/computer-science) — ⭐ 204,852 · `HTML` · Awesome List — This repository provides a curated, free, self-taught curriculum for computer science, guiding individuals through a comprehensive path to education in the field.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) — ⭐ 81,311 · Awesome List — A curated list of free computer science courses from top universities worldwide, presented with video lectures and covering topics like algorithms, operating systems, machine learning, and generative AI.
@@ -484,6 +488,7 @@
 - [yaojingang/geo-citation-lab](https://github.com/yaojingang/geo-citation-lab) — ⭐ 255 · `Python` · Dataset — This repository contains GEO experiment data reports and a curated collection of 41 academic papers related to GEO, AEO, and AI search, serving as a resource for research.
 - [Jerry-0821/ml-dl-formula-cheatsheet](https://github.com/Jerry-0821/ml-dl-formula-cheatsheet) — ⭐ 245 · `TeX` · Tutorial/Course — A repository containing two PDF cheatsheets, written in LaTeX, that summarize core mathematical formulas for Machine Learning and Deep Learning. It helps users quickly review key concepts, symbols, update rules, and tensor shapes without needing to refer to full textbooks.
 - [amitshekhariitbhu/build-your-own-x-machine-learning](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning) — ⭐ 150 · `Python` · Awesome List — A curated learning path to master machine learning by building algorithms from scratch, covering topics from linear regression to deep learning and large language models (LLMs). This resource provides projects and guidance for understanding fundamental ML concepts.
+- [RUC-NLPIR/Awesome-Long-Horizon-Agents](https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents) — ⭐ 68 · Awesome List — This repository presents a comprehensive survey and roadmap focused on long-horizon AI agents, exploring their autonomous task capabilities and the co-evolution of their harness and optimization.
 - [modelscope/Awesome-Vibe-Research](https://github.com/modelscope/Awesome-Vibe-Research) — ⭐ 17 · Awesome List — This is an open, collaboratively-built repository focused on AI-assisted scientific research, collecting and curating agents, skills, workflows, tools, and best practices across the entire research lifecycle.
 - [GoekeLab/awesome-genomic-skills](https://github.com/GoekeLab/awesome-genomic-skills) — ⭐ 11 · Awesome List — A curated list of agentic skills, MCPs, and benchmarks focused on genomics and bioinformatics. It provides resources compatible with various coding AI assistants.
 
