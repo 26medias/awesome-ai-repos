@@ -9,8 +9,8 @@
 - [Video](#video) <kbd>4</kbd>
 - [Image](#image) <kbd>20</kbd>
 - [Audio](#audio) <kbd>6</kbd>
-- [Text](#text) <kbd>58</kbd>
-- [Code](#code) <kbd>85</kbd>
+- [Text](#text) <kbd>59</kbd>
+- [Code](#code) <kbd>86</kbd>
 - [Browser](#browser) <kbd>2</kbd>
 - [Robotics](#robotics) <kbd>10</kbd>
 - [3D](#3d) <kbd>6</kbd>
@@ -19,9 +19,9 @@
 - [Models](#models) <kbd>4</kbd>
 - [Infrastructure](#infrastructure) <kbd>19</kbd>
 - [Multimodal](#multimodal) <kbd>8</kbd>
-- [Security](#security) <kbd>42</kbd>
+- [Security](#security) <kbd>43</kbd>
 - [Productivity](#productivity) <kbd>36</kbd>
-- [Finance](#finance) <kbd>14</kbd>
+- [Finance](#finance) <kbd>15</kbd>
 - [Science](#science) <kbd>34</kbd>
 - [Other](#other) <kbd>49</kbd>
 
@@ -72,8 +72,9 @@
 ## Text
 
 <details>
-<summary>Show 58 repos</summary>
+<summary>Show 59 repos</summary>
 
+- [f/prompts.chat](https://github.com/f/prompts.chat) — ⭐ 165,966 · `HTML` · Self-hosted Service — This project, formerly known as Awesome ChatGPT Prompts, provides an open-source, self-hostable platform for the community to share, discover, and collect prompts for various large language models.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — ⭐ 74,441 · `MDX` · Tutorial/Course — This repository is a comprehensive guide to prompt engineering, offering a rich collection of papers, lessons, notebooks, and resources. It covers prompt design, context engineering, RAG, and AI agents for large language models.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) — ⭐ 62,215 · `Python` · Awesome List — This is a curated list of awesome Claude Skills, resources, and tools designed to help customize and enhance Claude AI workflows. It provides a structured way to manage and progressively load hundreds of skills for Claude agents without exhausting context windows.
 - [asgeirtj/system\_prompts\_leaks](https://github.com/asgeirtj/system_prompts_leaks) — ⭐ 42,094 · `JavaScript` · Awesome List — This repository is a curated collection of extracted system prompts from various large language models and AI tools like Claude, ChatGPT, Gemini, Grok, Cursor, Copilot, and VS Code. It serves as a centralized directory for prompt engineers and developers to quickly access and compare the underlying instructions given to these AI systems.
@@ -138,7 +139,7 @@
 ## Code
 
 <details>
-<summary>Show 85 repos</summary>
+<summary>Show 86 repos</summary>
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — ⭐ 451,590 · `TypeScript` · Tutorial/Course — freeCodeCamp is an open-source platform offering a comprehensive curriculum to learn math, programming, and computer science for free. It provides structured educational content and projects for aspiring developers worldwide.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) — ⭐ 391,662 · `Python` · Awesome List — This repository is a curated collection of freely available programming books, serving as a valuable educational resource for anyone looking to learn programming or computer science. It provides access to a vast library of digital books.
@@ -176,6 +177,7 @@
 - [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) — ⭐ 6,835 · `Python` · Awesome List — This repository provides a curated list of practical skills for Codex, designed to automate workflows across its CLI and API. It serves as a resource for extending Codex's capabilities.
 - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) — ⭐ 6,608 · Awesome List — A curated list of resources, research papers, and cool links related to applying Machine Learning to source code (MLonCode).
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) — ⭐ 6,557 · `JavaScript` · Awesome List — This repository is a curated list of plugins, themes, agents, and resources specifically designed for OpenCode.ai, which functions as a terminal AI coding agent. It serves as a centralized hub for tools and extensions that enhance the OpenCode.ai platform.
+- [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) — ⭐ 5,737 · Awesome List — This is an awesome list compiling over 130 specialized subagents for Codex, covering various development use cases. It serves as a resource for users to quickly deploy pre-configured AI roles for coding tasks.
 - [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) — ⭐ 4,051 · Awesome List — This is a curated "awesome list" that compiles references and resources related to 'vibe coding,' which focuses on collaborating with AI to write code. It serves as a directory for tools and information on AI-assisted programming.
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) — ⭐ 3,655 · `HTML` · Awesome List — This repository is an awesome list collecting a wide range of production-ready AI agent templates designed for the OpenClaw platform. It provides SOUL.md configuration files across various categories, enabling users to quickly deploy and customize multi-agent systems.
 - [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) — ⭐ 3,567 · `JavaScript` · Tutorial/Course — This repository offers a tutorial for building AI agents from scratch using local LLMs, focusing on core concepts like function calling, memory, and ReAct patterns. It aims to demystify AI agents through practical, hands-on construction without relying on black-box solutions.
@@ -339,7 +341,7 @@
 ## Security
 
 <details>
-<summary>Show 42 repos</summary>
+<summary>Show 43 repos</summary>
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) — ⭐ 221,038 · Awesome List — A comprehensive collection of inspiring lists, manuals, cheatsheets, and command-line/web tools, specifically curated as a resource for security researchers, pentesters, and system operators.
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) — ⭐ 47,750 · `Kotlin` · Tutorial/Course — This project offers extensive tutorials and resources for internet censorship circumvention (fanqiang), covering methods like downloading software, registering accounts, and setting up VPS or soft routers. It provides guides for multiple operating systems, maintained and updated for nearly a decade.
@@ -349,6 +351,7 @@
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) — ⭐ 21,422 · `TypeScript` · Application — This project offers an interactive web-based checklist comprising over 300 tips for enhancing digital security and privacy, covering personal accounts, IoT devices, and financial protection.
 - [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap) — ⭐ 8,858 · Awesome List — This repository offers a collection of mind maps for cybersecurity technologies, methodologies, courses, and certifications, presented in a tree structure to provide brief details and overviews.
 - [cipher387/osint\_stuff\_tool\_collection](https://github.com/cipher387/osint_stuff_tool_collection) — ⭐ 7,972 · `HTML` · Awesome List — This repository is a curated collection of over a thousand online tools primarily focused on Open-Source Intelligence (OSINT), covering areas like cybersecurity, geoint, and social media intelligence.
+- [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) — ⭐ 7,063 · Awesome List — A curated list of resources, tools, books, and courses for learning and performing web application security, penetration testing, and vulnerability assessment.
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) — ⭐ 6,448 · Awesome List — This is a curated list providing resources and instructions for opting out of data brokers, helping users enhance their privacy.
 - [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports) — ⭐ 5,938 · `Python` · Awesome List — This repository compiles top disclosed bug bounty reports and writeups from the HackerOne platform. It serves as a resource for security researchers and bug bounty hunters.
 - [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) — ⭐ 5,782 · `Python` · Awesome List — This repository offers a curated and organized list of bug bounty writeups, categorized by bug type. It serves as a comprehensive reference for bug bounty hunters.
@@ -433,7 +436,7 @@
 ## Finance
 
 <details>
-<summary>Show 14 repos</summary>
+<summary>Show 15 repos</summary>
 
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) — ⭐ 8,141 · `Python` · Awesome List — This repository is a curated list of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading. It serves as a comprehensive resource for quantitative finance and algorithmic trading enthusiasts.
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) — ⭐ 6,065 · Awesome List — This is a curated list of awesome resources, including LLMs, deep learning strategies, and tools for analysis and trading in the financial market.
@@ -446,6 +449,7 @@
 - [yourincomehome/awesome-passive-income](https://github.com/yourincomehome/awesome-passive-income) — ⭐ 316 · Awesome List — This is a curated list of resources, ideas, and strategies for generating passive income online. It covers various methods such as affiliate marketing, blogging, and bootstrapping businesses.
 - [leoncuhk/awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai) — ⭐ 303 · `Jupyter Notebook` · Awesome List — This is a curated list of AI and machine learning resources relevant to quantitative investment and algorithmic trading strategies within the financial sector.
 - [MobiusQuant/OpenMobius-skill](https://github.com/MobiusQuant/OpenMobius-skill) — ⭐ 188 · `Python` · Skill Pack — A skill pack containing ICT/SMC trading knowledge, concepts, and case studies, designed to be integrated with AI coding agents. It provides a knowledge base derived from trading educational videos to enable agents to perform market analysis and data visualization.
+- [BlockRunAI/awesome-finance-mcp](https://github.com/BlockRunAI/awesome-finance-mcp) — ⭐ 163 · Awesome List — This repository is an awesome list that curates MCP servers and AI skills relevant to finance agents. It covers resources for stock market data, trading execution, and crypto analytics.
 - [quantskills/quantskills](https://github.com/quantskills/quantskills) — ⭐ 148 · `JavaScript` · Awesome List — This is a panoramic navigator and resource list for the QuantSkills organization, providing a categorized and clickable index of quantitative skills and AI agents. It aims to help quantitative developers easily find, install, and reuse standardized assets related to factors, research, and trading.
 - [OpenBB-finance/awesome-openbb](https://github.com/OpenBB-finance/awesome-openbb) — ⭐ 91 · Awesome List — A curated list of applications, widgets, data sources, and AI agents related to OpenBB, a financial data platform. It serves as a comprehensive resource for extending and utilizing OpenBB's capabilities.
 - [Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers) — ⭐ 55 · Awesome List — This repository is a curated collection of academic papers focused on quantitative trading using large language models. It serves as a resource for researchers and practitioners in the field.
