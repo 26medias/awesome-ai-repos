@@ -9,9 +9,9 @@
 - [Video](#video) <kbd>4</kbd>
 - [Image](#image) <kbd>20</kbd>
 - [Audio](#audio) <kbd>6</kbd>
-- [Text](#text) <kbd>59</kbd>
+- [Text](#text) <kbd>60</kbd>
 - [Code](#code) <kbd>86</kbd>
-- [Browser](#browser) <kbd>2</kbd>
+- [Browser](#browser) <kbd>3</kbd>
 - [Robotics](#robotics) <kbd>10</kbd>
 - [3D](#3d) <kbd>6</kbd>
 - [Data](#data) <kbd>7</kbd>
@@ -19,10 +19,10 @@
 - [Models](#models) <kbd>4</kbd>
 - [Infrastructure](#infrastructure) <kbd>19</kbd>
 - [Multimodal](#multimodal) <kbd>8</kbd>
-- [Security](#security) <kbd>43</kbd>
-- [Productivity](#productivity) <kbd>36</kbd>
+- [Security](#security) <kbd>44</kbd>
+- [Productivity](#productivity) <kbd>37</kbd>
 - [Finance](#finance) <kbd>15</kbd>
-- [Science](#science) <kbd>34</kbd>
+- [Science](#science) <kbd>35</kbd>
 - [Other](#other) <kbd>49</kbd>
 
 ## Video
@@ -72,7 +72,7 @@
 ## Text
 
 <details>
-<summary>Show 59 repos</summary>
+<summary>Show 60 repos</summary>
 
 - [f/prompts.chat](https://github.com/f/prompts.chat) — ⭐ 165,966 · `HTML` · Self-hosted Service — This project, formerly known as Awesome ChatGPT Prompts, provides an open-source, self-hostable platform for the community to share, discover, and collect prompts for various large language models.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — ⭐ 74,441 · `MDX` · Tutorial/Course — This repository is a comprehensive guide to prompt engineering, offering a rich collection of papers, lessons, notebooks, and resources. It covers prompt design, context engineering, RAG, and AI agents for large language models.
@@ -125,6 +125,7 @@
 - [guia-matthieu/clawfu-skills](https://github.com/guia-matthieu/clawfu-skills) — ⭐ 98 · `Python` · Skill Pack — This repository offers a collection of 172 expert marketing skills designed for AI agents, specifically compatible with the ClawFu MCP Server. It serves as a resource for enhancing AI agent capabilities in marketing.
 - [dama-cyber/Distilled-Novel-Toolbox](https://github.com/dama-cyber/Distilled-Novel-Toolbox) — ⭐ 97 · Tutorial/Course — A comprehensive knowledge base and toolbox for AI-assisted novel writing, covering the entire creative process from ideation to publishing with methodologies, reference documents, and templates.
 - [kid-sid/claude-spellbook](https://github.com/kid-sid/claude-spellbook) — ⭐ 77 · `Python` · Skill Pack — This repository provides a curated collection of skills, prompts, and workflows aimed at extending Claude AI's capabilities for code-related engineering tasks such as code review, security auditing, and test generation. It serves as a personal grimoire to specialize Claude for AI-powered development.
+- [Mai-xiyu/Codex-Prompt](https://github.com/Mai-xiyu/Codex-Prompt) — ⭐ 73 · Awesome List — A collection of prompts specifically engineered for use with Codex and other GPT-based language models, focusing on prompt engineering techniques for various tasks.
 - [selfimproving-agent/Awesome-Self-Improving-Agents](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents) — ⭐ 57 · `TeX` · Awesome List — A curated list of resources focused on self-improvement techniques for agentic systems built upon foundation models.
 - [madhvantyagi/SOUL.md](https://github.com/madhvantyagi/SOUL.md) — ⭐ 56 · Boilerplate/Template — This repository is a collection of \`Soul.md\` files, each designed to define unique personalities and behavioral traits for AI agents. These files specify how an agent speaks, what it believes, how it handles uncertainty, and its core principles.
 - [AICMO/AiCMO-Marketing-Prompt-Collection](https://github.com/AICMO/AiCMO-Marketing-Prompt-Collection) — ⭐ 53 · Awesome List — This repository provides a collection of prompts and a knowledge base tailored for AI-powered Chief Marketing Officers (CMOs). It aims to assist marketing professionals in leveraging AI effectively through structured prompts and curated information.
@@ -233,6 +234,7 @@
 ## Browser
 
 - [cporter202/social-media-scraping-apis](https://github.com/cporter202/social-media-scraping-apis) — ⭐ 1,204 · `JavaScript` · Awesome List — This is a curated collection of social media scraping APIs and tools for major platforms like Instagram, LinkedIn, Twitter/X, TikTok, YouTube, and Facebook. It helps users extract various data, including posts, profiles, videos, and engagement metrics.
+- [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) — ⭐ 581 · `HTML` · Awesome List — This repository provides an extensive, curated list of desktop web browsers, mapping over 280 different browsers with details on their rendering engines and supported operating systems.
 - [kklt92/awesome-ai-extensions](https://github.com/kklt92/awesome-ai-extensions) — ⭐ 477 · Awesome List — This repository is a curated list of AI-powered browser extensions, plugins, and add-ons. It categorizes them by use case, such as automation, writing, research summarization, and search, providing descriptions and links.
 
 ## Robotics
@@ -341,7 +343,7 @@
 ## Security
 
 <details>
-<summary>Show 43 repos</summary>
+<summary>Show 44 repos</summary>
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) — ⭐ 221,038 · Awesome List — A comprehensive collection of inspiring lists, manuals, cheatsheets, and command-line/web tools, specifically curated as a resource for security researchers, pentesters, and system operators.
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) — ⭐ 47,750 · `Kotlin` · Tutorial/Course — This project offers extensive tutorials and resources for internet censorship circumvention (fanqiang), covering methods like downloading software, registering accounts, and setting up VPS or soft routers. It provides guides for multiple operating systems, maintained and updated for nearly a decade.
@@ -380,6 +382,7 @@
 - [simon-p-j-r/LLM4Pentest](https://github.com/simon-p-j-r/LLM4Pentest) — ⭐ 186 · Awesome List — This is a curated list of LLM resources specifically for automated penetration testing. It helps security professionals find tools and information to use large language models in their pen-testing workflows.
 - [7WaySecurity/ai\_osint](https://github.com/7WaySecurity/ai_osint) — ⭐ 135 · Awesome List — A curated list of AI OSINT resources, including Google dorks, Shodan queries, GitHub dorks, and techniques. It's designed to help discover exposed LLM endpoints, leaked AI API keys, misconfigured vector databases, and unprotected AI agents.
 - [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) — ⭐ 125 · Awesome List — This is an awesome list compiling various tools, frameworks, and resources dedicated to implementing compliance, security, and governance controls for Terraform and OpenTofu infrastructure.
+- [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools) — ⭐ 109 · `Python` · Awesome List — This is a curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity, covering topics like LLM red-teaming, agent security, AI/ML supply chain, and pentesting.
 - [wearetyomsmnv/Awesome-LLMSecOps](https://github.com/wearetyomsmnv/Awesome-LLMSecOps) — ⭐ 109 · `HTML` · Awesome List — This is an awesome list compiling resources, links, and information related to LLM security and operations (LLMSecOps). It covers topics like prompt injection, red-teaming, and general AI security.
 - [x-zheng16/Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) — ⭐ 98 · `Shell` · Awesome List — This repository provides a comprehensive survey and curated list of over 500 papers on safety in Embodied AI, mapping out risks, adversarial attacks, and defense strategies. It covers aspects from perception and cognition to planning and interaction in agentic systems like robot cars and healthcare assistants.
 - [vinayaklatthe/microsoft-security-skills](https://github.com/vinayaklatthe/microsoft-security-skills) — ⭐ 85 · `JavaScript` · Skill Pack — This repository offers a curated collection of 56 Microsoft Security skills for AI agents, enabling them to provide accurate security configuration and operational guidance for products like Defender, Sentinel, and Entra. Each skill details decision processes, operational steps, and common pitfalls, all derived from Microsoft Learn documentation.
@@ -392,7 +395,7 @@
 ## Productivity
 
 <details>
-<summary>Show 36 repos</summary>
+<summary>Show 37 repos</summary>
 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) — ⭐ 49,037 · Awesome List — A curated awesome list of open-source applications available for macOS. It serves as a comprehensive directory for users seeking free and open-source software for their Mac computers.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) — ⭐ 40,299 · `JavaScript` · Awesome List — This repository hosts the source for remoteintech.company, a community-maintained directory listing tech companies with remote work opportunities. It's a valuable resource for job seekers.
@@ -402,6 +405,7 @@
 - [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) — ⭐ 25,515 · Tutorial/Course — System Design Academy is a comprehensive educational resource for learning system design. It covers fundamentals, real-world company case studies (e.g., Netflix, Uber), and AI engineering concepts like RAG, multi-agent systems, and vector databases.
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) — ⭐ 23,632 · `Python` · Awesome List — This repository is a curated list of developer portfolios, serving as inspiration for other developers looking to create or improve their own portfolios.
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) — ⭐ 22,454 · Awesome List — This repository offers a collection of over 280 free n8n automation templates designed to streamline workflows across various platforms like Gmail, Telegram, Slack, and OpenAI. It enables users to deploy AI agents, RAG chatbots, manage emails, social media, and documents by importing ready-to-use JSON workflows into their n8n instance.
+- [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) — ⭐ 22,018 · Awesome List — This repository is a comprehensive and categorized collection of over 10,000 Telegram groups, channels, and useful bots, designed to help users easily discover and navigate Telegram resources.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) — ⭐ 19,374 · Awesome List — A curated list of various projects that provide terminal user interfaces (TUIs).
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) — ⭐ 16,532 · `SCSS` · Awesome List — This repository provides a comprehensive collection of badges for enhancing developer branding, profiles, and projects, primarily intended for use in GitHub profiles and README files.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) — ⭐ 11,463 · Skill Pack — A marketplace or collection of over 100 agentic skills, commands, and plugins specifically designed for product management tasks, ranging from discovery to strategy, execution, launch, and growth, primarily for Claude Code.
@@ -459,7 +463,7 @@
 ## Science
 
 <details>
-<summary>Show 34 repos</summary>
+<summary>Show 35 repos</summary>
 
 - [ossu/computer-science](https://github.com/ossu/computer-science) — ⭐ 204,852 · `HTML` · Awesome List — This repository provides a curated, free, self-taught curriculum for computer science, guiding individuals through a comprehensive path to education in the field.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) — ⭐ 81,311 · Awesome List — A curated list of free computer science courses from top universities worldwide, presented with video lectures and covering topics like algorithms, operating systems, machine learning, and generative AI.
@@ -467,6 +471,7 @@
 - [mli/paper-reading](https://github.com/mli/paper-reading) — ⭐ 33,062 · Tutorial/Course — A curated collection of detailed, paragraph-by-paragraph analyses and intensive readings of classic and new deep learning research papers.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) — ⭐ 29,914 · Awesome List — This repository is a curated collection of papers and tech blogs focusing on how companies apply data science and machine learning in production environments. It covers various ML subfields like computer vision, NLP, and recommendation systems.
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) — ⭐ 23,469 · Awesome List — This is a curated and ranked list of awesome Python libraries for machine learning, deep learning, natural language processing, and data science, updated weekly.
+- [AccumulateMore/CV](https://github.com/AccumulateMore/CV) — ⭐ 22,743 · `Jupyter Notebook` · Tutorial/Course — This repository provides a comprehensive collection of deep learning notes and tutorials, serving as an ultimate study guide covering topics like PyTorch, LLMs, and computer vision from various renowned courses.
 - [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers) — ⭐ 16,768 · Awesome List — A curated list of essential research papers focusing on Graph Neural Networks (GNNs), designed for researchers and students looking for must-read literature in the field.
 - [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) — ⭐ 15,915 · `MATLAB` · Tutorial/Course — This repository hosts an open-source book titled "Mathematical Foundations of Reinforcement Learning," which provides a comprehensive guide to the mathematical principles, algorithms, and derivations essential for understanding and building RL models.
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) — ⭐ 12,511 · Tutorial/Course — This repository offers a comprehensive guide for Machine Learning interview preparation, covering topics like system design and common questions from top tech companies. It is designed to help aspiring ML engineers secure job offers.
