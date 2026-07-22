@@ -9,7 +9,7 @@
 - [Video](#video) <kbd>5</kbd>
 - [Image](#image) <kbd>20</kbd>
 - [Audio](#audio) <kbd>6</kbd>
-- [Text](#text) <kbd>60</kbd>
+- [Text](#text) <kbd>61</kbd>
 - [Code](#code) <kbd>89</kbd>
 - [Browser](#browser) <kbd>3</kbd>
 - [Robotics](#robotics) <kbd>10</kbd>
@@ -21,7 +21,7 @@
 - [Multimodal](#multimodal) <kbd>8</kbd>
 - [Security](#security) <kbd>45</kbd>
 - [Productivity](#productivity) <kbd>37</kbd>
-- [Finance](#finance) <kbd>15</kbd>
+- [Finance](#finance) <kbd>16</kbd>
 - [Science](#science) <kbd>35</kbd>
 - [Other](#other) <kbd>49</kbd>
 
@@ -73,7 +73,7 @@
 ## Text
 
 <details>
-<summary>Show 60 repos</summary>
+<summary>Show 61 repos</summary>
 
 - [f/prompts.chat](https://github.com/f/prompts.chat) — ⭐ 165,966 · `HTML` · Self-hosted Service — This project, formerly known as Awesome ChatGPT Prompts, provides an open-source, self-hostable platform for the community to share, discover, and collect prompts for various large language models.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — ⭐ 74,441 · `MDX` · Tutorial/Course — This repository is a comprehensive guide to prompt engineering, offering a rich collection of papers, lessons, notebooks, and resources. It covers prompt design, context engineering, RAG, and AI agents for large language models.
@@ -113,6 +113,7 @@
 - [mliu98/awesome-human-distillation](https://github.com/mliu98/awesome-human-distillation) — ⭐ 642 · `Python` · Awesome List — This is a curated catalog of 'human distillation' agent skills, which are AI capability packages designed to capture and replicate the expression style, thinking patterns, and judgment logic of specific individuals for use with AI agents.
 - [TsinghuaC3I/Awesome-Memory-for-Agents](https://github.com/TsinghuaC3I/Awesome-Memory-for-Agents) — ⭐ 521 · Awesome List — This repository is a curated collection of research papers focusing on the concept of memory in language agents, covering aspects like short-term, long-term, and experiential memory.
 - [daronyondem/claude-architect-exam-guide](https://github.com/daronyondem/claude-architect-exam-guide) — ⭐ 486 · `Shell` · Tutorial/Course — This repository serves as a community study guide to help users prepare for the Claude Certified Architect – Foundations certification exam. It provides resources and information for learning about Claude and its architecture.
+- [AiHubCN/Awesome-LLM-Survey](https://github.com/AiHubCN/Awesome-LLM-Survey) — ⭐ 393 · Awesome List — This repository provides an awesome list, curating a collection of survey papers related to Large Language Models (LLMs). It serves as a resource for researchers and practitioners to find comprehensive overviews of various LLM topics.
 - [coree/awesome-rag](https://github.com/coree/awesome-rag) — ⭐ 382 · Awesome List — This is a curated list of resources focused on Retrieval-Augmented Generation (RAG) in large language models. It includes papers and tools for enhancing LLM capabilities with external knowledge.
 - [LimHyungTae/awesome-claudecode-paper-proofreading](https://github.com/LimHyungTae/awesome-claudecode-paper-proofreading) — ⭐ 356 · Awesome List — This repository provides a collection of prompts designed for research paper proofreading, leveraging Claude Code to automate the review process for LaTeX documents.
 - [EIT-NLP/Awesome-Latent-CoT](https://github.com/EIT-NLP/Awesome-Latent-CoT) — ⭐ 340 · Awesome List — This repository provides a regularly updated list of research papers focused on LLM reasoning within latent space, specifically for Chain-of-Thought reasoning.
@@ -445,11 +446,12 @@
 ## Finance
 
 <details>
-<summary>Show 15 repos</summary>
+<summary>Show 16 repos</summary>
 
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) — ⭐ 8,141 · `Python` · Awesome List — This repository is a curated list of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading. It serves as a comprehensive resource for quantitative finance and algorithmic trading enthusiasts.
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) — ⭐ 6,065 · Awesome List — This is a curated list of awesome resources, including LLMs, deep learning strategies, and tools for analysis and trading in the financial market.
 - [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) — ⭐ 4,266 · `HTML` · Awesome List — This is a curated list of libraries, packages, and resources designed for systematic and quantitative trading. It covers various financial instruments including cryptocurrencies, stocks, futures, and options, aiming to assist in algorithmic trading and investment strategies.
+- [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) — ⭐ 3,877 · Awesome List — This is an awesome list of carefully curated resources for quantitative and algorithmic trading, with a strong emphasis on machine learning. It includes recommended books, courses, and videos, filtering out low-quality content.
 - [EliteQuant/EliteQuant](https://github.com/EliteQuant/EliteQuant) — ⭐ 3,838 · Awesome List — A curated list of online resources for quantitative modeling, trading, and portfolio management, serving as a comprehensive guide for those interested in quantitative finance and algorithmic trading.
 - [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) — ⭐ 2,155 · `Python` · Awesome List — This is an awesome list of financial agent skills designed to empower AI agents with capabilities like real-time stock data access, sentiment analysis, and complex logic chains for financial analysis.
 - [cbailes/awesome-deep-trading](https://github.com/cbailes/awesome-deep-trading) — ⭐ 1,894 · Awesome List — This repository is an awesome list compiling deep learning and machine learning resources specifically for algorithmic trading. It covers topics like quantitative trading, cryptocurrency, and fintech, making it a valuable resource for those interested in automated trading strategies.
