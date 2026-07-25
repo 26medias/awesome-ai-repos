@@ -6,13 +6,13 @@
 
 [↑ Back to index](README.md)
 
-- [Generic LLM](#generic-llm) <kbd>1249</kbd>
-- [Claude Code](#claude-code) <kbd>836</kbd>
-- [Codex CLI](#codex-cli) <kbd>426</kbd>
+- [Generic LLM](#generic-llm) <kbd>1250</kbd>
+- [Claude Code](#claude-code) <kbd>837</kbd>
+- [Codex CLI](#codex-cli) <kbd>427</kbd>
 - [Anthropic API](#anthropic-api) <kbd>341</kbd>
 - [OpenAI API](#openai-api) <kbd>338</kbd>
 - [Cursor](#cursor) <kbd>201</kbd>
-- [Gemini CLI](#gemini-cli) <kbd>168</kbd>
+- [Gemini CLI](#gemini-cli) <kbd>169</kbd>
 - [Claude.ai](#claudeai) <kbd>83</kbd>
 - [ChatGPT](#chatgpt) <kbd>75</kbd>
 - [GitHub Copilot](#github-copilot) <kbd>69</kbd>
@@ -20,7 +20,7 @@
 ## Generic LLM
 
 <details>
-<summary>Show 1249 repos</summary>
+<summary>Show 1250 repos</summary>
 
 - [re4/LibreCode](https://github.com/re4/LibreCode) — ⭐ 1,040,442 · `C#` · Code — An AI-powered, local-first code editor and reverse engineering interface. It integrates with Ollama for offline AI capabilities and includes a .NET decompiler, aiming to provide a privacy-focused alternative to cloud-based AI coding tools.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) — ⭐ 368,773 · `TypeScript` · Productivity — OpenClaw is a personal AI assistant built to run on any operating system and platform. It aims to offer a customizable AI experience with a strong emphasis on user data ownership.
@@ -573,6 +573,7 @@
 - [supavec/supavec](https://github.com/supavec/supavec) — ⭐ 978 · `TypeScript` · Text — This project is an open-source, self-hosted alternative to Carbon.ai, designed to help users build powerful RAG (Retrieval Augmented Generation) applications that can integrate with various data sources at any scale.
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) — ⭐ 961 · `Go` · Security — Agent Vault is an open-source HTTP credential proxy and vault specifically designed for AI agents. It ensures secure secrets management by injecting credentials at the network level, preventing agents from directly handling sensitive API keys.
 - [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) — ⭐ 952 · `Python` · Productivity — A Python framework that enables AI agents to autonomously build and maintain an Obsidian wiki, serving as a knowledge base or memory store for the agents. It follows Karpathy's LLM Wiki pattern and focuses on agent skills and LLM tools for knowledge management.
+- [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) — ⭐ 940 · `Go` · Security — A tool that uses Large Language Models to embed and extract hidden messages within seemingly normal conversations, leveraging steganography principles.
 - [weaviate/recipes](https://github.com/weaviate/recipes) — ⭐ 940 · `Jupyter Notebook` · Infrastructure — This repository provides end-to-end Jupyter notebooks demonstrating how to use Weaviate, a vector database. It covers various features and integrations such as retrieval-augmented generation (RAG), multimodal embeddings, generative AI, and function calling with LLM frameworks.
 - [appergb/openless](https://github.com/appergb/openless) — ⭐ 935 · `HTML` · Productivity — OpenLess is an open-source voice input tool for macOS and Windows that converts spoken words into AI-polished text. Users hold a key to speak, and upon release, the refined text appears at their cursor in any application.
 - [chrisryugj/kordoc](https://github.com/chrisryugj/kordoc) — ⭐ 933 · `TypeScript` · Multimodal — This versatile tool functions as both a CLI and an MCP server, parsing various document formats including HWP, HWPX, PDF, XLSX, and DOCX, and converting them into Markdown. It streamlines document processing for integration with AI systems.
@@ -1277,7 +1278,7 @@
 ## Claude Code
 
 <details>
-<summary>Show 836 repos</summary>
+<summary>Show 837 repos</summary>
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — ⭐ 187,477 · `JavaScript` · Code — This is an agent harness system designed to optimize the performance of AI coding agents like Claude Code, Codex, and Cursor. It provides capabilities for managing agent skills, memory, instincts, and security, facilitating research-first development.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 184,116 · `JavaScript` · Code — This repository provides an agent harness system for optimizing the performance, skills, memory, and security of AI coding agents. It supports development for various tools like Claude Code, Codex, Opencode, and Cursor.
@@ -1981,6 +1982,7 @@
 - [WH-2099/mermaid-skill](https://github.com/WH-2099/mermaid-skill) — ⭐ 58 · Code — This repository provides a skill for Claude Code that enables it to generate various Mermaid diagrams, supporting all available diagram types for visual documentation.
 - [jasonsuhari/gridbash](https://github.com/jasonsuhari/gridbash) — ⭐ 57 · `Rust` · Code — This is a Windows-native terminal application that provides a grid interface to run and manage multiple command-line AI agents (like Codex, Claude, Gemini) simultaneously. It helps users organize terminals, manage multiple agent accounts, and potentially automate agent interactions.
 - [xisen-w/hl-imagenet](https://github.com/xisen-w/hl-imagenet) — ⭐ 57 · `Python` · Science — This repository documents experiments in heuristic learning applied to ImageNet, focusing on a pure symbolic vision system that operates without neural networks or backpropagation. The development process itself was iteratively improved using AI coding assistants like Claude Code and Codex.
+- [codedpro/mt5-trade-split-manager](https://github.com/codedpro/mt5-trade-split-manager) — ⭐ 57 · `MQL5` · Finance — This is an AI-agent-friendly MetaTrader 5 Expert Advisor that intelligently splits orders, provides automatic trailing stops, and offers a REST API for control. It's designed for automated trading of assets like Gold/Silver, with integration for Claude AI.
 - [DanielSuo117/velocitai](https://github.com/DanielSuo117/velocitai) — ⭐ 57 · `HTML` · Code — Velocitai is a UI automation harness built with Python and Playwright, designed to empower AI agents to generate, architect, and execute enterprise-grade UI test code. It acts as an AI agent governance framework, enabling agents like Claude Code or GitHub Copilot to autonomously write, debug, and evolve UI tests.
 - [chenklein26-maker/Harness-Starter](https://github.com/chenklein26-maker/Harness-Starter) — ⭐ 56 · `JavaScript` · Code — This is an out-of-the-box template for Claude Code Harness Engineering, providing a structured workflow for AI-assisted code development. It includes features like three-layer automation (security, perception, review), LSP integration, OpenSpec SDD workflow, and AI one-click initialization, suitable for both new and existing projects.
 - [ai-zixun/humanizer-zh](https://github.com/ai-zixun/humanizer-zh) — ⭐ 55 · Text — \`humanizer-zh\` is a skill compatible with Codex, Claude Code, and OpenClaw, designed to refine and rewrite Chinese text. Its purpose is to make AI-generated content sound more natural and authentic, similar to a native Chinese speaker's writing, suitable for various long-form texts.
@@ -2121,7 +2123,7 @@
 ## Codex CLI
 
 <details>
-<summary>Show 426 repos</summary>
+<summary>Show 427 repos</summary>
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — ⭐ 187,477 · `JavaScript` · Code — This is an agent harness system designed to optimize the performance of AI coding agents like Claude Code, Codex, and Cursor. It provides capabilities for managing agent skills, memory, instincts, and security, facilitating research-first development.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 184,116 · `JavaScript` · Code — This repository provides an agent harness system for optimizing the performance, skills, memory, and security of AI coding agents. It supports development for various tools like Claude Code, Codex, Opencode, and Cursor.
@@ -2490,6 +2492,7 @@
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) — ⭐ 35 · `Rust` · Productivity — This MCP server enables AI Agents to natively control Linux desktop applications by interacting with AT-SPI, GNOME Shell, Wayland, and ydotool, facilitating inputs, clicks, and window management without relying on screenshot OCR.
 - [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) — ⭐ 35 · `TypeScript` · Video — This repository provides an AI video skill for Claude Code & Codex that generates cinematic product videos. It includes shot recipe cards, motion previews, and a production-ready template using Remotion.
 - [EfrainTorres/armavita-meta-ads-mcp](https://github.com/EfrainTorres/armavita-meta-ads-mcp) — ⭐ 34 · `Python` · Infrastructure — This repository provides an MCP (Meta Cloud Platform) server for interacting with the Meta Marketing API, specifically for Instagram and Facebook ads. It offers functionalities for managing campaigns, ad sets, ads, creatives, insights, and reports, with features like secure token handling.
+- [nexu-io/codex-slides](https://github.com/nexu-io/codex-slides) — ⭐ 32 · `TypeScript` · Productivity — An open-source AI slide studio integrated within Codex, enabling rapid creation of image-native presentations with a visual canvas for each slide. It handles the full workflow from research to export, operating browser-first without API keys.
 - [quantskills/agent-quantspace](https://github.com/quantskills/agent-quantspace) — ⭐ 30 · `Python` · Finance — This is an AI-native quantitative investment research framework designed to help AI coding tools generate quantitative trading strategies. It provides a structured environment for data integration, factor analysis, backtesting, and reporting, streamlining the process of developing trading models.
 - [archcore-ai/plugin](https://github.com/archcore-ai/plugin) — ⭐ 30 · `Shell` · Code — A plugin for context engineering, designed to enhance AI coding environments like Claude Code, Cursor, and Codex CLI by managing and integrating contextual information.
 - [franklioxygen/agent-workflows](https://github.com/franklioxygen/agent-workflows) — ⭐ 29 · `Python` · Code — This repository offers reusable engineering workflow templates for both AI coding agents and human engineers. It outlines structured steps in Markdown files for common development tasks such as project initialization, feature development, bug fixing, code review, refactoring, and incident response, and includes specific skills for tools like Codex.
@@ -3459,7 +3462,7 @@
 ## Gemini CLI
 
 <details>
-<summary>Show 168 repos</summary>
+<summary>Show 169 repos</summary>
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) — ⭐ 103,230 · `TypeScript` · Multimodal — This is an open-source AI agent that integrates the capabilities of Gemini directly into the command-line interface.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) — ⭐ 88,112 · `TypeScript` · Productivity — This is a lightweight and fast cross-platform AI assistant that provides a unified interface for interacting with various large language models like ChatGPT, Claude, Gemini, and Ollama across Web, iOS, macOS, Android, Linux, and Windows. It aims to simplify AI interaction by offering a single, performant application for diverse models.
@@ -3484,6 +3487,7 @@
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) — ⭐ 19,761 · `TypeScript` · Code — Kilo Code is an all-in-one agentic engineering platform designed to streamline the software development lifecycle using AI. It provides a unified open-source coding agent that operates across multiple interfaces like IDEs, CLI, and cloud, supporting a wide range of underlying LLMs.
 - [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) — ⭐ 19,203 · `TypeScript` · Productivity — An all-in-one browser extension that enhances popular AI chat platforms like ChatGPT, Claude, and Gemini by adding features such as chat folders, timeline navigation, a prompt library, usage tracking, and chat export capabilities.
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) — ⭐ 19,189 · `TypeScript` · Code — This tool converts any codebase into an interactive knowledge graph, allowing users to explore, search, and ask questions about the code structure. It's designed to help developers quickly understand large, unfamiliar projects by visualizing code maps, function relationships, and module dependencies.
+- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) — ⭐ 18,266 · `Jupyter Notebook` · Text — This repository provides a quickstart guide and boilerplate for developing full-stack AI agents using Google's Gemini 2.5 model and the LangGraph library for orchestration.
 - [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) — ⭐ 18,261 · `TypeScript` · Productivity — This is an all-in-one browser extension suite designed to enhance the experience of using Google Gemini and AI Studio. It provides features such as timeline navigation, folder management for chats, a prompt library, and the ability to export chat conversations.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) — ⭐ 17,440 · `Swift` · Code — A Ghostty-based macOS terminal application featuring vertical tabs and notifications, specifically designed to enhance the workflow for AI coding agents.
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) — ⭐ 17,011 · `Go` · Code — Gas Town is a multi-agent workspace manager that orchestrates multiple AI models for collaborative code generation. It features a memory mechanism using Git for persistent state and a role-based system for agent coordination.

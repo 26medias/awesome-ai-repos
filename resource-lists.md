@@ -23,7 +23,7 @@
 - [Productivity](#productivity) <kbd>37</kbd>
 - [Finance](#finance) <kbd>16</kbd>
 - [Science](#science) <kbd>35</kbd>
-- [Other](#other) <kbd>49</kbd>
+- [Other](#other) <kbd>50</kbd>
 
 ## Video
 
@@ -513,7 +513,7 @@
 ## Other
 
 <details>
-<summary>Show 49 repos</summary>
+<summary>Show 50 repos</summary>
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) — ⭐ 485,059 · Awesome List — This is a meta-awesome list, serving as a curated and comprehensive index of other 'awesome lists' across a vast array of topics, from AI and Web3 to development tools and productivity scripts.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) — ⭐ 433,568 · `Python` · Awesome List — This repository offers a comprehensive, collective list of free public APIs across various domains. It serves as a valuable resource for developers looking to integrate external services and data into their applications.
@@ -533,6 +533,7 @@
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) — ⭐ 8,315 · `Python` · Awesome List — An awesome list providing a collection of cheatsheets.
 - [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) — ⭐ 7,678 · Awesome List — This is a curated list of awesome resources for electronic engineers and hobbyists, providing valuable links and tools related to various aspects of electronics and hardware design.
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) — ⭐ 5,883 · Awesome List — A curated list of open-source software alternatives to various proprietary solutions, often referred to as an 'awesome list'.
+- [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates) — ⭐ 5,099 · Awesome List — Awesome Certificates is a curated open-source list of over 20,000 hours and 200 free courses and certifications across IT, CS, Design, and Business, serving as a learning hub for various technology domains.
 - [mswnlz/edu-knowlege](https://github.com/mswnlz/edu-knowlege) — ⭐ 3,923 · `JavaScript` · Awesome List — This repository is a comprehensive collection of educational materials and courses, ranging from kindergarten to university level, including content from institutions like Xueersi, Wanwei, and Yuanfudao. It serves as a resource for students and educators seeking academic content.
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) — ⭐ 3,914 · `JavaScript` · Awesome List — A curated collection of the best free applications available for both PC (Windows, macOS, Linux) and mobile devices (Android, iOS).
 - [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) — ⭐ 3,477 · `HTML` · Awesome List — This repository serves as a curated resource hub and research guide for AI engineering, covering interview assignments, take-home challenges, and hiring practices. It compiles over 200 resources from leading AI labs and engineering teams to help individuals understand practical AI engineering.

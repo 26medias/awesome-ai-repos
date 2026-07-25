@@ -6,20 +6,20 @@
 
 [↑ Back to index](README.md)
 
-- [Python](#python) <kbd>2225</kbd>
-- [TypeScript](#typescript) <kbd>1017</kbd>
-- [JavaScript](#javascript) <kbd>312</kbd>
+- [Python](#python) <kbd>2227</kbd>
+- [TypeScript](#typescript) <kbd>1018</kbd>
+- [JavaScript](#javascript) <kbd>313</kbd>
 - [Rust](#rust) <kbd>227</kbd>
-- [Go](#go) <kbd>207</kbd>
-- [C++](#c) <kbd>159</kbd>
-- [Jupyter Notebook](#jupyter-notebook) <kbd>154</kbd>
+- [Go](#go) <kbd>208</kbd>
+- [C++](#c) <kbd>160</kbd>
+- [Jupyter Notebook](#jupyter-notebook) <kbd>155</kbd>
 - [Shell](#shell) <kbd>148</kbd>
 - [HTML](#html) <kbd>132</kbd>
 - [Swift](#swift) <kbd>130</kbd>
 - [C](#c-1) <kbd>59</kbd>
 - [C#](#c-2) <kbd>45</kbd>
 - [Java](#java) <kbd>42</kbd>
-- [Kotlin](#kotlin) <kbd>29</kbd>
+- [Kotlin](#kotlin) <kbd>30</kbd>
 - [PowerShell](#powershell) <kbd>17</kbd>
 - [Dart](#dart) <kbd>16</kbd>
 - [PHP](#php) <kbd>15</kbd>
@@ -59,6 +59,7 @@
 - [Lua](#lua) <kbd>1</kbd>
 - [Markdown](#markdown) <kbd>1</kbd>
 - [Mojo](#mojo) <kbd>1</kbd>
+- [MQL5](#mql5) <kbd>1</kbd>
 - [Nim](#nim) <kbd>1</kbd>
 - [OCaml](#ocaml) <kbd>1</kbd>
 - [PDDL](#pddl) <kbd>1</kbd>
@@ -74,12 +75,12 @@
 - [Typst](#typst) <kbd>1</kbd>
 - [Vim Script](#vim-script) <kbd>1</kbd>
 - [Visual Basic .NET](#visual-basic-net) <kbd>1</kbd>
-- [Unknown](#unknown) <kbd>283</kbd>
+- [Unknown](#unknown) <kbd>284</kbd>
 
 ## Python
 
 <details>
-<summary>Show 2225 repos</summary>
+<summary>Show 2227 repos</summary>
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) — ⭐ 347,418 · `Python` · Other — Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) — ⭐ 221,187 · `Python` · Code — This repository provides a comprehensive collection of algorithms across various domains like sorting, searching, graph theory, dynamic programming, machine learning, and computer vision, all implemented in Python. It serves as an educational resource and reference for developers to learn and master fundamental computer science algorithms and data structures.
@@ -522,6 +523,7 @@
 - [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab) — ⭐ 4,729 · `Python` · Finance — This library provides reproducible and easy-to-use machine learning tools for portfolio managers and traders in quantitative finance. It supports tasks like backtesting and feature engineering for algorithmic trading strategies.
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) — ⭐ 4,715 · `Python` · Security — This is a GitHub Action that uses Claude, an AI model, to perform security reviews of code changes, identifying potential vulnerabilities.
 - [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) — ⭐ 4,705 · `Python` · Audio — OmniVoice is a project for high-quality voice cloning and text-to-speech (TTS) synthesis, supporting over 600 languages to convert text into natural-sounding spoken audio.
+- [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) — ⭐ 4,703 · `Python` · Code — A Python CLI tool designed to analyze Python codebases and identify dead or unused code, helping developers improve code quality and maintainability.
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) — ⭐ 4,650 · `Python` · Multimodal — VLLM Omni is a framework that optimizes efficient inference and serving for omni-modality models, specifically accelerating generative tasks across audio, image, and video to improve throughput and reduce latency for complex multimodal AI models.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) — ⭐ 4,637 · `Python` · Productivity — This repository offers resources and prompts to develop academic research skills using Claude Code. It guides users through the full academic pipeline, assisting with research, writing, review, revision, and finalization of academic texts.
 - [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) — ⭐ 4,630 · `Python` · Code — Paper2Code automates the generation of executable code repositories directly from scientific machine learning papers, aiming to streamline the implementation of research findings.
@@ -2132,6 +2134,7 @@
 - [vixues/LeAgent](https://github.com/vixues/LeAgent) — ⭐ 20 · `Python` · Productivity — A desktop AI agent with conversational chat, visual workflow builder, and support for over 100 tools and various LLMs. It offers a self-hosted solution with Agent Skills and Multi-Agent Communication Protocol (MCP) integration.
 - [Gratia2533/linkedin-mcp-server](https://github.com/Gratia2533/linkedin-mcp-server) — ⭐ 20 · `Python` · Data — This is a Model Context Protocol (MCP) server for LinkedIn that allows AI clients to search people, companies, and jobs, scrape profiles, and get structured data.
 - [kylecwalden/polymarket-sniper-bot](https://github.com/kylecwalden/polymarket-sniper-bot) — ⭐ 20 · `Python` · Finance — This repository provides a "sniper" bot for Polymarket, designed to quickly execute trades on prediction markets.
+- [zjunlp/predict-before-execute](https://github.com/zjunlp/predict-before-execute) — ⭐ 20 · `Python` · Multimodal — This repository introduces ForeAgent, a system that utilizes an LLM as a 'world model' to predict the success of machine learning agents before their actual execution. The goal is to reduce computational costs by evaluating agent performance through prediction rather than costly trials.
 - [gaoyz1235/RealAppliance](https://github.com/gaoyz1235/RealAppliance) — ⭐ 20 · `Python` · Robotics — This repository provides the RealAppliance dataset, comprising 100 high-fidelity digital twins of real-world appliances. The dataset is designed to train AI models to reliably operate physical machines, leveraging realistic rendering and mechanism simulation.
 - [facebookresearch/sparse-delta-memory](https://github.com/facebookresearch/sparse-delta-memory) — ⭐ 20 · `Python` · Infrastructure — This repository provides the reference implementation, model definition, and optimized kernels (Triton and CUDA) for the Sparse Delta Memory layer, detailed in a research paper. It's intended for researchers and developers working with deep learning model architectures and performance optimization.
 - [PickyBinders/tea](https://github.com/PickyBinders/tea) — ⭐ 20 · `Python` · Science — This project rewrites protein alphabets using language models, converting protein language model embeddings into a new 20-character "TEA" alphabet via contrastive learning. It enables distant homology detection comparable to structure-based methods.
@@ -2312,7 +2315,7 @@
 ## TypeScript
 
 <details>
-<summary>Show 1017 repos</summary>
+<summary>Show 1018 repos</summary>
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) — ⭐ 368,773 · `TypeScript` · Productivity — OpenClaw is a personal AI assistant built to run on any operating system and platform. It aims to offer a customizable AI experience with a strong emphasis on user data ownership.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) — ⭐ 188,545 · `TypeScript` · Productivity — n8n is an open-source, fair-code workflow automation platform with native AI capabilities, serving as a Zapier alternative. It enables users to visually build and integrate custom code for automating workflows across 400+ services, supporting both self-hosting and cloud deployments.
@@ -3240,6 +3243,7 @@
 - [soniox/soniox-compare](https://github.com/soniox/soniox-compare) — ⭐ 33 · `TypeScript` · Audio — Soniox Compare is a tool for developers to compare the performance and accuracy of various real-time voice AI (Text-to-Speech) APIs side-by-side. It highlights how different providers handle complex text, such as names, numbers, and technical terminology.
 - [mfranzon/circuitiny](https://github.com/mfranzon/circuitiny) — ⭐ 32 · `TypeScript` · Other — Circuitiny is a local-first, AI-assisted circuit design tool that enables users to wire components in a 3D view. An integrated AI agent writes the firmware and simulates the circuit design, allowing for validation before physical implementation.
 - [pingta-guangpingwang/claude-harness-desktop](https://github.com/pingta-guangpingwang/claude-harness-desktop) — ⭐ 32 · `TypeScript` · Code — This is an Electron-based desktop application that acts as an AI cockpit. It orchestrates multiple Claude Code instances for multi-project management, featuring an AI supervisor for dispatch, monitoring, and report aggregation.
+- [nexu-io/codex-slides](https://github.com/nexu-io/codex-slides) — ⭐ 32 · `TypeScript` · Productivity — An open-source AI slide studio integrated within Codex, enabling rapid creation of image-native presentations with a visual canvas for each slide. It handles the full workflow from research to export, operating browser-first without API keys.
 - [thinkany-ai/termany](https://github.com/thinkany-ai/termany) — ⭐ 32 · `TypeScript` · Productivity — An agent-native terminal application providing an integrated environment for managing AI agents, projects, and files with multi-pane layouts and views including terminal, file, Git diff, and browser.
 - [bebechien/AIventure](https://github.com/bebechien/AIventure) — ⭐ 31 · `TypeScript` · Other — AIventure appears to be a project related to AI-driven experiences, possibly an adventure game or a platform for creating interactive AI scenarios. Its exact functionality is not specified without further details.
 - [open-ma/open-managed-agents](https://github.com/open-ma/open-managed-agents) — ⭐ 31 · `TypeScript` · Code — This is an open-source, self-hosted implementation of Claude's Managed Agents API, designed to be drop-in compatible and run on Cloudflare Workers or Node. It provides the infrastructure for developers to build and manage their own AI agents locally.
@@ -3337,7 +3341,7 @@
 ## JavaScript
 
 <details>
-<summary>Show 312 repos</summary>
+<summary>Show 313 repos</summary>
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — ⭐ 187,477 · `JavaScript` · Code — This is an agent harness system designed to optimize the performance of AI coding agents like Claude Code, Codex, and Cursor. It provides capabilities for managing agent skills, memory, instincts, and security, facilitating research-first development.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 184,116 · `JavaScript` · Code — This repository provides an agent harness system for optimizing the performance, skills, memory, and security of AI coding agents. It supports development for various tools like Claude Code, Codex, Opencode, and Cursor.
@@ -3526,6 +3530,7 @@
 - [49Agents/49Agents](https://github.com/49Agents/49Agents) — ⭐ 239 · `JavaScript` · Code — An open-source 2D IDE for managing AI agents across various development environments, including CLIs, terminals, Git issues, and files. It supports self-hosting or cluster deployment for projects across multiple machines.
 - [Sahir619/fable-method](https://github.com/Sahir619/fable-method) — ⭐ 236 · `JavaScript` · Code — This repository outlines the "Fable Workflow" for AI agents, distilling the methodology of Claude Fable 5 into reusable skills and an evaluation system to ensure agent honesty and effectiveness. It provides a structured approach for building robust coding agents.
 - [shlokkhemani/rabbithole](https://github.com/shlokkhemani/rabbithole) — ⭐ 227 · `JavaScript` · Code — This project offers an infinite canvas for learning, where users can select text, ask questions, and receive answers that expand into documents. It also functions as an MCP server, facilitating communication and orchestration for AI agents like Claude Code and Codex.
+- [jtydhr88/ComfyTV](https://github.com/jtydhr88/ComfyTV) — ⭐ 224 · `JavaScript` · Image — ComfyTV is a canvas-based application designed to integrate seamlessly with ComfyUI, providing a visual interface likely for managing or interacting with generative AI workflows.
 - [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) — ⭐ 221 · `JavaScript` · Code — This AI-powered tool performs code reviews by grounding its analysis in classic engineering books, diagnosing decay risks, providing citations and severity labels, and offering auto-fix capabilities across multiple analysis modes.
 - [ognjengt/founder-skills](https://github.com/ognjengt/founder-skills) — ⭐ 219 · `JavaScript` · Productivity — This is a collection of over twenty Claude skills designed for founders and marketers, automating tasks such as creating standard operating procedures, optimizing landing pages, and generating viral social media posts.
 - [beltromatti/get-it](https://github.com/beltromatti/get-it) — ⭐ 215 · `JavaScript` · Multimodal — Get It is an AI-powered learning tool designed to help users deeply understand PDF content. It offers features like concept annotation, 3D visualization, knowledge graph generation, Q&A, flashcards, and quizzes, with a unique Feynman mode for teaching AI.
@@ -3892,7 +3897,7 @@
 ## Go
 
 <details>
-<summary>Show 207 repos</summary>
+<summary>Show 208 repos</summary>
 
 - [ollama/ollama](https://github.com/ollama/ollama) — ⭐ 170,752 · `Go` · Infrastructure — Ollama is a platform designed to simplify the deployment and use of various large language models (LLMs) such as Kimi-K2.5, GLM-5, DeepSeek, and Gemma. It allows users to easily get up and running with these models.
 - [usememos/memos](https://github.com/usememos/memos) — ⭐ 60,736 · `Go` · Productivity — Memos is an open-source, self-hosted note-taking and microblogging tool designed for quick capture of ideas, links, and fragmented thoughts using Markdown. It serves as a personal knowledge base for users to own their data.
@@ -4009,6 +4014,7 @@
 - [nex-crm/wuphf](https://github.com/nex-crm/wuphf) — ⭐ 1,020 · `Go` · Code — WUPHF is a collaborative office of AI employees designed to build and maintain their own knowledge base, ensuring agents never lose context for assigned tasks. It supports integration with LLMs like Claude Code, Codex, OpenClaw, and local LLMs via OpenCode.
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) — ⭐ 961 · `Go` · Security — Agent Vault is an open-source HTTP credential proxy and vault specifically designed for AI agents. It ensures secure secrets management by injecting credentials at the network level, preventing agents from directly handling sensitive API keys.
 - [fastclaw-ai/fastclaw](https://github.com/fastclaw-ai/fastclaw) — ⭐ 959 · `Go` · Code — FastClaw is a multi-agent framework that allows running multiple AI agents from a single Go binary. It provides a runtime environment for deploying and managing various AI agents.
+- [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) — ⭐ 940 · `Go` · Security — A tool that uses Large Language Models to embed and extract hidden messages within seemingly normal conversations, leveraging steganography principles.
 - [hyperion-cs/dpi-checkers](https://github.com/hyperion-cs/dpi-checkers) — ⭐ 928 · `Go` · Security — This project provides tools to test internet service providers for censorship.
 - [mudler/LocalRecall](https://github.com/mudler/LocalRecall) — ⭐ 854 · `Go` · Infrastructure — LocalRecall is a 100% local memory layer and knowledge base solution designed for AI agents. It includes a WebUI for managing knowledge bases and files stored in vector databases.
 - [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) — ⭐ 827 · `Go` · Infrastructure — GoModel is a lightweight AI gateway written in Go, providing a unified OpenAI-compatible API to manage access to diverse LLM providers. It offers essential features like observability, guardrails, streaming, and cost tracking.
@@ -4107,7 +4113,7 @@
 ## C++
 
 <details>
-<summary>Show 159 repos</summary>
+<summary>Show 160 repos</summary>
 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) — ⭐ 195,388 · `C++` · Training — An open-source machine learning framework developed by Google, designed for building and training various types of neural networks across different platforms.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) — ⭐ 108,653 · `C++` · Infrastructure — llama.cpp is a C/C++ project designed for efficient inference of large language models (LLMs), optimizing runtime performance for various models including Qwen3.6.
@@ -4144,6 +4150,7 @@
 - [daijro/camoufox](https://github.com/daijro/camoufox) — ⭐ 8,627 · `C++` · Browser — Camoufox is an anti-detection browser based on Firefox, designed to make automated browsing sessions appear more human-like. It helps prevent AI agents and web scrapers from being detected as bots by masking browser fingerprints and other identifying traits.
 - [duixcom/Duix-Mobile](https://github.com/duixcom/Duix-Mobile) — ⭐ 7,994 · `C++` · Video — Duix-Mobile offers a real-time interactive AI avatar (digital human) solution designed for on-premise deployment with sub-1.5 second latency. It enables users to experience and interact with pre-trained digital human models, particularly optimized for mobile devices.
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) — ⭐ 6,615 · `C++` · Video — OpenToonz is a professional, open-source, and free 2D animation creation software, famously used by Studio Ghibli. It offers a comprehensive set of tools for animators as a robust alternative to expensive commercial options.
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) — ⭐ 6,571 · `C++` · Image — This project provides a pure C/C++ implementation for efficient inference of various diffusion models, including Stable Diffusion, Flux, Wan, Qwen Image, and Z-Image, for image generation.
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) — ⭐ 5,276 · `C++` · Gaming — An experimental emulator for the PlayStation Vita, allowing users to play PS Vita games on various desktop and mobile operating systems. It aims to replicate the PS Vita hardware and software environment for gameplay.
 - [KDE/kdenlive](https://github.com/KDE/kdenlive) — ⭐ 5,160 · `C++` · Video — Kdenlive is a free and open-source video editor, built upon the MLT Framework and KDE Frameworks. It provides professional video editing capabilities for various operating systems.
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 5,070 · `C++` · Text — LiteRT-LM is a project, likely developed by Google AI Edge, focused on providing a lightweight and real-time runtime for Language Models. Recent updates and the release of web APIs suggest it's designed for efficient deployment and interaction with LMs, possibly acting as an inference server.
@@ -4274,7 +4281,7 @@
 ## Jupyter Notebook
 
 <details>
-<summary>Show 154 repos</summary>
+<summary>Show 155 repos</summary>
 
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) — ⭐ 182,192 · `Jupyter Notebook` · Code — A 100-day curriculum to learn Python programming, designed as an educational resource for aspiring developers.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) — ⭐ 110,260 · `Jupyter Notebook` · Text — A structured course with 21 lessons for beginners to learn generative AI, covering prompting, RAG, agents, and fine-tuning.
@@ -4303,6 +4310,7 @@
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) — ⭐ 19,196 · `Jupyter Notebook` · Code — A collection of end-to-end, code-first tutorials for building production-grade GenAI agents. It guides users from prototyping AI agents to deploying them in enterprise environments with real-world use cases.
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) — ⭐ 18,923 · `Jupyter Notebook` · Training — This repository provides code and instructions for instruct-tuning LLaMA models using LoRA (Low-Rank Adaptation) on readily available consumer hardware, making large language model customization more accessible.
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) — ⭐ 18,402 · `Jupyter Notebook` · Text — The Llama Cookbook is a comprehensive guide for building with the Llama model family, covering essential topics like inference, fine-tuning, and RAG. It provides solutions for end-to-end problems and demonstrates how to use Llama models with various provider services.
+- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) — ⭐ 18,266 · `Jupyter Notebook` · Text — This repository provides a quickstart guide and boilerplate for developing full-stack AI agents using Google's Gemini 2.5 model and the LangGraph library for orchestration.
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) — ⭐ 17,736 · `Jupyter Notebook` · Infrastructure — This project provides a method for performing efficient inference with large language models, demonstrating the capability to run 70B LLMs on a single GPU with as little as 4GB of VRAM.
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) — ⭐ 17,414 · `Jupyter Notebook` · Finance — This repository provides Python code and Jupyter notebooks for the 'Machine Learning for Algorithmic Trading' book. It demonstrates various AI-powered strategies and workflows for financial investment and trading.
 - [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) — ⭐ 17,393 · `Jupyter Notebook` · Finance — Qbot is an AI-powered quantitative investment research platform designed for automated algorithmic trading. It supports local deployment and provides tools for backtesting, strategies, and financial analysis.
@@ -5040,8 +5048,9 @@
 ## Kotlin
 
 <details>
-<summary>Show 29 repos</summary>
+<summary>Show 30 repos</summary>
 
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 24,243 · `Kotlin` · Multimodal — A gallery showcasing on-device machine learning and generative AI use cases, allowing users to locally try out and interact with various AI models.
 - [plainhub/plain-app](https://github.com/plainhub/plain-app) — ⭐ 4,837 · `Kotlin` · Productivity — PlainApp is an open-source Android application that allows users to securely manage their phone's files, media, contacts, SMS, and calls from a web browser interface on their desktop.
 - [shiahonb777/web-to-app](https://github.com/shiahonb777/web-to-app) — ⭐ 3,192 · `Kotlin` · Browser — This is a native Android application that enables users to convert any website URL into a standalone Android application, effectively wrapping web content in a native app container.
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) — ⭐ 3,023 · `Kotlin` · Other — An Android application that allows users to write operating system images to USB drives directly from their mobile device, without requiring root access.
@@ -5398,6 +5407,10 @@
 
 - [modular/modular](https://github.com/modular/modular) — ⭐ 26,017 · `Mojo` · Infrastructure — The Modular Platform is a unified system for AI development, built around the Mojo programming language, designed to facilitate high-performance AI applications and machine learning systems.
 
+## MQL5
+
+- [codedpro/mt5-trade-split-manager](https://github.com/codedpro/mt5-trade-split-manager) — ⭐ 57 · `MQL5` · Finance — This is an AI-agent-friendly MetaTrader 5 Expert Advisor that intelligently splits orders, provides automatic trailing stops, and offers a REST API for control. It's designed for automated trading of assets like Gold/Silver, with integration for Claude AI.
+
 ## Nim
 
 - [patrickjaja/claude-desktop-bin](https://github.com/patrickjaja/claude-desktop-bin) — ⭐ 421 · `Nim` · Productivity — This repository provides unofficial Linux packages for the Claude Desktop AI assistant, including automated update mechanisms. It facilitates easier installation and maintenance of Claude Desktop on various Linux distributions.
@@ -5461,7 +5474,7 @@
 ## Unknown
 
 <details>
-<summary>Show 283 repos</summary>
+<summary>Show 284 repos</summary>
 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — ⭐ 137,041 · Code — This repository collects and documents system prompts, internal tools, and AI models from popular AI-powered development environments like GitHub Copilot and Cursor. It provides insights into the underlying mechanisms of various AI coding assistants.
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) — ⭐ 112,029 · Code — This repository offers a CLAUDE.md file with rules and guidelines to improve code generation quality for LLMs like Claude Code. It aims to guide AI agents to write more thoughtful and concise code, addressing common LLM coding pitfalls.
@@ -5654,6 +5667,7 @@
 - [ntrunr/WebSecurityAcademy](https://github.com/ntrunr/WebSecurityAcademy) — ⭐ 105 · Security — This repository offers solutions and video walkthroughs for all the labs within the Web Security Academy, including practical examples for Web LLM (Large Language Model) attacks. It serves as an educational resource for learning and practicing web security vulnerabilities.
 - [vikingmute/review-forge](https://github.com/vikingmute/review-forge) — ⭐ 102 · Code — A specialized skill or tool designed for AI agents to perform structured and auditable code reviews, enhancing code quality in developer workflows.
 - [Google-Cloud-AI/agent-platform](https://github.com/Google-Cloud-AI/agent-platform) — ⭐ 101 · Code — This repository provides a curated collection of code samples and tutorials for developing and deploying AI agents on Google's Gemini Enterprise Agent Platform, serving as a valuable resource for building agentic AI applications.
+- [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) — ⭐ 100 · Text — This tool removes over 20 common patterns characteristic of AI-generated text, often referred to as 'AI slop', from any piece of writing. Its purpose is to refine and improve the quality and naturalness of text by making it sound less artificial.
 - [RUC-NLPIR/Rubrics\_Survey](https://github.com/RUC-NLPIR/Rubrics_Survey) — ⭐ 98 · Text — This repository hosts a survey paper on the use of rubrics for Large Language Models, covering their application in generation, optimization, and evaluation, and outlining future research directions.
 - [starlightk7/OpenSFC](https://github.com/starlightk7/OpenSFC) — ⭐ 89 · Gaming — This project provides open-source hardware reproduction parts necessary for rebuilding or repairing the Super Famicom/Super Nintendo game console. It offers resources for enthusiasts and hobbyists interested in retro gaming hardware.
 - [jakubkrehel/skills](https://github.com/jakubkrehel/skills) — ⭐ 86 · Productivity — This repository provides a collection of agent skills designed to improve various elements of product design, including animations, typography, layout, and color schemes.
