@@ -6,7 +6,7 @@
 
 [↑ Back to index](README.md)
 
-- [Video](#video) <kbd>5</kbd>
+- [Video](#video) <kbd>6</kbd>
 - [Image](#image) <kbd>21</kbd>
 - [Audio](#audio) <kbd>6</kbd>
 - [Text](#text) <kbd>65</kbd>
@@ -20,7 +20,7 @@
 - [Infrastructure](#infrastructure) <kbd>19</kbd>
 - [Multimodal](#multimodal) <kbd>9</kbd>
 - [Security](#security) <kbd>55</kbd>
-- [Productivity](#productivity) <kbd>42</kbd>
+- [Productivity](#productivity) <kbd>43</kbd>
 - [Finance](#finance) <kbd>16</kbd>
 - [Science](#science) <kbd>36</kbd>
 - [Gaming](#gaming) <kbd>1</kbd>
@@ -33,6 +33,7 @@
 - [wildminder/awesome-ltx2](https://github.com/wildminder/awesome-ltx2) — ⭐ 539 · Awesome List — An awesome list curating all available LTX-2 models, encoders, workflows, and LoRAs specifically designed for ComfyUI. It covers various versions and types of resources for video generation.
 - [cclank/lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) — ⭐ 27 · `HTML` · Awesome List — This repository provides a comprehensive toolkit for enterprise AI video generation projects. It includes a curated collection of 411 prompts, 15 models, 7 Claude Skills, and 14 methodologies to aid in creating AI-generated videos.
 - [NMM-Roadmap/Awesome-NMM-List](https://github.com/NMM-Roadmap/Awesome-NMM-List) — ⭐ 18 · Awesome List — A curated list of resources, papers, and projects related to Neural Motion Models (NMM), a field focused on generating and analyzing realistic motion for various applications.
+- [BeatAPI/awesome-seedance-2-5-prompts](https://github.com/BeatAPI/awesome-seedance-2-5-prompts) — ⭐ 10 · `JavaScript` · Awesome List — A curated collection of Seedance 2.5 video generation prompts covering cinematic, anime, UGC, ads, and storytelling, with playable WebM examples and creator attribution.
 
 ## Image
 
@@ -429,7 +430,7 @@
 ## Productivity
 
 <details>
-<summary>Show 42 repos</summary>
+<summary>Show 43 repos</summary>
 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) — ⭐ 49,037 · Awesome List — A curated awesome list of open-source applications available for macOS. It serves as a comprehensive directory for users seeking free and open-source software for their Mac computers.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) — ⭐ 40,616 · `JavaScript` · Awesome List — This repository hosts the source for remoteintech.company, a community-maintained directory listing tech companies with remote work opportunities. It's a valuable resource for job seekers.
@@ -467,6 +468,7 @@
 - [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) — ⭐ 476 · Awesome List — A curated awesome list of continuous AI actions and frameworks for automating software collaboration tasks.
 - [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) — ⭐ 451 · Awesome List — An awesome list compiling over 50 verified skills for the Claude AI agent, designed to enhance productivity in tasks like test-driven development, debugging, Git workflows, and document processing.
 - [TidorP/MLJobSearch2025](https://github.com/TidorP/MLJobSearch2025) — ⭐ 436 · Awesome List — This repository provides a curated tier list of Machine Learning companies along with a collection of over 100 interview questions. It serves as a resource for individuals preparing for ML-related job searches in 2025.
+- [LingJingMaster/Shadowrocket-Rules](https://github.com/LingJingMaster/Shadowrocket-Rules) — ⭐ 396 · Awesome List — Shadowrocket‑Rules provides a continuously maintained set of proxy configuration rules for the iOS Shadowrocket app, allowing users to import ready‑made rule sets with a few clicks.
 - [best-of-ai/awesome-ai-seo](https://github.com/best-of-ai/awesome-ai-seo) — ⭐ 297 · Awesome List — A curated awesome list of AI marketing tools and resources, serving as a comprehensive directory for solutions related to AI in search engine optimization and digital marketing.
 - [danielrosehill/Awesome-Obsidian-AI-Tools](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools) — ⭐ 250 · Awesome List — A categorized collection of Obsidian plugins focused on integrating AI and Large Language Models within the Obsidian note-taking environment. It helps users enhance knowledge management and text-based workflows with AI capabilities.
 - [zarazhangrui/beautiful-feishu-whiteboard](https://github.com/zarazhangrui/beautiful-feishu-whiteboard) — ⭐ 112 · `Shell` · Skill Pack — This repository provides 35 curated color palette styles for building beautiful and editable whiteboards within Feishu/Lark. It functions as an agent skill to enhance the aesthetic appearance of these whiteboards.
