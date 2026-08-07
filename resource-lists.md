@@ -12,7 +12,7 @@
 - [Text](#text) <kbd>65</kbd>
 - [Code](#code) <kbd>93</kbd>
 - [Browser](#browser) <kbd>3</kbd>
-- [Robotics](#robotics) <kbd>12</kbd>
+- [Robotics](#robotics) <kbd>13</kbd>
 - [3D](#3d) <kbd>6</kbd>
 - [Data](#data) <kbd>7</kbd>
 - [Training](#training) <kbd>18</kbd>
@@ -24,7 +24,7 @@
 - [Finance](#finance) <kbd>16</kbd>
 - [Science](#science) <kbd>36</kbd>
 - [Gaming](#gaming) <kbd>1</kbd>
-- [Other](#other) <kbd>57</kbd>
+- [Other](#other) <kbd>58</kbd>
 
 ## Video
 
@@ -256,7 +256,7 @@
 ## Robotics
 
 <details>
-<summary>Show 12 repos</summary>
+<summary>Show 13 repos</summary>
 
 - [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) — ⭐ 6,817 · Awesome List — This repository is an awesome list that curates a comprehensive collection of resources for learning and working with robotics, including public courses, textbooks, academic journals, conferences, competitions, and industry companies. It's designed to help beginners and professionals navigate the field of robotics by providing a centralized and organized set of learning and career materials.
 - [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) — ⭐ 4,759 · Awesome List — This repository is a curated collection of online resources, courses, and learning paths for robotics. It provides a structured roadmap covering topics like ROS, embedded systems, mathematics, and algorithms, aimed at beginners and those seeking a systematic approach to learning robotics.
@@ -267,6 +267,7 @@
 - [DravenALG/awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam) — ⭐ 921 · Awesome List — This repository provides a curated list of research and resources focused on Vision-Language-Action (VLA) and World Action Models (WAM). It serves as a comprehensive collection for those interested in these advanced AI models.
 - [NTUMARS/Awesome-World-Model-for-Robotics-Policy](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) — ⭐ 726 · Awesome List — This repository serves as an awesome list or survey dedicated to world models used in robotics policy learning. It curates resources and research concerning how these predictive models enable robots to understand environments and make informed decisions.
 - [OpenMOSS/Awesome-WAM](https://github.com/OpenMOSS/Awesome-WAM) — ⭐ 491 · `HTML` · Awesome List — This is a curated and continuously updated list of reading materials, paper blogs, and resources focused on World Action Models (WAMs) within the field of embodied AI.
+- [KwanWaiPang/Awesome-Transformer-based-SLAM](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) — ⭐ 289 · Awesome List — A curated survey of papers on transformer-based SLAM techniques, summarizing recent research for robotics and computer vision.
 - [philfung/awesome-reliable-robotics](https://github.com/philfung/awesome-reliable-robotics) — ⭐ 146 · Awesome List — A continuously updated awesome list curating research papers and resources related to robotics that demonstrate reliability and robustness in real-world applications.
 - [worldbench/awesome-embodied-data-pyramid](https://github.com/worldbench/awesome-embodied-data-pyramid) — ⭐ 114 · `HTML` · Awesome List — This is an awesome list and survey covering the 'Data Pyramid for Embodied Manipulation'. It aggregates resources related to data for embodied AI and robotics, including topics like simulation, manipulation, and vision-language-action.
 - [Everloom-129/Awesome-Memory-for-Robotics](https://github.com/Everloom-129/Awesome-Memory-for-Robotics) — ⭐ 96 · Awesome List — A curated reading list focusing on research related to memory systems in robotics. It includes updates on new models, benchmarks, and ideas, particularly for Vision-Language-Action (VLA) models in robotics.
@@ -553,7 +554,7 @@
 ## Other
 
 <details>
-<summary>Show 57 repos</summary>
+<summary>Show 58 repos</summary>
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) — ⭐ 485,059 · Awesome List — This is a meta-awesome list, serving as a curated and comprehensive index of other 'awesome lists' across a vast array of topics, from AI and Web3 to development tools and productivity scripts.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) — ⭐ 454,251 · `Python` · Awesome List — This repository offers a comprehensive, collective list of free public APIs across various domains. It serves as a valuable resource for developers looking to integrate external services and data into their applications.
@@ -607,6 +608,7 @@
 - [h9-tect/AI-Roadmaps](https://github.com/h9-tect/AI-Roadmaps) — ⭐ 253 · Tutorial/Course — This repository provides structured learning roadmaps designed for individuals pursuing specialized roles in AI and data. It outlines a path for acquiring necessary skills and knowledge in these fields.
 - [DirectorySurf/awesome-launch-platforms](https://github.com/DirectorySurf/awesome-launch-platforms) — ⭐ 244 · Awesome List — This is a curated list of various platforms where individuals can launch, promote, and showcase their startups, products, or side projects.
 - [cporter202/awesome-ai-tools](https://github.com/cporter202/awesome-ai-tools) — ⭐ 233 · Awesome List — This is a curated list of AI tools for building, automating, and monetizing projects. It covers a range of applications including content, video, APIs, websites, workflows, and AI voice.
+- [YuanchenBei/Awesome-Graphs-Meet-Agents](https://github.com/YuanchenBei/Awesome-Graphs-Meet-Agents) — ⭐ 201 · Awesome List — An up-to-date curated list of papers and resources on graph-empowered agents and graph learning, serving as a reference for researchers exploring graph‑agent integration.
 - [Shiyao-Huang/awesome-agent-evolution](https://github.com/Shiyao-Huang/awesome-agent-evolution) — ⭐ 74 · `TeX` · Awesome List — This is an awesome list or curated collection related to the evolution and development of AI agents. Although the tweet describes a terminal-based coding agent built by the author, the repository name suggests it primarily serves as a resource list.
 - [mira-ai-lab/awesome-mas-life](https://github.com/mira-ai-lab/awesome-mas-life) — ⭐ 72 · `TeX` · Awesome List — This repository contains resources related to a survey on multi-agent collaboration, attribution, and evolution, likely serving as a curated list alongside a research paper.
 - [aisparkedu/knowledge-base](https://github.com/aisparkedu/knowledge-base) — ⭐ 56 · Awesome List — A comprehensive open-source knowledge base maintained by AI practitioners, providing resources and insights for AI beginners, covering AI tools, programming agents, content creation, efficiency improvement, and industry observations.
