@@ -24,7 +24,7 @@
 - [Finance](#finance) <kbd>16</kbd>
 - [Science](#science) <kbd>36</kbd>
 - [Gaming](#gaming) <kbd>1</kbd>
-- [Other](#other) <kbd>58</kbd>
+- [Other](#other) <kbd>59</kbd>
 
 ## Video
 
@@ -554,7 +554,7 @@
 ## Other
 
 <details>
-<summary>Show 58 repos</summary>
+<summary>Show 59 repos</summary>
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) — ⭐ 485,059 · Awesome List — This is a meta-awesome list, serving as a curated and comprehensive index of other 'awesome lists' across a vast array of topics, from AI and Web3 to development tools and productivity scripts.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) — ⭐ 454,251 · `Python` · Awesome List — This repository offers a comprehensive, collective list of free public APIs across various domains. It serves as a valuable resource for developers looking to integrate external services and data into their applications.
@@ -613,6 +613,7 @@
 - [mira-ai-lab/awesome-mas-life](https://github.com/mira-ai-lab/awesome-mas-life) — ⭐ 72 · `TeX` · Awesome List — This repository contains resources related to a survey on multi-agent collaboration, attribution, and evolution, likely serving as a curated list alongside a research paper.
 - [aisparkedu/knowledge-base](https://github.com/aisparkedu/knowledge-base) — ⭐ 56 · Awesome List — A comprehensive open-source knowledge base maintained by AI practitioners, providing resources and insights for AI beginners, covering AI tools, programming agents, content creation, efficiency improvement, and industry observations.
 - [wildminder/awesome-minimax-H3](https://github.com/wildminder/awesome-minimax-H3) — ⭐ 20 · Awesome List — A curated list of resources, tools, and projects related to MiniMax‑H3.
+- [zhouhao1024/Awesome-Self-Evolving-Coding-Agents](https://github.com/zhouhao1024/Awesome-Self-Evolving-Coding-Agents) — ⭐ 14 · Awesome List — A curated collection of papers and resources on self‑evolving coding agents, providing a comprehensive survey of recent research.
 - [yan5xu/oh-my-ai-company](https://github.com/yan5xu/oh-my-ai-company) — ⭐ 10 · Awesome List — This repository serves as a living atlas providing curated information about AI companies, including their products, founders, investors, market signals, and research notes.
 
 </details>
