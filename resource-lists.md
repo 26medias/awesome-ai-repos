@@ -9,8 +9,8 @@
 - [Video](#video) <kbd>6</kbd>
 - [Image](#image) <kbd>21</kbd>
 - [Audio](#audio) <kbd>6</kbd>
-- [Text](#text) <kbd>65</kbd>
-- [Code](#code) <kbd>93</kbd>
+- [Text](#text) <kbd>66</kbd>
+- [Code](#code) <kbd>95</kbd>
 - [Browser](#browser) <kbd>3</kbd>
 - [Robotics](#robotics) <kbd>13</kbd>
 - [3D](#3d) <kbd>6</kbd>
@@ -20,11 +20,11 @@
 - [Infrastructure](#infrastructure) <kbd>19</kbd>
 - [Multimodal](#multimodal) <kbd>9</kbd>
 - [Security](#security) <kbd>55</kbd>
-- [Productivity](#productivity) <kbd>43</kbd>
+- [Productivity](#productivity) <kbd>45</kbd>
 - [Finance](#finance) <kbd>16</kbd>
 - [Science](#science) <kbd>36</kbd>
 - [Gaming](#gaming) <kbd>1</kbd>
-- [Other](#other) <kbd>59</kbd>
+- [Other](#other) <kbd>60</kbd>
 
 ## Video
 
@@ -76,7 +76,7 @@
 ## Text
 
 <details>
-<summary>Show 65 repos</summary>
+<summary>Show 66 repos</summary>
 
 - [f/prompts.chat](https://github.com/f/prompts.chat) — ⭐ 165,966 · `HTML` · Self-hosted Service — This project, formerly known as Awesome ChatGPT Prompts, provides an open-source, self-hostable platform for the community to share, discover, and collect prompts for various large language models.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — ⭐ 77,236 · `MDX` · Tutorial/Course — This repository is a comprehensive guide to prompt engineering, offering a rich collection of papers, lessons, notebooks, and resources. It covers prompt design, context engineering, RAG, and AI agents for large language models.
@@ -114,6 +114,7 @@
 - [taichengguo/LLM\_MultiAgents\_Survey\_Papers](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers) — ⭐ 1,299 · Awesome List — This repository provides a categorized survey of research papers focused on large language model-based multi-agent systems, detailing their progress and challenges.
 - [rjs/shaping-skills](https://github.com/rjs/shaping-skills) — ⭐ 1,288 · `Shell` · Skill Pack — A collection of prompts and techniques, referred to as 'skills,' designed for use with the Claude AI to assist in the 'shaping' phase of project development and product design.
 - [daronyondem/claude-architect-exam-guide](https://github.com/daronyondem/claude-architect-exam-guide) — ⭐ 1,022 · `Shell` · Tutorial/Course — This repository serves as a community study guide to help users prepare for the Claude Certified Architect – Foundations certification exam. It provides resources and information for learning about Claude and its architecture.
+- [brycewang-stanford/Awesome-Journal-Skills](https://github.com/brycewang-stanford/Awesome-Journal-Skills) — ⭐ 931 · `Stata` · Skill Pack — Curated collection of Claude Code and Codex skill packs for academic journal writing, covering formatting, tables, and peer‑review responses for over 200 journals.
 - [DavidZWZ/Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research) — ⭐ 832 · Awesome List — This repository is a curated list of resources related to agentic AI, focusing on deep research, RAG, and reasoning agents for large language models.
 - [topoteretes/awesome-ai-memory](https://github.com/topoteretes/awesome-ai-memory) — ⭐ 823 · `Python` · Awesome List — A curated list of open-source and proprietary tools, frameworks, optimizers, and storage layers focused on AI memory management and persistent knowledge for AI agents.
 - [ZeroLu/awesome-gemini-ai](https://github.com/ZeroLu/awesome-gemini-ai) — ⭐ 700 · Awesome List — This is a curated collection of high-performance prompts, use cases, and examples specifically designed for Google's Gemini 1.5 Pro and Ultra models. It covers prompts for coding, agents, design, and general productivity.
@@ -149,7 +150,7 @@
 ## Code
 
 <details>
-<summary>Show 93 repos</summary>
+<summary>Show 95 repos</summary>
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — ⭐ 451,590 · `TypeScript` · Tutorial/Course — freeCodeCamp is an open-source platform offering a comprehensive curriculum to learn math, programming, and computer science for free. It provides structured educational content and projects for aspiring developers worldwide.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) — ⭐ 391,662 · `Python` · Awesome List — This repository is a curated collection of freely available programming books, serving as a valuable educational resource for anyone looking to learn programming or computer science. It provides access to a vast library of digital books.
@@ -166,6 +167,7 @@
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — ⭐ 106,266 · Dataset — This repository collects Markdown-based design specifications, inspired by existing design systems, intended for AI coding agents to generate matching user interfaces and facilitate automated UI development.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) — ⭐ 105,289 · `Dockerfile` · Awesome List — This is a curated list of best practices for Node.js development, offering a comprehensive guide to improve code quality and development efficiency in Node.js applications.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) — ⭐ 99,563 · Awesome List — This repository compiles a curated collection of essential technical knowledge and concepts that every software developer should be familiar with, covering a broad range of topics relevant to computer science and software engineering.
+- [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) — ⭐ 58,347 · Awesome List — A curated list of Git and GitHub hidden features, shortcuts, and tips for developers.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) — ⭐ 51,589 · `Python` · Awesome List — This is an awesome list curating skills, hooks, slash-commands, agent orchestrators, applications, and plugins specifically for Anthropic's Claude Code. It serves as a comprehensive index for resources related to developing and extending Claude Code functionality.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) — ⭐ 51,323 · `Python` · Awesome List — This repository is a curated collection of learning resources for software engineers, covering fundamental concepts like algorithms and system design, as well as practical skills such as code quality, career development, and interview preparation. It includes structured learning paths with recommended books, articles, and hands-on projects.
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) — ⭐ 49,885 · Awesome List — This repository is an awesome list collecting and categorizing over 5,400 skills for the OpenClaw agent framework, providing a curated registry for agent developers.
@@ -230,6 +232,7 @@
 - [0xNyk/awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) — ⭐ 187 · `JavaScript` · Awesome List — This repository provides a "sovereign agent stack" that includes practical scripts, on-chain identity solutions, and knowledge graph tools. It is intended for developing AI agents that possess autonomy, memory, and self-ownership capabilities.
 - [pulkitxm/claude-directory](https://github.com/pulkitxm/claude-directory) — ⭐ 181 · `TypeScript` · Awesome List — This repository is a directory showcasing over 60 landing pages and interactive prototypes generated using Anthropic's Claude Fable 5 models. Each project includes its original prompt and a screen recording, serving as an inspiration book for LUI design and a portfolio of Claude's capabilities.
 - [flatlogic/awesome-ai-software-development-agents](https://github.com/flatlogic/awesome-ai-software-development-agents) — ⭐ 157 · Awesome List — This is an 'Awesome List' that curates and categorizes various AI software development agents, detailing their features, execution methods (CLI, IDE plugin, cloud), and pricing models. It serves as a resource for developers to discover and compare tools for AI-assisted coding.
+- [oliverb-io1902e8/agent-skills-collection](https://github.com/oliverb-io1902e8/agent-skills-collection) — ⭐ 146 · `Python` · Awesome List — A curated collection of modular agent skills for LLM‑based agents, offering ready‑to‑use code snippets and workflows.
 - [acvnace/awesome-vibe-coding-resources](https://github.com/acvnace/awesome-vibe-coding-resources) — ⭐ 146 · Awesome List — This is a curated list of awesome resources for "vibe coding," focusing on AI coding tools and agents, including those compatible with platforms like Cursor.
 - [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) — ⭐ 144 · `Vue` · Awesome List — This repository provides a knowledge base of software architecture templates and a system design tutorial, focusing on various architectural patterns including those for AI gateways, RAG, and AI agents. It serves as a resource for learning and applying software architecture principles.
 - [NeverSight/learn-skills.dev](https://github.com/NeverSight/learn-skills.dev) — ⭐ 138 · Skill Pack — This repository provides a curated collection of high-quality skills designed for AI coding agents. Users can search, install, copy, and share these skills, which are compatible with various AI coding tools such as Claude Code, Cursor, and OpenClaw.
@@ -431,7 +434,7 @@
 ## Productivity
 
 <details>
-<summary>Show 43 repos</summary>
+<summary>Show 45 repos</summary>
 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) — ⭐ 49,037 · Awesome List — A curated awesome list of open-source applications available for macOS. It serves as a comprehensive directory for users seeking free and open-source software for their Mac computers.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) — ⭐ 40,616 · `JavaScript` · Awesome List — This repository hosts the source for remoteintech.company, a community-maintained directory listing tech companies with remote work opportunities. It's a valuable resource for job seekers.
@@ -464,8 +467,10 @@
 - [deanpeters/product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) — ⭐ 926 · `Python` · Awesome List — This repository provides a curated collection of over 50 practical Generative AI prompts tailored for product managers, designed for use with various AI agents like ChatGPT, Claude, and Gemini.
 - [SamurAIGPT/awesome-openclaw](https://github.com/SamurAIGPT/awesome-openclaw) — ⭐ 920 · Awesome List — This is a curated list of resources, tools, skills, tutorials, and articles related to OpenClaw. OpenClaw is an open-source, self-hosted AI agent designed for personal assistance and integrates with platforms like WhatsApp, Telegram, and Discord.
 - [maxbogo/awesome-ai-tools-for-ui](https://github.com/maxbogo/awesome-ai-tools-for-ui) — ⭐ 800 · Awesome List — An awesome list compiling AI tools for designing user interfaces and user experiences, including design skill files for AI coding assistants to generate better UI designs.
+- [mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills) — ⭐ 771 · `Shell` · Awesome List — An awesome list of growth‑hacking skills for LLM agents such as Claude, ChatGPT, and Manus, enabling automated marketing and outreach tasks.
 - [abubakarsiddik31/claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection) — ⭐ 695 · Skill Pack — A curated collection of official and community-built 'skills' designed to extend the capabilities of Anthropic's Claude, enabling it for various productivity, creativity, and coding tasks.
 - [lawve-ai/awesome-legal-skills](https://github.com/lawve-ai/awesome-legal-skills) — ⭐ 613 · `Python` · Awesome List — A curated list of 139 Agent Skills that automate legal work such as drafting privacy policies, reviewing NDAs, and assessing EU AI Act compliance.
+- [swufe-xiongmin/free\_premium\_ai](https://github.com/swufe-xiongmin/free_premium_ai) — ⭐ 557 · Awesome List — free\_premium\_ai is a curated collection of free, high‑capability AI model endpoints and services, listing stable platforms for GPT‑5.6, Claude Opus, Gemini, etc.
 - [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) — ⭐ 476 · Awesome List — A curated awesome list of continuous AI actions and frameworks for automating software collaboration tasks.
 - [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) — ⭐ 451 · Awesome List — An awesome list compiling over 50 verified skills for the Claude AI agent, designed to enhance productivity in tasks like test-driven development, debugging, Git workflows, and document processing.
 - [TidorP/MLJobSearch2025](https://github.com/TidorP/MLJobSearch2025) — ⭐ 436 · Awesome List — This repository provides a curated tier list of Machine Learning companies along with a collection of over 100 interview questions. It serves as a resource for individuals preparing for ML-related job searches in 2025.
@@ -554,7 +559,7 @@
 ## Other
 
 <details>
-<summary>Show 59 repos</summary>
+<summary>Show 60 repos</summary>
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) — ⭐ 485,059 · Awesome List — This is a meta-awesome list, serving as a curated and comprehensive index of other 'awesome lists' across a vast array of topics, from AI and Web3 to development tools and productivity scripts.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) — ⭐ 454,251 · `Python` · Awesome List — This repository offers a comprehensive, collective list of free public APIs across various domains. It serves as a valuable resource for developers looking to integrate external services and data into their applications.
@@ -586,6 +591,7 @@
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) — ⭐ 3,914 · `JavaScript` · Awesome List — A curated collection of the best free applications available for both PC (Windows, macOS, Linux) and mobile devices (Android, iOS).
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) — ⭐ 3,683 · `TypeScript` · Awesome List — Petdex is an online gallery showcasing a wide collection of open-source, animated "Codex pets." It allows users to browse, preview, and easily install these digital companions.
 - [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) — ⭐ 3,125 · `TypeScript` · Awesome List — This repository curates a list of trending and high-quality open-source JavaScript, HTML, and CSS projects. It serves as a valuable resource for developers seeking the best components for building web applications.
+- [Anil-matcha/awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) — ⭐ 2,865 · `JavaScript` · Awesome List — awesome-generative-ai-apps is a curated list of 50+ open‑source generative AI applications spanning image, video, and SaaS templates.
 - [kuchin/awesome-ceo](https://github.com/kuchin/awesome-ceo) — ⭐ 2,466 · Awesome List — This is a curated and opinionated list of resources specifically designed for startup founders and leaders of high-growth companies, covering topics relevant to entrepreneurship, leadership, and management.
 - [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) — ⭐ 2,361 · `JavaScript` · Dataset — This repository contains a taxonomy of AI skills, serving as a structured resource for classifying and understanding different capabilities.
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) — ⭐ 2,246 · Awesome List — This repository provides an 'awesome list' that curates a collection of open-source operating systems and related development resources. It serves as a comprehensive guide for anyone interested in operating system development or exploration.
