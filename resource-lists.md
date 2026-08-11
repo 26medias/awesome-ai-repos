@@ -9,8 +9,8 @@
 - [Video](#video) <kbd>6</kbd>
 - [Image](#image) <kbd>21</kbd>
 - [Audio](#audio) <kbd>6</kbd>
-- [Text](#text) <kbd>68</kbd>
-- [Code](#code) <kbd>96</kbd>
+- [Text](#text) <kbd>70</kbd>
+- [Code](#code) <kbd>97</kbd>
 - [Browser](#browser) <kbd>3</kbd>
 - [Robotics](#robotics) <kbd>13</kbd>
 - [3D](#3d) <kbd>6</kbd>
@@ -19,7 +19,7 @@
 - [Models](#models) <kbd>4</kbd>
 - [Infrastructure](#infrastructure) <kbd>19</kbd>
 - [Multimodal](#multimodal) <kbd>9</kbd>
-- [Security](#security) <kbd>55</kbd>
+- [Security](#security) <kbd>56</kbd>
 - [Productivity](#productivity) <kbd>45</kbd>
 - [Finance](#finance) <kbd>16</kbd>
 - [Science](#science) <kbd>36</kbd>
@@ -76,7 +76,7 @@
 ## Text
 
 <details>
-<summary>Show 68 repos</summary>
+<summary>Show 70 repos</summary>
 
 - [f/prompts.chat](https://github.com/f/prompts.chat) — ⭐ 165,966 · `HTML` · Self-hosted Service — This project, formerly known as Awesome ChatGPT Prompts, provides an open-source, self-hostable platform for the community to share, discover, and collect prompts for various large language models.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — ⭐ 77,236 · `MDX` · Tutorial/Course — This repository is a comprehensive guide to prompt engineering, offering a rich collection of papers, lessons, notebooks, and resources. It covers prompt design, context engineering, RAG, and AI agents for large language models.
@@ -122,6 +122,7 @@
 - [ZeroLu/awesome-gemini-ai](https://github.com/ZeroLu/awesome-gemini-ai) — ⭐ 700 · Awesome List — This is a curated collection of high-performance prompts, use cases, and examples specifically designed for Google's Gemini 1.5 Pro and Ultra models. It covers prompts for coding, agents, design, and general productivity.
 - [alistaitsacle/free-llm-api-keys](https://github.com/alistaitsacle/free-llm-api-keys) — ⭐ 654 · `Python` · Awesome List — This repository offers a collection of free API keys for various Large Language Models, including GPT, Claude, Gemini, DeepSeek, and Grok. The keys are regularly updated for direct use without requiring a credit card.
 - [mliu98/awesome-human-distillation](https://github.com/mliu98/awesome-human-distillation) — ⭐ 642 · `Python` · Awesome List — This is a curated catalog of 'human distillation' agent skills, which are AI capability packages designed to capture and replicate the expression style, thinking patterns, and judgment logic of specific individuals for use with AI agents.
+- [mustafakendiguzel/claude-code-ui-agents](https://github.com/mustafakendiguzel/claude-code-ui-agents) — ⭐ 591 · Awesome List — A curated collection of Claude AI agent prompts for UI/UX design, web development, and frontend tasks, helping generate design systems, React components, and mobile interfaces.
 - [TsinghuaC3I/Awesome-Memory-for-Agents](https://github.com/TsinghuaC3I/Awesome-Memory-for-Agents) — ⭐ 521 · Awesome List — This repository is a curated collection of research papers focusing on the concept of memory in language agents, covering aspects like short-term, long-term, and experiential memory.
 - [worldbench/awesome-ai-auto-research](https://github.com/worldbench/awesome-ai-auto-research) — ⭐ 457 · `HTML` · Awesome List — This repository is a curated survey and resource list on AI Auto-Research, focusing on topics like AI agents, multi-agent systems, RAG, and large language models for automated research tasks.
 - [AiHubCN/Awesome-LLM-Survey](https://github.com/AiHubCN/Awesome-LLM-Survey) — ⭐ 393 · Awesome List — This repository provides an awesome list, curating a collection of survey papers related to Large Language Models (LLMs). It serves as a resource for researchers and practitioners to find comprehensive overviews of various LLM topics.
@@ -144,6 +145,7 @@
 - [madhvantyagi/SOUL.md](https://github.com/madhvantyagi/SOUL.md) — ⭐ 56 · Boilerplate/Template — This repository is a collection of \`Soul.md\` files, each designed to define unique personalities and behavioral traits for AI agents. These files specify how an agent speaks, what it believes, how it handles uncertainty, and its core principles.
 - [raullenchai/awesome-deepseek-integration](https://github.com/raullenchai/awesome-deepseek-integration) — ⭐ 35 · Awesome List — This repository is an awesome list collecting various software, platforms, tools, frameworks, plugins, and extensions that integrate with the DeepSeek API. It helps developers discover existing DeepSeek-compatible solutions for LLM integration.
 - [TusKANNy/awesome-multivector-retrieval](https://github.com/TusKANNy/awesome-multivector-retrieval) — ⭐ 29 · `TeX` · Awesome List — This is an extensive and annotated list of resources focused on Late-Interaction Multivector Retrieval, providing a curated collection of materials for the community.
+- [rembertdesigns/Machine-Learning-AI-Library](https://github.com/rembertdesigns/Machine-Learning-AI-Library) — ⭐ 26 · Awesome List — A curated, open-access roadmap of machine learning and AI resources, covering foundational math, tutorials, books, frameworks, LLMs, interactive demos, and EdTech tools.
 - [jyotidabass/100-NLP-interview-questions-by-Steve-nouri](https://github.com/jyotidabass/100-NLP-interview-questions-by-Steve-nouri) — ⭐ 25 · Tutorial/Course — This repository provides a collection of 100 Natural Language Processing (NLP) interview questions curated by Steve Nouri. It serves as an educational resource for individuals preparing for interviews in the AI, ML, and NLP fields.
 - [PKU-PILLAR-Group/Survey-Intrinsic-Interpretability-of-LLMs](https://github.com/PKU-PILLAR-Group/Survey-Intrinsic-Interpretability-of-LLMs) — ⭐ 17 · Awesome List — This repository contains a paper list for an ACL 2026 survey focused on intrinsic interpretability of Large Language Models (LLMs). The survey explores design principles and architectures for building transparency directly into LLM models to understand their internal workings.
 
@@ -152,7 +154,7 @@
 ## Code
 
 <details>
-<summary>Show 96 repos</summary>
+<summary>Show 97 repos</summary>
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — ⭐ 451,590 · `TypeScript` · Tutorial/Course — freeCodeCamp is an open-source platform offering a comprehensive curriculum to learn math, programming, and computer science for free. It provides structured educational content and projects for aspiring developers worldwide.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) — ⭐ 391,662 · `Python` · Awesome List — This repository is a curated collection of freely available programming books, serving as a valuable educational resource for anyone looking to learn programming or computer science. It provides access to a vast library of digital books.
@@ -219,6 +221,7 @@
 - [alternbits/awesome-cuda-books](https://github.com/alternbits/awesome-cuda-books) — ⭐ 819 · Awesome List — This repository is a curated list of recommended books for learning CUDA programming, covering topics like GPU computing, optimization, and C++. It serves as a guide for anyone looking to delve into CUDA development.
 - [loppety/Awesome-Vibecoding-Guide](https://github.com/loppety/Awesome-Vibecoding-Guide) — ⭐ 747 · Awesome List — A comprehensive guide and compendium of best practices for AI-assisted coding, drawing from real commercial projects. It serves as a resource for improving coding standards and understanding monetization strategies in AI-driven development.
 - [yibie/awesome-autoresearch](https://github.com/yibie/awesome-autoresearch) — ⭐ 669 · `Python` · Awesome List — This repository is an awesome list focused on autoresearch, which details how AI agents can automatically research, generate cases, evaluate traces, and refine themselves, as exemplified by applications in customer service agents and AI game playing.
+- [ai-boost/awesome-a2a](https://github.com/ai-boost/awesome-a2a) — ⭐ 641 · Awesome List — Curated collection of Agent2Agent (A2A) agents, tools, servers and clients compatible with the open A2A protocol.
 - [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) — ⭐ 637 · `Python` · Tutorial/Course — An anthology and field guide providing methods and an agent context bundle for optimizing the performance and engineering of AI agents.
 - [YennNing/Awesome-Code-as-Agent-Harness-Papers](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers) — ⭐ 619 · Awesome List — A curated list of papers and resources focusing on 'Code as Agent Harness,' a concept where code serves as an executable, inspectable, and stateful substrate for AI agents to reason, act, verify, remember, and self-correct. It summarizes research from institutions like UIUC, Stanford, and Meta.
 - [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) — ⭐ 563 · Awesome List — This repository is a curated list of tools and frameworks for orchestrating multiple AI agents, specifically focusing on their application in coding tasks.
@@ -374,7 +377,7 @@
 ## Security
 
 <details>
-<summary>Show 55 repos</summary>
+<summary>Show 56 repos</summary>
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) — ⭐ 236,569 · Awesome List — A comprehensive collection of inspiring lists, manuals, cheatsheets, and command-line/web tools, specifically curated as a resource for security researchers, pentesters, and system operators.
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) — ⭐ 47,750 · `Kotlin` · Tutorial/Course — This project offers extensive tutorials and resources for internet censorship circumvention (fanqiang), covering methods like downloading software, registering accounts, and setting up VPS or soft routers. It provides guides for multiple operating systems, maintained and updated for nearly a decade.
@@ -409,6 +412,7 @@
 - [ansjdnakjdnajkd/iOS](https://github.com/ansjdnakjdnajkd/iOS) — ⭐ 1,284 · Awesome List — A curated collection of usable tools and projects for iOS and macOS penetration testing and security research.
 - [huhusmang/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection) — ⭐ 1,204 · `Python` · Awesome List — This repository is an awesome list curating Large Language Models (LLMs) that are useful for vulnerability detection in software and systems.
 - [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) — ⭐ 1,069 · `Ruby` · Awesome List — This is a curated list of tools and resources specifically for mobile hacking and penetration testing, targeting both Android and iOS platforms. It serves as a comprehensive collection for security professionals and bug bounty hunters.
+- [n0kovo/awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking) — ⭐ 1,025 · Awesome List — A curated collection of tools, research papers, and resources related to password cracking and password security.
 - [The-Osint-Toolbox/Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT) — ⭐ 941 · Awesome List — A comprehensive repository of tools, techniques, and tradecraft for conducting Open-Source Intelligence (OSINT) gathering, specifically focused on social media platforms such as Facebook, TikTok, and Instagram.
 - [jaiswalakshansh/Facebook-BugBounty-Writeups](https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups) — ⭐ 840 · Awesome List — This repository gathers a collection of bug bounty writeups specifically related to Facebook's bug bounty program. It acts as a reference for security researchers interested in Facebook vulnerabilities.
 - [TalEliyahu/Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security) — ⭐ 798 · Awesome List — This is a curated list of resources, research, and tools specifically focused on securing AI systems, including LLMs and agentic systems, for AI security engineers.
