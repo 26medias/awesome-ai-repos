@@ -17,14 +17,14 @@
 - [Data](#data) <kbd>7</kbd>
 - [Training](#training) <kbd>18</kbd>
 - [Models](#models) <kbd>4</kbd>
-- [Infrastructure](#infrastructure) <kbd>19</kbd>
+- [Infrastructure](#infrastructure) <kbd>20</kbd>
 - [Multimodal](#multimodal) <kbd>9</kbd>
 - [Security](#security) <kbd>56</kbd>
 - [Productivity](#productivity) <kbd>45</kbd>
 - [Finance](#finance) <kbd>16</kbd>
 - [Science](#science) <kbd>36</kbd>
 - [Gaming](#gaming) <kbd>1</kbd>
-- [Other](#other) <kbd>62</kbd>
+- [Other](#other) <kbd>64</kbd>
 
 ## Video
 
@@ -338,7 +338,7 @@
 ## Infrastructure
 
 <details>
-<summary>Show 19 repos</summary>
+<summary>Show 20 repos</summary>
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — ⭐ 298,803 · Awesome List — This is an awesome list compiling free software network services and web applications that users can host on their own servers.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — ⭐ 91,775 · Awesome List — This is a curated list of MCP (Multi-agent Communication Protocol) servers, intended as a resource for developers setting up and managing communication backends for AI agent systems.
@@ -354,6 +354,7 @@
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) — ⭐ 3,893 · `HTML` · Awesome List — A curated list of open-source, self-hosted projects that can be deployed using Docker and docker-compose, serving as a go-to resource for self-hostable software.
 - [wafer-ai/gpu-perf-engineering-resources](https://github.com/wafer-ai/gpu-perf-engineering-resources) — ⭐ 1,279 · Tutorial/Course — A learning guide and curriculum focused on GPU performance engineering in AI systems, covering concepts from foundational principles to advanced techniques used by cutting-edge AI labs.
 - [0xSojalSec/LLMs-local](https://github.com/0xSojalSec/LLMs-local) — ⭐ 640 · Awesome List — A curated list of awesome platforms, tools, and resources for running Large Language Models (LLMs) locally, including information on relevant hardware.
+- [goabiaryan/awesome-gpu-engineering](https://github.com/goabiaryan/awesome-gpu-engineering) — ⭐ 560 · `HTML` · Awesome List — A curated collection of resources, books, frameworks, and tools for GPU engineering and optimization in AI systems.
 - [byungsoo-oh/ml-systems-papers](https://github.com/byungsoo-oh/ml-systems-papers) — ⭐ 558 · Awesome List — A curated collection of academic papers focused on machine learning systems. It serves as a resource for researchers and practitioners interested in the field.
 - [Jun-jie-Huang/awesome-LLM-AIOps](https://github.com/Jun-jie-Huang/awesome-LLM-AIOps) — ⭐ 459 · Awesome List — This is a curated list of academic research and industrial materials focusing on the application of Large Language Models (LLMs) to IT Operations (AIOps). It serves as a resource for exploring advancements in this interdisciplinary field.
 - [EthicalML/awesome-production-agentic-systems](https://github.com/EthicalML/awesome-production-agentic-systems) — ⭐ 155 · Awesome List — A curated list of open-source libraries for deploying, monitoring, versioning, and scaling agentic AI applications and systems in production environments.
@@ -566,7 +567,7 @@
 ## Other
 
 <details>
-<summary>Show 62 repos</summary>
+<summary>Show 64 repos</summary>
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) — ⭐ 485,059 · Awesome List — This is a meta-awesome list, serving as a curated and comprehensive index of other 'awesome lists' across a vast array of topics, from AI and Web3 to development tools and productivity scripts.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) — ⭐ 454,251 · `Python` · Awesome List — This repository offers a comprehensive, collective list of free public APIs across various domains. It serves as a valuable resource for developers looking to integrate external services and data into their applications.
@@ -627,6 +628,8 @@
 - [Shiyao-Huang/awesome-agent-evolution](https://github.com/Shiyao-Huang/awesome-agent-evolution) — ⭐ 74 · `TeX` · Awesome List — This is an awesome list or curated collection related to the evolution and development of AI agents. Although the tweet describes a terminal-based coding agent built by the author, the repository name suggests it primarily serves as a resource list.
 - [mira-ai-lab/awesome-mas-life](https://github.com/mira-ai-lab/awesome-mas-life) — ⭐ 72 · `TeX` · Awesome List — This repository contains resources related to a survey on multi-agent collaboration, attribution, and evolution, likely serving as a curated list alongside a research paper.
 - [aisparkedu/knowledge-base](https://github.com/aisparkedu/knowledge-base) — ⭐ 56 · Awesome List — A comprehensive open-source knowledge base maintained by AI practitioners, providing resources and insights for AI beginners, covering AI tools, programming agents, content creation, efficiency improvement, and industry observations.
+- [wkqdzkd/Awesome-Reliable-Self-Evolving-Agents](https://github.com/wkqdzkd/Awesome-Reliable-Self-Evolving-Agents) — ⭐ 23 · `HTML` · Awesome List — Awesome‑Reliable‑Self‑Evolving‑Agents is a curated HTML list surveying research on self‑evolving AI agents and their reliability criteria.
+- [zongqing0068/awesome-co-evolution](https://github.com/zongqing0068/awesome-co-evolution) — ⭐ 21 · Awesome List — A curated collection of papers and resources on co‑evolution in agentic systems.
 - [wildminder/awesome-minimax-H3](https://github.com/wildminder/awesome-minimax-H3) — ⭐ 20 · Awesome List — A curated list of resources, tools, and projects related to MiniMax‑H3.
 - [zhouhao1024/Awesome-Self-Evolving-Coding-Agents](https://github.com/zhouhao1024/Awesome-Self-Evolving-Coding-Agents) — ⭐ 14 · Awesome List — A curated collection of papers and resources on self‑evolving coding agents, providing a comprehensive survey of recent research.
 - [yan5xu/oh-my-ai-company](https://github.com/yan5xu/oh-my-ai-company) — ⭐ 10 · Awesome List — This repository serves as a living atlas providing curated information about AI companies, including their products, founders, investors, market signals, and research notes.
