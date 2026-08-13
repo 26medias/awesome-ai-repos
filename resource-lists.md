@@ -19,7 +19,7 @@
 - [Models](#models) <kbd>4</kbd>
 - [Infrastructure](#infrastructure) <kbd>20</kbd>
 - [Multimodal](#multimodal) <kbd>9</kbd>
-- [Security](#security) <kbd>56</kbd>
+- [Security](#security) <kbd>57</kbd>
 - [Productivity](#productivity) <kbd>45</kbd>
 - [Finance](#finance) <kbd>16</kbd>
 - [Science](#science) <kbd>36</kbd>
@@ -378,7 +378,7 @@
 ## Security
 
 <details>
-<summary>Show 56 repos</summary>
+<summary>Show 57 repos</summary>
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) — ⭐ 236,569 · Awesome List — A comprehensive collection of inspiring lists, manuals, cheatsheets, and command-line/web tools, specifically curated as a resource for security researchers, pentesters, and system operators.
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) — ⭐ 47,750 · `Kotlin` · Tutorial/Course — This project offers extensive tutorials and resources for internet censorship circumvention (fanqiang), covering methods like downloading software, registering accounts, and setting up VPS or soft routers. It provides guides for multiple operating systems, maintained and updated for nearly a decade.
@@ -414,6 +414,7 @@
 - [huhusmang/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection) — ⭐ 1,204 · `Python` · Awesome List — This repository is an awesome list curating Large Language Models (LLMs) that are useful for vulnerability detection in software and systems.
 - [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) — ⭐ 1,069 · `Ruby` · Awesome List — This is a curated list of tools and resources specifically for mobile hacking and penetration testing, targeting both Android and iOS platforms. It serves as a comprehensive collection for security professionals and bug bounty hunters.
 - [n0kovo/awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking) — ⭐ 1,025 · Awesome List — A curated collection of tools, research papers, and resources related to password cracking and password security.
+- [UCYBERS/Awesome-Blackhat-Tools](https://github.com/UCYBERS/Awesome-Blackhat-Tools) — ⭐ 943 · Awesome List — Awesome-Blackhat-Tools is a curated collection of security utilities presented at Black Hat conferences.
 - [The-Osint-Toolbox/Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT) — ⭐ 941 · Awesome List — A comprehensive repository of tools, techniques, and tradecraft for conducting Open-Source Intelligence (OSINT) gathering, specifically focused on social media platforms such as Facebook, TikTok, and Instagram.
 - [jaiswalakshansh/Facebook-BugBounty-Writeups](https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups) — ⭐ 840 · Awesome List — This repository gathers a collection of bug bounty writeups specifically related to Facebook's bug bounty program. It acts as a reference for security researchers interested in Facebook vulnerabilities.
 - [TalEliyahu/Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security) — ⭐ 798 · Awesome List — This is a curated list of resources, research, and tools specifically focused on securing AI systems, including LLMs and agentic systems, for AI security engineers.
