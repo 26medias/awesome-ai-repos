@@ -19,12 +19,12 @@
 - [Models](#models) <kbd>4</kbd>
 - [Infrastructure](#infrastructure) <kbd>20</kbd>
 - [Multimodal](#multimodal) <kbd>9</kbd>
-- [Security](#security) <kbd>57</kbd>
-- [Productivity](#productivity) <kbd>46</kbd>
+- [Security](#security) <kbd>58</kbd>
+- [Productivity](#productivity) <kbd>47</kbd>
 - [Finance](#finance) <kbd>16</kbd>
 - [Science](#science) <kbd>36</kbd>
 - [Gaming](#gaming) <kbd>1</kbd>
-- [Other](#other) <kbd>65</kbd>
+- [Other](#other) <kbd>66</kbd>
 
 ## Video
 
@@ -379,7 +379,7 @@
 ## Security
 
 <details>
-<summary>Show 57 repos</summary>
+<summary>Show 58 repos</summary>
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) — ⭐ 236,569 · Awesome List — A comprehensive collection of inspiring lists, manuals, cheatsheets, and command-line/web tools, specifically curated as a resource for security researchers, pentesters, and system operators.
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) — ⭐ 47,750 · `Kotlin` · Tutorial/Course — This project offers extensive tutorials and resources for internet censorship circumvention (fanqiang), covering methods like downloading software, registering accounts, and setting up VPS or soft routers. It provides guides for multiple operating systems, maintained and updated for nearly a decade.
@@ -411,6 +411,7 @@
 - [psiinon/open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners) — ⭐ 1,616 · Awesome List — This is a curated list of open-source tools designed for scanning websites for security vulnerabilities. It serves as a directory for developers and security analysts looking for web security scanning solutions.
 - [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) — ⭐ 1,580 · `Shell` · Awesome List — This repository offers a curated collection of over 100 open-source intelligence (OSINT) and reconnaissance tools for Kali Linux. It provides a one-command installer for tools covering social media intelligence, geospatial intelligence, network reconnaissance, and forensics.
 - [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists) — ⭐ 1,510 · `YARA` · Awesome List — This repository hosts a curated collection of awesome security lists and resources, specifically tailored for Security Operations Centers (SOC), Computer Emergency Response Teams (CERT), and Cyber Threat Intelligence (CTI). It provides various detection lists useful for threat hunting and blue team operations.
+- [ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) — ⭐ 1,366 · Awesome List — A curated list of AI security frameworks, standards, and open‑source tools for developers.
 - [ansjdnakjdnajkd/iOS](https://github.com/ansjdnakjdnajkd/iOS) — ⭐ 1,284 · Awesome List — A curated collection of usable tools and projects for iOS and macOS penetration testing and security research.
 - [huhusmang/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection) — ⭐ 1,204 · `Python` · Awesome List — This repository is an awesome list curating Large Language Models (LLMs) that are useful for vulnerability detection in software and systems.
 - [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) — ⭐ 1,069 · `Ruby` · Awesome List — This is a curated list of tools and resources specifically for mobile hacking and penetration testing, targeting both Android and iOS platforms. It serves as a comprehensive collection for security professionals and bug bounty hunters.
@@ -444,7 +445,7 @@
 ## Productivity
 
 <details>
-<summary>Show 46 repos</summary>
+<summary>Show 47 repos</summary>
 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) — ⭐ 49,037 · Awesome List — A curated awesome list of open-source applications available for macOS. It serves as a comprehensive directory for users seeking free and open-source software for their Mac computers.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) — ⭐ 40,616 · `JavaScript` · Awesome List — This repository hosts the source for remoteintech.company, a community-maintained directory listing tech companies with remote work opportunities. It's a valuable resource for job seekers.
@@ -472,6 +473,7 @@
 - [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) — ⭐ 2,151 · Awesome List — An awesome list collecting DESIGN.md and SKILL.md files that define design skills for agentic AI tools like Claude Design and Google Stitch, serving as a resource for capability development.
 - [LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills) — ⭐ 2,018 · `Python` · Skill Pack — This repository is a curated collection of over a thousand skills designed for OpenClaw AI agents, which are updated weekly. These skills provide pre-built capabilities to enhance and extend the functionality of various AI agents.
 - [Owl-Listener/designer-skills](https://github.com/Owl-Listener/designer-skills) — ⭐ 1,961 · `Markdown` · Plugin/Extension — This repository provides a collection of 87 agentic skills, commands, and plugins specifically tailored for Claude Code, enabling it to perform various design-related tasks from research to UI/UX and delivery.
+- [ABZ-Aaron/cheat-sheets](https://github.com/ABZ-Aaron/cheat-sheets) — ⭐ 1,712 · Awesome List — A repository that stores a collection of cheat sheets covering topics like SQL, data science, AI, and programming languages.
 - [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) — ⭐ 1,250 · `HTML` · Skill Pack — This repository offers a collection of 'skills,' likely prompts or configurations, designed to enhance Claude AI's capabilities for product management tasks. It aims to boost productivity and efficiency for product managers using Claude.
 - [dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) — ⭐ 1,158 · Awesome List — This is a curated list of software, engines, and tools for workflow automation, including platforms for AI agents and general workflow management.
 - [deanpeters/product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) — ⭐ 926 · `Python` · Awesome List — This repository provides a curated collection of over 50 practical Generative AI prompts tailored for product managers, designed for use with various AI agents like ChatGPT, Claude, and Gemini.
@@ -570,7 +572,7 @@
 ## Other
 
 <details>
-<summary>Show 65 repos</summary>
+<summary>Show 66 repos</summary>
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) — ⭐ 485,059 · Awesome List — This is a meta-awesome list, serving as a curated and comprehensive index of other 'awesome lists' across a vast array of topics, from AI and Web3 to development tools and productivity scripts.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) — ⭐ 454,251 · `Python` · Awesome List — This repository offers a comprehensive, collective list of free public APIs across various domains. It serves as a valuable resource for developers looking to integrate external services and data into their applications.
@@ -593,6 +595,7 @@
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) — ⭐ 8,515 · `Python` · Awesome List — An awesome list providing a collection of cheatsheets.
 - [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) — ⭐ 7,979 · Awesome List — This is a curated list of awesome resources for electronic engineers and hobbyists, providing valuable links and tools related to various aspects of electronics and hardware design.
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) — ⭐ 7,594 · `Markdown` · Awesome List — This is an awesome list compiling a collection of YouTubers who create educational content on various technology topics, including web development, machine learning, and cybersecurity.
+- [daviddao/awful-ai](https://github.com/daviddao/awful-ai) — ⭐ 7,530 · Awesome List — A curated awesome list documenting concerning and potentially harmful applications of AI to raise awareness.
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) — ⭐ 6,522 · Awesome List — A curated list of open-source software alternatives to various proprietary solutions, often referred to as an 'awesome list'.
 - [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates) — ⭐ 5,099 · Awesome List — Awesome Certificates is a curated open-source list of over 20,000 hours and 200 free courses and certifications across IT, CS, Design, and Business, serving as a learning hub for various technology domains.
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) — ⭐ 5,029 · `Python` · Awesome List — This repository provides an AI Agent Chinese learning roadmap, offering a structured path with required exercises and readings. It's available in Traditional Chinese, Simplified Chinese, and English, inviting community contributions.
