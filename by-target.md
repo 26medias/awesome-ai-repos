@@ -6,21 +6,21 @@
 
 [↑ Back to index](README.md)
 
-- [Generic LLM](#generic-llm) <kbd>1409</kbd>
-- [Claude Code](#claude-code) <kbd>1043</kbd>
-- [Codex CLI](#codex-cli) <kbd>575</kbd>
-- [OpenAI API](#openai-api) <kbd>399</kbd>
+- [Generic LLM](#generic-llm) <kbd>1411</kbd>
+- [Claude Code](#claude-code) <kbd>1049</kbd>
+- [Codex CLI](#codex-cli) <kbd>578</kbd>
+- [OpenAI API](#openai-api) <kbd>400</kbd>
 - [Anthropic API](#anthropic-api) <kbd>360</kbd>
 - [Cursor](#cursor) <kbd>257</kbd>
 - [Gemini CLI](#gemini-cli) <kbd>214</kbd>
-- [Claude.ai](#claudeai) <kbd>124</kbd>
+- [Claude.ai](#claudeai) <kbd>125</kbd>
 - [ChatGPT](#chatgpt) <kbd>92</kbd>
-- [GitHub Copilot](#github-copilot) <kbd>83</kbd>
+- [GitHub Copilot](#github-copilot) <kbd>84</kbd>
 
 ## Generic LLM
 
 <details>
-<summary>Show 1409 repos</summary>
+<summary>Show 1411 repos</summary>
 
 - [re4/LibreCode](https://github.com/re4/LibreCode) — ⭐ 1,040,442 · `C#` · Code — An AI-powered, local-first code editor and reverse engineering interface. It integrates with Ollama for offline AI capabilities and includes a .NET decompiler, aiming to provide a privacy-focused alternative to cloud-based AI coding tools.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) — ⭐ 385,041 · `TypeScript` · Productivity — OpenClaw is a personal AI assistant built to run on any operating system and platform. It aims to offer a customizable AI experience with a strong emphasis on user data ownership.
@@ -1008,6 +1008,7 @@
 - [six2dez/burp-mcp-agents](https://github.com/six2dez/burp-mcp-agents) — ⭐ 215 · `Python` · Security — Provides practical setup guides and helper scripts to connect Burp Suite MCP Server with various AI backends such as Codex, Gemini, Ollama, and LM Studio.
 - [dondai1234/master-fetch](https://github.com/dondai1234/master-fetch) — ⭐ 215 · `Python` · Data — Master-fetch is a self-hosted MCP server for web fetching and data scraping, featuring Cloudflare bypass, Trafilatura extraction, and smart routing. It's designed to provide AI agents with free access to the entire web, eliminating the need for expensive search APIs or data scraping subscriptions.
 - [Superior-Trade/superior-skills](https://github.com/Superior-Trade/superior-skills) — ⭐ 215 · `JavaScript` · Finance — This repository provides open-source agent skills and tool schemas for Superior Trade, allowing users to build, backtest, and deploy algorithmic trading strategies on platforms like Hyperliquid using natural language. It includes validated templates and reusable primitives for trade logic and regime filtering.
+- [HeadyZhang/agent-audit](https://github.com/HeadyZhang/agent-audit) — ⭐ 214 · `Python` · Security — Agent-audit provides a static security scanner for LLM agents, detecting prompt injection, MCP config issues, and taint analysis across LangChain, CrewAI, and AutoGen.
 - [rdi-berkeley/agents-last-exam](https://github.com/rdi-berkeley/agents-last-exam) — ⭐ 212 · `Python` · Text — An evaluation benchmark and associated codebase for testing the capabilities and performance of AI agents, accompanying the 'Agents' Last Exam' research paper.
 - [arorarishi/Prompt-Engineering-Jumpstart](https://github.com/arorarishi/Prompt-Engineering-Jumpstart) — ⭐ 211 · Text — This is a free, open-source eBook and guide designed to teach beginners prompt engineering principles for interacting with AI models like ChatGPT and DALL-E, using simple analogies and copy-paste examples.
 - [grafana/skills](https://github.com/grafana/skills) — ⭐ 211 · `JavaScript` · Code — This repository provides standardized skills for Grafana AI coding agents. It offers a collection of functionalities to extend or enhance the capabilities of AI agents specifically designed for coding tasks within the Grafana ecosystem.
@@ -1243,6 +1244,7 @@
 - [illiahaidar/mcptrustchecker](https://github.com/illiahaidar/mcptrustchecker) — ⭐ 49 · `TypeScript` · Security — An offline security scanner for Model Context Protocol (MCP) servers, providing an A–F Trust Score to detect prompt injection, tool poisoning, and toxic flows.
 - [DenAB-NVS/submarine](https://github.com/DenAB-NVS/submarine) — ⭐ 49 · `JavaScript` · Text — Submarine is a local-first, model-agnostic, layered memory system for AI agents. It allows conversational context to accumulate automatically without being lost, leveraging local embedding models like BGE-M3.
 - [charleslee8266/cardnav-web](https://github.com/charleslee8266/cardnav-web) — ⭐ 48 · `TypeScript` · Productivity — A web application providing a one-stop navigation and comparison tool for purchasing AI large model accounts. It aggregates AI relay stations, card networks, and official subscription pricing, offering model rankings, usage guides, and practical tools to help users efficiently acquire and manage LLM services.
+- [bruc3van/dsh-desktop](https://github.com/bruc3van/dsh-desktop) — ⭐ 48 · `TypeScript` · Productivity — A native desktop client that wraps the DeepSeek Harness web UI into an Electron window, allowing long‑running tasks to stay in the system tray and installing only vetted plugins.
 - [manikv12/AgentPulse](https://github.com/manikv12/AgentPulse) — ⭐ 47 · `TypeScript` · Productivity — AgentPulse allows users to monitor, open, and manage AI agent threads from an iPad or other touch display, working in conjunction with a macOS helper application.
 - [swaylq/master-skill](https://github.com/swaylq/master-skill) — ⭐ 47 · `Shell` · Text — This project is a CLI tool that automatically researches a specified industry across six key categories to generate 'Master OS skills.' These skills can then be loaded into various AI agents like Claude Code or Codex to enable them to act as expert 'industry veterans.'
 - [MarcoPorcellato/matryca-plumber](https://github.com/MarcoPorcellato/matryca-plumber) — ⭐ 45 · `Python` · Productivity — Matryca-plumber is a local-first background AI daemon for Logseq, transforming notes into an agentic workspace with autonomous indexing and RAG capabilities. It includes an optional MCP server, allowing tools like Claude and Cursor to securely query a user's knowledge base.
@@ -1437,7 +1439,7 @@
 ## Claude Code
 
 <details>
-<summary>Show 1043 repos</summary>
+<summary>Show 1049 repos</summary>
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — ⭐ 237,323 · `JavaScript` · Code — This is an agent harness system designed to optimize the performance of AI coding agents like Claude Code, Codex, and Cursor. It provides capabilities for managing agent skills, memory, instincts, and security, facilitating research-first development.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 237,312 · `JavaScript` · Code — This repository provides an agent harness system for optimizing the performance, skills, memory, and security of AI coding agents. It supports development for various tools like Claude Code, Codex, Opencode, and Cursor.
@@ -1639,6 +1641,7 @@
 - [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) — ⭐ 3,699 · `Python` · Image — This repository provides a skill that enables coding agents, such as Claude Code, to generate visually appealing and practical Excalidraw diagrams based on user prompts.
 - [robinebers/openusage](https://github.com/robinebers/openusage) — ⭐ 3,625 · `Swift` · Productivity — OpenUsage is a free and open-source menu bar tool that helps users track their subscription usage for various AI programming tools like Cursor, Claude Code, and GitHub Copilot. It centralizes usage data to prevent overspending on services that are not fully utilized.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) — ⭐ 3,560 · `C` · Code — A high-performance server that indexes codebases into a persistent knowledge graph for code intelligence. It supports 158 languages, offers sub-millisecond queries, and integrates with various AI coding tools.
+- [microsoft/apm](https://github.com/microsoft/apm) — ⭐ 3,549 · `Python` · Code — Microsoft's Agent Package Manager (APM) is a Python library for managing and distributing packages for AI agents, supporting Claude Code, Codex CLI, and GitHub Copilot integrations.
 - [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) — ⭐ 3,548 · `Shell` · Code — Claude Octopus is a CLI tool designed to surface AI blindspots, particularly in coding tasks, by orchestrating and running up to eight different AI models in parallel for a given task, facilitating comprehensive evaluation before deployment.
 - [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) — ⭐ 3,486 · `Rust` · Code — lean-ctx is a tool optimizing context window usage for AI development environments like Cursor and Claude Code, significantly reducing token waste and leading to cost savings for developers using large language models for coding.
 - [gadievron/raptor](https://github.com/gadievron/raptor) — ⭐ 3,474 · `Python` · Security — Raptor is a project that transforms Claude Code into an autonomous AI agent for offensive and defensive security operations. It allows users to configure the agent with rules, sub-agents, and skills to orchestrate security tools and engage in adversarial thinking.
@@ -1807,6 +1810,7 @@
 - [jordanrendric/claude-video-vision](https://github.com/jordanrendric/claude-video-vision) — ⭐ 1,080 · `TypeScript` · Multimodal — This plugin allows Claude Code to analyze and understand video content by extracting video frames and performing multimodal audio analysis. It enables Claude to "watch" videos and generate insights from both visual and auditory information.
 - [Jesseovo/last30days-skill-cn](https://github.com/Jesseovo/last30days-skill-cn) — ⭐ 1,072 · `Python` · Text — An AI Agent skill designed to automatically search across major internet platforms for trending content over the last 30 days. It analyzes interactions and data to generate comprehensive, verifiable research reports, assisting users with competitive analysis, industry research, and content ideation.
 - [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) — ⭐ 1,072 · `TypeScript` · Code — Mysti is an AI coding extension for VS Code that orchestrates a team of AI agents (e.g., Claude Code, OpenAI Codex) to brainstorm, debate, and synthesize coding solutions. It enables collaborative agentic workflows directly within the IDE.
+- [affaan-m/agentshield](https://github.com/affaan-m/agentshield) — ⭐ 1,069 · `TypeScript` · Security — AgentShield is an AI agent security scanner available as a CLI, GitHub Action, ECC plugin, and GitHub App, detecting vulnerabilities in agent configs, MCP servers, and tool permissions.
 - [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) — ⭐ 1,069 · `TypeScript` · Code — A TypeScript framework that powers AI coding agents on Tencent CloudBase, offering database, authentication, serverless functions, plugin integration, and MCP capabilities.
 - [thClaws/thClaws](https://github.com/thClaws/thClaws) — ⭐ 1,062 · `Rust` · Code — thClaws is an open-source AI agent harness built in native Rust, providing a unified binary for GUI, CLI, headless, and web application use. It supports multiple LLM providers, agent teams, skills, and plugins, leveraging the Model Context Protocol (MCP).
 - [Dimillian/CodexSkillManager](https://github.com/Dimillian/CodexSkillManager) — ⭐ 1,057 · `Swift` · Code — A macOS application designed to manage and organize AI-powered skills for coding assistants such as Codex and Claude Code.
@@ -2044,6 +2048,8 @@
 - [Lyellr88/MARM-Systems](https://github.com/Lyellr88/MARM-Systems) — ⭐ 324 · `Python` · Infrastructure — This is a Universal MCP Server that provides persistent memory, multi-agent coordination, and context sharing for AI agents. It uses the MARM protocol for structured reasoning, enabling AI collaborators to evolve with user work.
 - [Noi1r/beamer-skill](https://github.com/Noi1r/beamer-skill) — ⭐ 322 · `TeX` · Text — This is a Claude Code skill designed for generating, compiling, reviewing, and polishing academic Beamer LaTeX presentations, offering features like quality scoring, pedagogical review, and TikZ auditing.
 - [activeloopai/hivemind](https://github.com/activeloopai/hivemind) — ⭐ 321 · `TypeScript` · Code — This project provides a shared memory system, described as 'one brain,' designed to propagate and manage learned skills and long-term memory across multiple AI agents, especially for coding-related tasks.
+- [syahiidkamil/Software-Engineer-AI-Agent-Atlas](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas) — ⭐ 321 · `Python` · Code — Atlas is a Python-based AI agent that acts as a senior‑engineer layer for Claude Code, generating wireframes, prototypes, and HTML specifications to drive Claude Code’s plan/goal/workflow loop.
+- [coji/natural-japanese](https://github.com/coji/natural-japanese) — ⭐ 320 · `Python` · Text — A Python Agent Skill that rewrites and edits Japanese business text to make it clearer and more readable.
 - [agentara/skills](https://github.com/agentara/skills) — ⭐ 318 · `HTML` · Code — This repository provides a collection of pre-designed prompt modules, or "skills," that extend the capabilities of AI agents like Claude Code. These modules allow AI builders to easily install and execute specific workflows, encapsulating expert knowledge into reusable and predictable prompt extensions.
 - [hiroppy/tmux-agent-sidebar](https://github.com/hiroppy/tmux-agent-sidebar) — ⭐ 317 · `Rust` · Code — A tmux sidebar plugin built in Rust that provides real-time monitoring and management of multiple AI coding agents running across various tmux windows and sessions. It aims to simplify the oversight of concurrent AI programming tasks.
 - [mathomhaus/guild](https://github.com/mathomhaus/guild) — ⭐ 311 · `Go` · Code — A local-first server (single Go binary with SQLite) that provides shared context, memory, and task coordination for multiple AI coding agents, featuring hybrid keyword and semantic search capabilities. It includes concepts like Quests, Lore, Oath, and Brief for agent management.
@@ -2067,6 +2073,7 @@
 - [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) — ⭐ 287 · `Python` · Multimodal — A Python vision toolkit that equips text‑only LLM agents with image Q&A, OCR, screenshot analysis, and visual grounding, with drop‑in support for Codex, Claude Code, OpenCode, and Pi.
 - [FareedKhan-dev/claude-code-from-scratch](https://github.com/FareedKhan-dev/claude-code-from-scratch) — ⭐ 286 · `Python` · Code — This repository reverse engineers and explains the 23-component architecture of Claude Code, a system for AI-driven code generation, to help users understand its underlying structure. It offers a detailed look at how such an AI coding system is built from scratch.
 - [horang-labs/tessera](https://github.com/horang-labs/tessera) — ⭐ 286 · `TypeScript` · Code — Tessera is a desktop and web-based workbench that integrates multiple AI coding agents, including Claude Code and Codex, into a unified visual interface. It allows developers to manage parallel coding tasks, track Git workflows, and monitor agent outputs and reasoning within a comprehensive workspace.
+- [yuuichieguchi/Calyx](https://github.com/yuuichieguchi/Calyx) — ⭐ 284 · `Swift` · Code — Calyx is a native macOS terminal application built on Ghostty that lets users run and supervise multiple coding AI agents in parallel from a single interface.
 - [ericjypark/codex-island](https://github.com/ericjypark/codex-island) — ⭐ 284 · `Swift` · Infrastructure — CodexIsland is a macOS application that displays real-time API usage limits for AI models like Claude Code and Codex directly in the MacBook notch area. It enables users to monitor their AI consumption and estimated costs at a glance.
 - [kxn/codex-remote-feishu](https://github.com/kxn/codex-remote-feishu) — ⭐ 284 · `Go` · Productivity — This project serves as another remote bridge, enabling users to interact with and utilize Claude Code's capabilities directly from the Feishu (Lark) chat platform.
 - [ix-infrastructure/Ix](https://github.com/ix-infrastructure/Ix) — ⭐ 281 · `TypeScript` · Code — Ix provides system intelligence for codebases, mapping software architecture and generating diagrams to aid human and AI understanding.
@@ -2407,6 +2414,7 @@
 - [LabRAI/SkillCenter](https://github.com/LabRAI/SkillCenter) — ⭐ 27 · `Python` · Code — SkillCenter is a project that compiles a massive local SQLite database of over 210,000 AI agent skills by extracting information from GitHub repositories, papers, and blogs, designed to augment AI coding agents like Cursor or Claude.
 - [himynameisben/macos-disk-cleanup](https://github.com/himynameisben/macos-disk-cleanup) — ⭐ 26 · `Shell` · Productivity — A macOS disk‑cleanup skill pack for Claude Code, Codex and similar AI agents, providing read‑only system data diagnostics and safe cache removal.
 - [ItsMeEAera/claude-switcher](https://github.com/ItsMeEAera/claude-switcher) — ⭐ 25 · `Go` · Code — A Text User Interface (TUI) command-line tool written in Go that allows users to quickly switch between different Claude Code API endpoints and API keys, streamlining the management of environment variables.
+- [shinshin86/live2d-add-motion-sample-web-ui](https://github.com/shinshin86/live2d-add-motion-sample-web-ui) — ⭐ 25 · `Python` · Video — A Python web application that lets you add Live2D motions using Claude Code or Codex, with a Web UI for verification.
 - [Fanfulla/Lupin](https://github.com/Fanfulla/Lupin) — ⭐ 25 · `TypeScript` · Code — A local‑first proxy server that lets you run Claude Code and other LLMs with smart routing, OAuth login, and failover.
 - [onsails/cc](https://github.com/onsails/cc) — ⭐ 24 · `Python` · Code — This repository offers a set of 'skills' for Claude Code, including an iterative review-loop for simplifying and fixing code, and a rust-dev skill focused on 'FAIL FAST' standards, enhancing code quality and review processes.
 - [Lifecycle-Innovations-Limited/claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops) — ⭐ 24 · `Shell` · Productivity — A business operating system built on Claude Code that provides 57 skills, 21 autonomous agents, unified inbox, AWS monitoring, Stripe revenue tracking, Shopify e‑commerce, marketing, voice and APM integrations.
@@ -2488,7 +2496,7 @@
 ## Codex CLI
 
 <details>
-<summary>Show 575 repos</summary>
+<summary>Show 578 repos</summary>
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — ⭐ 237,323 · `JavaScript` · Code — This is an agent harness system designed to optimize the performance of AI coding agents like Claude Code, Codex, and Cursor. It provides capabilities for managing agent skills, memory, instincts, and security, facilitating research-first development.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 237,312 · `JavaScript` · Code — This repository provides an agent harness system for optimizing the performance, skills, memory, and security of AI coding agents. It supports development for various tools like Claude Code, Codex, Opencode, and Cursor.
@@ -2572,6 +2580,7 @@
 - [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) — ⭐ 3,621 · `JavaScript` · Code — Codex++ is a tweak system specifically designed for the Codex desktop application. It enhances or modifies the functionality of the Codex desktop app.
 - [0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) — ⭐ 3,603 · `Python` · Gaming — This repository contains an agent skill for generating 2D sprite sheets, maps, transparent PNG frames, and animated GIFs from prompts. It's primarily used for creating pixel art and game assets.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) — ⭐ 3,560 · `C` · Code — A high-performance server that indexes codebases into a persistent knowledge graph for code intelligence. It supports 158 languages, offers sub-millisecond queries, and integrates with various AI coding tools.
+- [microsoft/apm](https://github.com/microsoft/apm) — ⭐ 3,549 · `Python` · Code — Microsoft's Agent Package Manager (APM) is a Python library for managing and distributing packages for AI agents, supporting Claude Code, Codex CLI, and GitHub Copilot integrations.
 - [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) — ⭐ 3,548 · `Shell` · Code — Claude Octopus is a CLI tool designed to surface AI blindspots, particularly in coding tasks, by orchestrating and running up to eight different AI models in parallel for a given task, facilitating comprehensive evaluation before deployment.
 - [remotion-dev/skills](https://github.com/remotion-dev/skills) — ⭐ 3,428 · `TypeScript` · Video — This repository offers an agent skill that allows for the generation of animated videos from simple text, HTML, or CSS inputs. It's designed to facilitate the creation of various video content like product introductions, dynamic posters, or educational videos, outputting them in MP4 format.
 - [SeemSeam/claude\_codex\_bridge](https://github.com/SeemSeam/claude_codex_bridge) — ⭐ 3,361 · `Python` · Code — This project offers a CLI tool for orchestrating visible multi-agent teams, integrating various AI models such as Claude, Codex, Gemini, OpenCode, and Droid. It features project memory and tmux supervision, designed to enhance AI collaboration and development workflows.
@@ -2784,6 +2793,7 @@
 - [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) — ⭐ 287 · `Python` · Multimodal — A Python vision toolkit that equips text‑only LLM agents with image Q&A, OCR, screenshot analysis, and visual grounding, with drop‑in support for Codex, Claude Code, OpenCode, and Pi.
 - [FareedKhan-dev/claude-code-from-scratch](https://github.com/FareedKhan-dev/claude-code-from-scratch) — ⭐ 286 · `Python` · Code — This repository reverse engineers and explains the 23-component architecture of Claude Code, a system for AI-driven code generation, to help users understand its underlying structure. It offers a detailed look at how such an AI coding system is built from scratch.
 - [horang-labs/tessera](https://github.com/horang-labs/tessera) — ⭐ 286 · `TypeScript` · Code — Tessera is a desktop and web-based workbench that integrates multiple AI coding agents, including Claude Code and Codex, into a unified visual interface. It allows developers to manage parallel coding tasks, track Git workflows, and monitor agent outputs and reasoning within a comprehensive workspace.
+- [yuuichieguchi/Calyx](https://github.com/yuuichieguchi/Calyx) — ⭐ 284 · `Swift` · Code — Calyx is a native macOS terminal application built on Ghostty that lets users run and supervise multiple coding AI agents in parallel from a single interface.
 - [ericjypark/codex-island](https://github.com/ericjypark/codex-island) — ⭐ 284 · `Swift` · Infrastructure — CodexIsland is a macOS application that displays real-time API usage limits for AI models like Claude Code and Codex directly in the MacBook notch area. It enables users to monitor their AI consumption and estimated costs at a glance.
 - [ix-infrastructure/Ix](https://github.com/ix-infrastructure/Ix) — ⭐ 281 · `TypeScript` · Code — Ix provides system intelligence for codebases, mapping software architecture and generating diagrams to aid human and AI understanding.
 - [change-42-yhmm/quota-float](https://github.com/change-42-yhmm/quota-float) — ⭐ 277 · `TypeScript` · Productivity — A lightweight, floating desktop widget that displays real-time quota, credit, and reset times for Codex. It reads this information directly from the local Codex Desktop login status.
@@ -3007,6 +3017,7 @@
 - [liustack/modsearch](https://github.com/liustack/modsearch) — ⭐ 27 · `TypeScript` · Browser — A CLI toolkit designed for AI agents, it processes search queries and transforms the results into structured web evidence in JSON format. The architecture is provider-extensible and built for integration with agent skills like Claude Code, Codex, and Cursor.
 - [himynameisben/macos-disk-cleanup](https://github.com/himynameisben/macos-disk-cleanup) — ⭐ 26 · `Shell` · Productivity — A macOS disk‑cleanup skill pack for Claude Code, Codex and similar AI agents, providing read‑only system data diagnostics and safe cache removal.
 - [pengchujin/jzsub](https://github.com/pengchujin/jzsub) — ⭐ 25 · `Python` · Video — JZSub is a Python tool that takes a video link and automatically downloads the highest quality video, extracts the cover image, translates and generates bilingual subtitles using GPT, and then embeds them into an MP4 file.
+- [shinshin86/live2d-add-motion-sample-web-ui](https://github.com/shinshin86/live2d-add-motion-sample-web-ui) — ⭐ 25 · `Python` · Video — A Python web application that lets you add Live2D motions using Claude Code or Codex, with a Web UI for verification.
 - [CheshireMew/meta-skills](https://github.com/CheshireMew/meta-skills) — ⭐ 25 · `Python` · Code — Toolkit for creating, refactoring, auditing, migrating, and validating Codex agent skills, supporting meta‑skill extraction and evolution.
 - [maojindao55/freebuddy](https://github.com/maojindao55/freebuddy) — ⭐ 24 · `TypeScript` · Code — FreeBuddy is a desktop chat workspace that integrates multiple CLI coding agents like Codex, ClaudeCode, and Cursor. It allows users to use these agents in parallel, orchestrate agent collaborations, and manage various AI services from a single interface.
 - [transcendr/slopware-skills](https://github.com/transcendr/slopware-skills) — ⭐ 24 · Code — A collection of portable AI agent skills and plugins for Codex and Claude Code, providing the MSW Kernel for Minimum Sufficient Work.
@@ -3071,7 +3082,7 @@
 ## OpenAI API
 
 <details>
-<summary>Show 399 repos</summary>
+<summary>Show 400 repos</summary>
 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — ⭐ 160,105 · `TypeScript` · Browser — Firecrawl is a tool designed to search, scrape, and clean web data, transforming it into structured formats like Markdown for efficient consumption by AI agents.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — ⭐ 147,726 · `Python` · Infrastructure — Open-WebUI offers a user-friendly web interface for interacting with various AI models, including those supported by Ollama and OpenAI API. It facilitates self-hosted access and management of LLMs and RAG systems.
@@ -3161,6 +3172,7 @@
 - [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) — ⭐ 7,911 · `Python` · Code — This Python framework enables developers to build reliable, autonomous AI agents capable of interacting with computers. It integrates with various large language models, including OpenAI and Claude, through their respective APIs.
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) — ⭐ 7,874 · `Go` · Infrastructure — K8sgpt is a CLI tool that scans Kubernetes clusters to diagnose and triage issues. It translates complex problems into simple English explanations, empowering users to manage their Kubernetes environments more effectively.
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) — ⭐ 7,862 · `Python` · Text — This open-source tool automates deep research on private data by leveraging Large Language Models (LLMs) and RAG techniques, serving as an alternative to proprietary reasoning and search solutions.
+- [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) — ⭐ 7,823 · `Python` · Video — Experimental AI framework that automates the creation of short video content (YouTube Shorts/TikTok) by generating scripts, voiceovers, sourcing media, adding subtitles, and rendering the final clip.
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) — ⭐ 7,729 · `Python` · Text — Azure Search OpenAI Demo is a sample application illustrating the RAG pattern on Azure, combining Azure AI Search for retrieval with Azure OpenAI LLMs for chat‑style Q&A.
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) — ⭐ 7,650 · `TypeScript` · Code — An open-source, local-first desktop application that serves as an alternative to Claude Design. It allows users to generate prototypes, slides, landing pages, and PDFs from prompts, supporting multiple AI models via API keys.
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) — ⭐ 7,509 · `TypeScript` · Productivity — An Obsidian plugin that adds Copilot-like AI assistance for note‑taking and writing, powered by ChatGPT.
@@ -4333,7 +4345,7 @@
 ## Claude.ai
 
 <details>
-<summary>Show 124 repos</summary>
+<summary>Show 125 repos</summary>
 
 - [mattpocock/skills](https://github.com/mattpocock/skills) — ⭐ 201,116 · `Shell` · Code — This repository contains a collection of skills for "Real Engineers," specifically sourced from a .claude directory. These skills are designed to enhance the capabilities of an AI assistant like Claude.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) — ⭐ 88,112 · `TypeScript` · Productivity — This is a lightweight and fast cross-platform AI assistant that provides a unified interface for interacting with various large language models like ChatGPT, Claude, Gemini, and Ollama across Web, iOS, macOS, Android, Linux, and Windows. It aims to simplify AI interaction by offering a single, performant application for diverse models.
@@ -4403,6 +4415,7 @@
 - [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components) — ⭐ 395 · `Python` · Code — A collection of 76 Claude-ready UI/UX and backend component design skills for AI‑assisted development, covering frontend, backend, DevOps, infrastructure, and security.
 - [joelhooks/opencode-config](https://github.com/joelhooks/opencode-config) — ⭐ 394 · `TypeScript` · Code — Configuration for OpenCode that turns Claude into a self‑learning multi‑agent system, orchestrating parallel workers and adaptive strategies.
 - [open-ribbi/velocut](https://github.com/open-ribbi/velocut) — ⭐ 325 · `TypeScript` · Video — Velocut is a browser‑based, AI‑native video editor that uses a Rust/WASM engine and WebGPU for local‑first editing, allowing both humans and LLM agents to edit via a shared JSON command protocol.
+- [coji/natural-japanese](https://github.com/coji/natural-japanese) — ⭐ 320 · `Python` · Text — A Python Agent Skill that rewrites and edits Japanese business text to make it clearer and more readable.
 - [outworked/outworked](https://github.com/outworked/outworked) — ⭐ 308 · `TypeScript` · Code — Outworked is a desktop application that provides a 'cozy office' environment for Claude AI. It orchestrates a team of Claude agents to write code, interact with the web, and manage scheduled tasks for enhanced developer productivity.
 - [staskh/trading\_skills](https://github.com/staskh/trading_skills) — ⭐ 304 · `Python` · Finance — Claude-powered chat advisor that helps option traders retrieve technicals, Greeks, and risk metrics, and connects to Interactive Brokers for portfolio scanning.
 - [HarmonicSecurity/claudit-sec](https://github.com/HarmonicSecurity/claudit-sec) — ⭐ 293 · `PowerShell` · Security — This is a security audit tool for macOS, providing single-command visibility into the configuration and permissions of Claude Desktop and Claude Code, including their MCP servers, extensions, and plugins.
@@ -4565,7 +4578,7 @@
 ## GitHub Copilot
 
 <details>
-<summary>Show 83 repos</summary>
+<summary>Show 84 repos</summary>
 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — ⭐ 142,541 · Code — This repository collects and documents system prompts, internal tools, and AI models from popular AI-powered development environments like GitHub Copilot and Cursor. It provides insights into the underlying mechanisms of various AI coding assistants.
 - [github/spec-kit](https://github.com/github/spec-kit) — ⭐ 125,161 · `Python` · Code — Spec-Kit is a toolkit that streamlines spec-driven development, likely integrating AI features like Copilot. It helps engineers and product teams build software efficiently based on clear specifications.
@@ -4592,6 +4605,7 @@
 - [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) — ⭐ 4,604 · `TypeScript` · Code — This repository provides a secure and validated registry of skills for professional AI coding agents, allowing them to extend their capabilities with confidence. It supports various agents like Antigravity, Claude Code, Cursor, and Copilot.
 - [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart) — ⭐ 4,375 · `JavaScript` · Image — Cowart is an infinite canvas tool designed for interactive image editing by leveraging AI. It allows users to annotate images with text and arrows directly on the canvas, then send screenshots to an AI like Codex for AI-driven modifications and generation.
 - [robinebers/openusage](https://github.com/robinebers/openusage) — ⭐ 3,625 · `Swift` · Productivity — OpenUsage is a free and open-source menu bar tool that helps users track their subscription usage for various AI programming tools like Cursor, Claude Code, and GitHub Copilot. It centralizes usage data to prevent overspending on services that are not fully utilized.
+- [microsoft/apm](https://github.com/microsoft/apm) — ⭐ 3,549 · `Python` · Code — Microsoft's Agent Package Manager (APM) is a Python library for managing and distributing packages for AI agents, supporting Claude Code, Codex CLI, and GitHub Copilot integrations.
 - [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) — ⭐ 3,548 · `Shell` · Code — Claude Octopus is a CLI tool designed to surface AI blindspots, particularly in coding tasks, by orchestrating and running up to eight different AI models in parallel for a given task, facilitating comprehensive evaluation before deployment.
 - [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) — ⭐ 2,982 · `C#` · Gaming — This repository provides AI skills, tools, and a CLI for the Unity Engine, enabling a full AI development and testing loop for game projects. It integrates with various LLM platforms like Claude Code, Gemini, Copilot, and Cursor, allowing C# methods to be easily turned into AI tools.
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) — ⭐ 2,840 · `TypeScript` · Code — Ruler provides a unified rule system that can be applied across various coding agents such as Claude Code, Codex, Cursor, and GitHub Copilot.
