@@ -24,7 +24,7 @@
 - [Finance](#finance) <kbd>16</kbd>
 - [Science](#science) <kbd>37</kbd>
 - [Gaming](#gaming) <kbd>1</kbd>
-- [Other](#other) <kbd>68</kbd>
+- [Other](#other) <kbd>69</kbd>
 
 ## Video
 
@@ -580,10 +580,11 @@
 ## Other
 
 <details>
-<summary>Show 68 repos</summary>
+<summary>Show 69 repos</summary>
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) — ⭐ 485,059 · Awesome List — This is a meta-awesome list, serving as a curated and comprehensive index of other 'awesome lists' across a vast array of topics, from AI and Web3 to development tools and productivity scripts.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) — ⭐ 454,251 · `Python` · Awesome List — This repository offers a comprehensive, collective list of free public APIs across various domains. It serves as a valuable resource for developers looking to integrate external services and data into their applications.
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) — ⭐ 132,098 · `HTML` · Awesome List — free-for-dev is a curated list of SaaS, PaaS, and IaaS services that offer free tiers useful for developers and DevOps.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — ⭐ 130,151 · `Python` · Awesome List — This repository is an awesome list featuring over 100 runnable AI Agent and RAG applications. It provides resources that can be cloned, customized, and shipped by developers.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) — ⭐ 109,116 · `Swift` · Awesome List — A curated list of high-quality macOS software, systematically organized into categories for easy discovery and use.
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) — ⭐ 96,463 · Awesome List — Ruan Yifeng's Technology Enthusiast Weekly is a consistently updated publication featuring the latest in open-source projects, efficiency tools, and trending tech news. Published every Friday, it serves as a curated resource to combat information overload and highlight valuable new developments.
