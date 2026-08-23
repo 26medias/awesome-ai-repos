@@ -4,7 +4,7 @@
 
 > 8,300+ AI and agent repos, auto-distilled from what's actually being shared on X — ranked, classified, and worth your stars.
 
-[![repos](https://img.shields.io/badge/repos-8373-blue)](https://gh-ai.leap-forward.ca/) ![stars tracked](https://img.shields.io/badge/stars%20tracked-47%2C006%2C772-yellow) ![domains](https://img.shields.io/badge/domains-19-green) [![live site](https://img.shields.io/badge/live%20site-explore-ff4088)](https://gh-ai.leap-forward.ca/)
+[![repos](https://img.shields.io/badge/repos-8374-blue)](https://gh-ai.leap-forward.ca/) ![stars tracked](https://img.shields.io/badge/stars%20tracked-47%2C083%2C806-yellow) ![domains](https://img.shields.io/badge/domains-19-green) [![live site](https://img.shields.io/badge/live%20site-explore-ff4088)](https://gh-ai.leap-forward.ca/)
 
 The frontier moves daily, and the best new AI tooling rarely lands on a press release — it drops in a tweet. This catalog watches X for the repos developers are genuinely shipping and sharing, then filters to the ones with traction (10+ stars) and sorts the signal from the hype.
 
@@ -18,16 +18,16 @@ Bookmark it. The frontier won't wait, and neither does this list.
 
 | Metric | Count |
 | --- | --- |
-| Repositories | 8,373 |
-| Stars tracked | 47,006,772 |
+| Repositories | 8,374 |
+| Stars tracked | 47,083,806 |
 | Domains | 19 |
 | Types | 15 |
-| Languages | 79 |
+| Languages | 78 |
 
 ## Browse by Domain
 
 - 🎬 [Video](domains/video.md) <kbd>430</kbd> — Generate cinematic clips from a text prompt, retime footage, or capture motion with nothing but a webcam.
-- 🖼️ [Image](domains/image.md) <kbd>347</kbd> — From a blank canvas to a billion pixels of detail, these tools paint, repair, and reimagine.
+- 🖼️ [Image](domains/image.md) <kbd>348</kbd> — From a blank canvas to a billion pixels of detail, these tools paint, repair, and reimagine.
 - 🎧 [Audio](domains/audio.md) <kbd>258</kbd> — Clone a voice from a few seconds, score a track from a hum, or pull vocals clean out of a finished mix.
 - 📝 [Text](domains/text.md) <kbd>761</kbd> — The beating heart of the AI boom: the models that reason, the retrieval that grounds them, and the tooling that ships them to production.
 - 💻 [Code](domains/code.md) <kbd>1691</kbd> — This is where AI stops suggesting and starts shipping.
@@ -63,7 +63,7 @@ Bookmark it. The frontier won't wait, and neither does this list.
   - [Restoration](domains/image.md#restoration) <kbd>10</kbd> — Denoise, deblur, and revive old or damaged photos to crisp clarity
   - [Segmentation](domains/image.md#segmentation) <kbd>19</kbd> — Pixel-perfect masks and cutouts that isolate any object on command
   - [Style Transfer](domains/image.md#style-transfer) <kbd>2</kbd> — Repaint any photo in the look of any artist, era, or aesthetic
-  - [Diffusion Tools](domains/image.md#diffusion-tools) <kbd>84</kbd> — ControlNets, LoRAs, samplers, and the toolkit that tames diffusion models
+  - [Diffusion Tools](domains/image.md#diffusion-tools) <kbd>85</kbd> — ControlNets, LoRAs, samplers, and the toolkit that tames diffusion models
   - [Other](domains/image.md#other) <kbd>66</kbd> — Captioners, upscalers, and dataset wranglers worth keeping in your back pocket
 - **Audio**
   - [Speech](domains/audio.md#speech) <kbd>115</kbd> — Natural text-to-speech and speech synthesis that sound human, not robotic
@@ -193,7 +193,7 @@ Bookmark it. The frontier won't wait, and neither does this list.
 ## Browse by Type
 
 - 🚀 [Application](types/application.md) <kbd>1713</kbd> — Full-blown products you can run today, not weekend experiments.
-- 📦 [Library](types/library.md) <kbd>1061</kbd> — Drop-in building blocks that do the hard part so you don't have to.
+- 📦 [Library](types/library.md) <kbd>1062</kbd> — Drop-in building blocks that do the hard part so you don't have to.
 - 🏗️ [Framework](types/framework.md) <kbd>507</kbd> — Opinionated foundations that shape how you build entire AI systems.
 - ⌨️ [CLI Tool](types/cli-tool.md) <kbd>633</kbd> — Terminal-first power that fits into pipes, scripts, and CI without a browser tab in sight.
 - 🤖 [AI Agent](types/ai-agent.md) <kbd>458</kbd> — Autonomous workers that plan, call tools, and chase a goal across many steps.
