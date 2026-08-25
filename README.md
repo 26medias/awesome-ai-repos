@@ -4,7 +4,7 @@
 
 > 8,300+ AI and agent repos, auto-distilled from what's actually being shared on X — ranked, classified, and worth your stars.
 
-[![repos](https://img.shields.io/badge/repos-8382-blue)](https://gh-ai.leap-forward.ca/) ![stars tracked](https://img.shields.io/badge/stars%20tracked-47%2C162%2C985-yellow) ![domains](https://img.shields.io/badge/domains-19-green) [![live site](https://img.shields.io/badge/live%20site-explore-ff4088)](https://gh-ai.leap-forward.ca/)
+[![repos](https://img.shields.io/badge/repos-8382-blue)](https://gh-ai.leap-forward.ca/) ![stars tracked](https://img.shields.io/badge/stars%20tracked-47%2C254%2C222-yellow) ![domains](https://img.shields.io/badge/domains-19-green) [![live site](https://img.shields.io/badge/live%20site-explore-ff4088)](https://gh-ai.leap-forward.ca/)
 
 The frontier moves daily, and the best new AI tooling rarely lands on a press release — it drops in a tweet. This catalog watches X for the repos developers are genuinely shipping and sharing, then filters to the ones with traction (10+ stars) and sorts the signal from the hype.
 
@@ -19,7 +19,7 @@ Bookmark it. The frontier won't wait, and neither does this list.
 | Metric | Count |
 | --- | --- |
 | Repositories | 8,382 |
-| Stars tracked | 47,162,985 |
+| Stars tracked | 47,254,222 |
 | Domains | 19 |
 | Types | 15 |
 | Languages | 78 |
@@ -37,13 +37,13 @@ Bookmark it. The frontier won't wait, and neither does this list.
 - 🗂️ [Data](domains/data.md) <kbd>193</kbd> — Models are only as good as what you feed them, and this is where the feedstock gets made.
 - 🏋️ [Training](domains/training.md) <kbd>294</kbd> — This is where raw weights become something brilliant.
 - 🧠 [Models](domains/models.md) <kbd>77</kbd> — The crown jewels: open weights you can download, run, and build on today.
-- ⚙️ [Infrastructure](domains/infrastructure.md) <kbd>722</kbd> — The unglamorous layer that decides whether your AI ships or stalls.
+- ⚙️ [Infrastructure](domains/infrastructure.md) <kbd>723</kbd> — The unglamorous layer that decides whether your AI ships or stalls.
 - 👁️ [Multimodal](domains/multimodal.md) <kbd>272</kbd> — Where models stop reading and start seeing, hearing, and reasoning across pixels, text, and video at once.
 - 🛡️ [Security](domains/security.md) <kbd>408</kbd> — AI is now both the weapon and the shield, and this is where that arms race plays out in code.
-- ⚡ [Productivity](domains/productivity.md) <kbd>847</kbd> — The everyday-tool layer where AI quietly hands you back hours.
+- ⚡ [Productivity](domains/productivity.md) <kbd>846</kbd> — The everyday-tool layer where AI quietly hands you back hours.
 - 💸 [Finance](domains/finance.md) <kbd>216</kbd> — Where AI meets money on the line.
-- 🔬 [Science](domains/science.md) <kbd>213</kbd> — AI is rewriting the pace of discovery — folding proteins in hours, simulating particles, and proving theorems.
-- 🎮 [Gaming](domains/gaming.md) <kbd>92</kbd> — Games are AI's favorite proving ground — and now the agents that learned to play are building the worlds too.
+- 🔬 [Science](domains/science.md) <kbd>214</kbd> — AI is rewriting the pace of discovery — folding proteins in hours, simulating particles, and proving theorems.
+- 🎮 [Gaming](domains/gaming.md) <kbd>91</kbd> — Games are AI's favorite proving ground — and now the agents that learned to play are building the worlds too.
 - 🧩 [Other](domains/other.md) <kbd>268</kbd> — The wildcards — sharp, useful AI repos that defy tidy categories.
 
 ## Browse by Subdomain
@@ -138,7 +138,7 @@ Bookmark it. The frontier won't wait, and neither does this list.
   - [Specialized Models](domains/models.md#specialized-models) <kbd>26</kbd> — Domain experts for code, biology, math, and other narrow but mighty tasks
   - [Other](domains/models.md#other) <kbd>7</kbd> — Niche checkpoints, merges, and experimental weights worth a download
 - **Infrastructure**
-  - [Inference Server](domains/infrastructure.md#inference-server) <kbd>175</kbd> — Serve models with blazing throughput and low latency under real traffic
+  - [Inference Server](domains/infrastructure.md#inference-server) <kbd>176</kbd> — Serve models with blazing throughput and low latency under real traffic
   - [GPU/Hardware](domains/infrastructure.md#gpuhardware) <kbd>81</kbd> — Squeeze every FLOP from your accelerators with kernels, drivers, and scheduling
   - [Vector DB](domains/infrastructure.md#vector-db) <kbd>26</kbd> — Store and search billions of embeddings in milliseconds for RAG and semantic search
   - [Model Routing](domains/infrastructure.md#model-routing) <kbd>70</kbd> — Send each request to the right model or provider for the best speed-cost-quality mix
@@ -164,7 +164,7 @@ Bookmark it. The frontier won't wait, and neither does this list.
   - [Tasks](domains/productivity.md#tasks) <kbd>28</kbd> — To-do managers that prioritize, break down, and chase your work for you
   - [Email/Calendar](domains/productivity.md#emailcalendar) <kbd>21</kbd> — Inbox triage and scheduling agents that clear the noise and book the meeting
   - [Writing](domains/productivity.md#writing) <kbd>91</kbd> — Drafting, editing, and rewriting copilots that match your voice and tighten your prose
-  - [Personal Assistant](domains/productivity.md#personal-assistant) <kbd>269</kbd> — All-in-one agents that plan your day, run errands, and answer before you ask
+  - [Personal Assistant](domains/productivity.md#personal-assistant) <kbd>268</kbd> — All-in-one agents that plan your day, run errands, and answer before you ask
   - [Files](domains/productivity.md#files) <kbd>49</kbd> — Auto-organizing, search, and Q&A over the document graveyard on your hard drive
   - [Communication](domains/productivity.md#communication) <kbd>47</kbd> — Meeting note-takers, chat summarizers, and reply drafters that keep teams in sync
   - [Other](domains/productivity.md#other) <kbd>265</kbd> — Habit trackers, clipboard managers, and the small workflow hacks that add up fast
@@ -176,7 +176,7 @@ Bookmark it. The frontier won't wait, and neither does this list.
   - [Other](domains/finance.md#other) <kbd>3</kbd> — Risk engines, portfolio optimizers, and fintech odd-ones worth a second look
 - **Science**
   - [Computational Biology](domains/science.md#computational-biology) <kbd>42</kbd> — Genomics pipelines, protein structure predictors, and sequence models decoding life itself
-  - [Drug Discovery](domains/science.md#drug-discovery) <kbd>6</kbd> — Molecular generators and binding predictors compressing years of wet-lab work into compute
+  - [Drug Discovery](domains/science.md#drug-discovery) <kbd>7</kbd> — Molecular generators and binding predictors compressing years of wet-lab work into compute
   - [Physics](domains/science.md#physics) <kbd>7</kbd> — Neural simulators and surrogate models for dynamics that classical solvers choke on
   - [Chemistry](domains/science.md#chemistry) <kbd>4</kbd> — Reaction predictors, retrosynthesis planners, and models that dream up new molecules
   - [Math](domains/science.md#math) <kbd>14</kbd> — Theorem provers, symbolic solvers, and reasoning engines tackling formal proofs
@@ -184,7 +184,7 @@ Bookmark it. The frontier won't wait, and neither does this list.
   - [Other](domains/science.md#other) <kbd>12</kbd> — Climate models, materials science, and cross-disciplinary gems too good to skip
 - **Gaming**
   - [Game AI](domains/gaming.md#game-ai) <kbd>24</kbd> — Reinforcement-learning agents and behavior systems that make NPCs actually think
-  - [Procedural Generation](domains/gaming.md#procedural-generation) <kbd>16</kbd> — Generators that conjure endless levels, maps, and assets from a single seed
+  - [Procedural Generation](domains/gaming.md#procedural-generation) <kbd>15</kbd> — Generators that conjure endless levels, maps, and assets from a single seed
   - [Game Engines](domains/gaming.md#game-engines) <kbd>21</kbd> — AI-native engines and frameworks for building intelligent gameplay from the ground up
   - [Modding](domains/gaming.md#modding) <kbd>4</kbd> — Tools that inject AI behavior, dialogue, and content into the games you already love
   - [Other](domains/gaming.md#other) <kbd>27</kbd> — Simulation sandboxes, bot frameworks, and playful experiments worth a look
@@ -192,7 +192,7 @@ Bookmark it. The frontier won't wait, and neither does this list.
 
 ## Browse by Type
 
-- 🚀 [Application](types/application.md) <kbd>1713</kbd> — Full-blown products you can run today, not weekend experiments.
+- 🚀 [Application](types/application.md) <kbd>1712</kbd> — Full-blown products you can run today, not weekend experiments.
 - 📦 [Library](types/library.md) <kbd>1065</kbd> — Drop-in building blocks that do the hard part so you don't have to.
 - 🏗️ [Framework](types/framework.md) <kbd>508</kbd> — Opinionated foundations that shape how you build entire AI systems.
 - ⌨️ [CLI Tool](types/cli-tool.md) <kbd>632</kbd> — Terminal-first power that fits into pipes, scripts, and CI without a browser tab in sight.
@@ -205,7 +205,7 @@ Bookmark it. The frontier won't wait, and neither does this list.
 - 🔬 [Paper Code](types/paper-code.md) <kbd>692</kbd> — The official implementations behind the research everyone's citing.
 - 📊 [Dataset](types/dataset.md) <kbd>60</kbd> — Ready-to-train data that would've cost you months to collect and clean.
 - 🧠 [Model Weights](types/model-weights.md) <kbd>90</kbd> — Pretrained brains you can download, run locally, and fine-tune on your own terms.
-- 🖥️ [Self-hosted Service](types/self-hosted-service.md) <kbd>533</kbd> — Run it on your own hardware and keep your data in your own walls.
+- 🖥️ [Self-hosted Service](types/self-hosted-service.md) <kbd>534</kbd> — Run it on your own hardware and keep your data in your own walls.
 - ⚡ [Boilerplate/Template](types/boilerplate-template.md) <kbd>91</kbd> — A wired-up starting line so you skip the boring setup and ship on day one.
 
 ## More ways to browse
