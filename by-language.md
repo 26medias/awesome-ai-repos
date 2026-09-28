@@ -6,12 +6,12 @@
 
 [↑ Back to index](README.md)
 
-- [Python](#python) <kbd>3373</kbd>
-- [TypeScript](#typescript) <kbd>1472</kbd>
-- [JavaScript](#javascript) <kbd>531</kbd>
-- [Rust](#rust) <kbd>367</kbd>
+- [Python](#python) <kbd>3377</kbd>
+- [TypeScript](#typescript) <kbd>1476</kbd>
+- [JavaScript](#javascript) <kbd>534</kbd>
+- [Rust](#rust) <kbd>368</kbd>
 - [Go](#go) <kbd>318</kbd>
-- [Shell](#shell) <kbd>210</kbd>
+- [Shell](#shell) <kbd>211</kbd>
 - [C++](#c) <kbd>207</kbd>
 - [HTML](#html) <kbd>197</kbd>
 - [Swift](#swift) <kbd>196</kbd>
@@ -89,7 +89,7 @@
 ## Python
 
 <details>
-<summary>Show 3373 repos</summary>
+<summary>Show 3377 repos</summary>
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) — ⭐ 366,991 · `Python` · Other — Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 238,857 · `Python` · Productivity — Hermes Agent is an AI agent designed to learn and evolve with the user, providing assistance with various tasks. It leverages large language models and other AI technologies to adapt over time.
@@ -307,6 +307,7 @@
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) — ⭐ 21,311 · `Python` · Text — Rasa is an open‑source Python framework for building text and voice conversational agents, providing NLU, dialogue management, and integrations with messaging platforms.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) — ⭐ 21,236 · `Python` · Audio — Buzz is an offline Python application that transcribes and translates audio using OpenAI's Whisper model, running locally on a personal computer.
 - [jundot/omlx](https://github.com/jundot/omlx) — ⭐ 21,151 · `Python` · Multimodal — An LLM inference server designed for Apple Silicon, featuring continuous batching, SSD caching, and a macOS menu bar interface. It enhances local AI performance with support for various models, including vision-language models, and integrates with coding tools like Copilot, Claude, and Codex.
+- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) — ⭐ 21,030 · `Python` · Browser — This is an ultra-fast and cost-effective browser-based AI agent that autonomously navigates web pages. It intelligently picks clicks and only engages a text model when typing is necessary, demonstrating efficient web interaction.
 - [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) — ⭐ 20,311 · `Python` · Text — This is an open-source collection of AI skills designed for Chinese content creators to enhance their content production workflow. It includes tools for tasks like writing articles, editing drafts, removing AI-generated characteristics from text, and diagnosing content for quality and engagement, especially for platforms like Xiaohongshu.
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) — ⭐ 20,177 · `Python` · Code — An autonomous AI agent designed to automatically fix GitHub issues by understanding the problem, generating code, and submitting pull requests. It can also be adapted for offensive cybersecurity tasks or competitive programming challenges.
 - [camel-ai/owl](https://github.com/camel-ai/owl) — ⭐ 20,116 · `Python` · Code — OWL is a Python-based system designed for optimizing workforce learning in multi-agent assistance, focusing on automating real-world tasks through intelligent agent orchestration and web interaction. It acts as an agent framework for building complex multi-agent systems.
@@ -2169,6 +2170,7 @@
 - [Jane-xiaoer/claude-skill-video-transcribe](https://github.com/Jane-xiaoer/claude-skill-video-transcribe) — ⭐ 222 · `Python` · Audio — This tool converts video content into text by either extracting existing subtitles or performing AI-powered speech-to-text transcription for videos without them. It supports popular platforms like YouTube and Bilibili, local files, and uses the Gemini 2.5 Flash engine for transcription.
 - [ravinahp/flights-mcp](https://github.com/ravinahp/flights-mcp) — ⭐ 222 · `Python` · Productivity — This repository contains an MCP (Multi-Agent Communication Protocol) server designed to search for flight information, potentially serving as a backend for an AI agent or personal assistant.
 - [StanfordASL/cbfpy](https://github.com/StanfordASL/cbfpy) — ⭐ 220 · `Python` · Robotics — This repository provides Python and JAX implementations for Control Barrier Functions, which are mathematical tools used to ensure safety and stability in dynamic systems, particularly in robotics applications.
+- [RomanSlack/jev-drone](https://github.com/RomanSlack/jev-drone) — ⭐ 220 · `Python` · Robotics — This repository showcases a camera-only autonomous drone simulation within MuJoCo. It integrates a small TypeSafe Jev judgment model into its control loop, enabling real-time decision-making for the drone.
 - [aakriti1318/multi-agent-generator](https://github.com/aakriti1318/multi-agent-generator) — ⭐ 220 · `Python` · Code — This Python library provides a low-code/no-code solution for generating and configuring multi-agent AI teams from plain English instructions. It supports orchestration patterns and integrates with popular frameworks like CrewAI, LangChain, and ReAct.
 - [MarcellM01/TinySearch](https://github.com/MarcellM01/TinySearch) — ⭐ 220 · `Python` · Text — A local web research engine designed to pre-process web content for LLMs. It automates searching, ranking, scraping, and extracting key passages from web pages to generate source-linked prompts.
 - [future-agi/traceAI](https://github.com/future-agi/traceAI) — ⭐ 220 · `Python` · Infrastructure — A Python framework that adds OpenTelemetry‑based tracing and observability to AI applications and language‑model frameworks.
@@ -3185,6 +3187,7 @@
 - [junuxyz/tiny-speculators](https://github.com/junuxyz/tiny-speculators) — ⭐ 22 · `Python` · Training — An open-source project demonstrating the end-to-end process of training an EAGLE-3 draft model from scratch. This model is designed for speculative decoding, specifically for use with large language models like Qwen3-8B, to improve inference efficiency.
 - [yuwen-cool/yw-transcribe](https://github.com/yuwen-cool/yw-transcribe) — ⭐ 22 · `Python` · Audio — This repository provides a local-first, capability-aware, and traceable transcription skill for Codex, supporting both audio and video inputs. It intelligently routes transcription tasks to local models (like Whisper) or cloud APIs (like Volcengine) based on user requirements for quality, speed, and cost.
 - [robustonian/ai-pixel-art-converter](https://github.com/robustonian/ai-pixel-art-converter) — ⭐ 21 · `Python` · Image — An open‑source Python application that converts images into pixel‑art style using AI techniques.
+- [h100envy/beebrain](https://github.com/h100envy/beebrain) — ⭐ 21 · `Python` · Models — This repository likely contains the Python code for BEEBRAIN, an AI-driven Telegram bot. It's designed to scan "pools" (possibly data streams or opportunities) and send notifications, as suggested by the example "1000 → 5000".
 - [YanJiangJerry/Block-R1](https://github.com/YanJiangJerry/Block-R1) — ⭐ 21 · `Python` · Training — Block-R1 is a new reinforcement learning (RL) post-training framework developed for decentralized Large Language Models (dLLMs). It facilitates cross-domain training and supports a broad spectrum of datasets, RL4dLLM methods, and dLLM backbones.
 - [p3Nt3st3r-sTAr/CVE-2026-0300-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-0300-POC) — ⭐ 21 · `Python` · Security — This repository contains a Python Proof-of-Concept (POC) exploit for the CVE-2026-0300 vulnerability, designed to demonstrate and test the security flaw.
 - [xieyizheng/DeepShapeMatchingKit](https://github.com/xieyizheng/DeepShapeMatchingKit) — ⭐ 21 · `Python` · 3D — This repository provides a Python codebase for deep functional map methods applied to 3D shape matching, featuring an optimized batched solver, various method implementations, and evaluation metrics.
@@ -3339,6 +3342,7 @@
 - [yume-arasaki/ezlaunch-minimax-h3](https://github.com/yume-arasaki/ezlaunch-minimax-h3) — ⭐ 14 · `Python` · Video — A double‑click installer script for the MiniMax‑H3 Turbo video generation model optimized for RTX 4090/3090 GPUs.
 - [lna-lab/gemma4-12b-vllm-sm120](https://github.com/lna-lab/gemma4-12b-vllm-sm120) — ⭐ 14 · `Python` · Infrastructure — This repository provides a reproducible recipe and setup guide for serving the Gemma-4-12B language model efficiently. It leverages vLLM, ModelOpt for FP8/NVFP4 quantization, and speculative decoding to achieve high token throughput on Blackwell GPUs.
 - [tonyd2wild/GLM-5.2-NVFP4-KV-4x-DGX-Spark-300kctx-42tok-s](https://github.com/tonyd2wild/GLM-5.2-NVFP4-KV-4x-DGX-Spark-300kctx-42tok-s) — ⭐ 14 · `Python` · Infrastructure — This repository showcases an optimized setup for running the GLM-5.2 744B model with a 4-bit NVFP4 KV cache on 4x DGX Spark, achieving high token generation speeds and supporting a large context window through custom kernels.
+- [kenhuangus/jev-usecases](https://github.com/kenhuangus/jev-usecases) — ⭐ 14 · `Python` · Code — This repository provides production-ready use-case harnesses for TypeSafe Jev (System One). It features confidence-gated decision logic, ensuring robust and reliable AI applications.
 - [prometheus-eval/K-BrowseComp](https://github.com/prometheus-eval/K-BrowseComp) — ⭐ 14 · `Python` · Browser — This repository hosts the code, dataset, and paper for "K-BrowseComp", a benchmark specifically designed for evaluating web browsing agents in Korean contexts.
 - [UMich-SSI-Lab/latentam](https://github.com/UMich-SSI-Lab/latentam) — ⭐ 14 · `Python` · Robotics — LatentAM implements a real‑time, large‑scale latent Gaussian attention mapping algorithm using online dictionary learning, aimed at SLAM and related vision tasks.
 - [paoloanzn/minigepa](https://github.com/paoloanzn/minigepa) — ⭐ 14 · `Python` · Training — This repository provides an implementation of the Mini GEPA (Generalized Masked Autoencoder Pre-training) strategy, based on the referenced research paper.
@@ -3470,7 +3474,7 @@
 ## TypeScript
 
 <details>
-<summary>Show 1472 repos</summary>
+<summary>Show 1476 repos</summary>
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) — ⭐ 388,238 · `TypeScript` · Productivity — OpenClaw is a personal AI assistant built to run on any operating system and platform. It aims to offer a customizable AI experience with a strong emphasis on user data ownership.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — ⭐ 206,036 · `TypeScript` · Text — DeepSeek Harness is a TypeScript CLI tool that provides a convenient interface for interacting with DeepSeek LLMs from the command line.
@@ -3958,6 +3962,7 @@
 - [Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code) — ⭐ 2,682 · `TypeScript` · Code — Gajae Code is a library designed to provide observability and traceability for AI agent actions, particularly in coding workflows. It tracks token usage and generates execution receipts detailing file changes, checks performed, and skipped evidence, enabling better debugging and understanding of agent behavior.
 - [yorgai/ORG2](https://github.com/yorgai/ORG2) — ⭐ 2,648 · `TypeScript` · Code — ORG2 is an open-source, Cursor-style agent IDE built for reviewability and control, featuring a Rust harness and support for over 10 CLIs. It incorporates lightweight, local AI capabilities from MiniCPM5-1B for task assistance and input optimization.
 - [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) — ⭐ 2,645 · `TypeScript` · Code — This is an open-source practical guide for WorkBuddy, offering comprehensive tutorials, real-world workflows, and best practices for developing skills, utilizing MCP (Multi-Agent Control Panel), automation, and multi-agent systems.
+- [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) — ⭐ 2,632 · `TypeScript` · Finance — This repository implements an AI trading agent that makes one trade decision every Monad block. It utilizes the Jev model for automated trading on the Kuru MON-USDC pair.
 - [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) — ⭐ 2,632 · `TypeScript` · Code — A TypeScript library that provides dotted thought-orb loading indicators for AI and agent user interfaces, offering multiple styles, sizes, and automatic dark/light mode support.
 - [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) — ⭐ 2,621 · `TypeScript` · Browser — A visual drag‑and‑drop workflow builder for creating AI agents with Firecrawl web‑scraping pipelines and real‑time execution.
 - [iamsrikanthnani/pluely](https://github.com/iamsrikanthnani/pluely) — ⭐ 2,612 · `TypeScript` · Productivity — Pluely is an open-source, lightning-fast, privacy-first AI assistant desktop app built with Tauri, designed to seamlessly and undetectably provide assistance during meetings, interviews, and conversations.
@@ -4171,6 +4176,7 @@
 - [nico-martin/gemma4-browser-extension](https://github.com/nico-martin/gemma4-browser-extension) — ⭐ 1,155 · `TypeScript` · Browser — This Chrome extension runs an on-device AI agent powered by Gemma 4 and Transformers.js, enabling local artificial intelligence capabilities directly within the browser.
 - [context-labs/HALO](https://github.com/context-labs/HALO) — ⭐ 1,155 · `TypeScript` · Code — HALO is a Hierarchical Agent Loop Optimizer, designed to provide a framework for optimizing agent behavior in a continuous loop. It is specifically built for integration with new Google I/O products, likely involving AI agents or LLMs.
 - [Michaelliv/pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) — ⭐ 1,154 · `TypeScript` · Productivity — This project is a reverse-engineered and rebuilt version of Claude.ai's generative UI, specifically adapted to work with Pi. It enables interactive HTML/SVG widgets to be rendered within native macOS windows, providing a unique user interface experience.
+- [dzhng/jevgrep](https://github.com/dzhng/jevgrep) — ⭐ 1,152 · `TypeScript` · Code — jevgrep is a command-line interface tool that enables users to find code by asking natural language questions. It's designed for coding agents, utilizing Jev to efficiently discover relevant files and source context within a codebase.
 - [SaladDay/pi-from-scratch](https://github.com/SaladDay/pi-from-scratch) — ⭐ 1,151 · `TypeScript` · Code — A minimal 600‑line TypeScript implementation of a PI coding agent that can read, modify, and execute code, enabling you to build your own AI‑driven coding assistant.
 - [franklioxygen/MyTube](https://github.com/franklioxygen/MyTube) — ⭐ 1,147 · `TypeScript` · Video — This is a self-hosted application for downloading and playing videos from various platforms like YouTube, Bilibili, and Twitch. It offers features such as channel subscriptions, auto-downloads, local media storage, and a user interface for organizing video collections, with built-in Cloudflare Tunnel support.
 - [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) — ⭐ 1,147 · `TypeScript` · Multimodal — A web‑based studio that lets users generate images and videos from a single prompt bar, with per‑model settings and a gallery of completed runs.
@@ -4391,6 +4397,7 @@
 - [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) — ⭐ 476 · `TypeScript` · Code — A monorepo of TypeScript extensions for the Pi coding agent, covering automation, planning, language tooling, browser control, web research, Git workflows, and config sync.
 - [wizenheimer/canary](https://github.com/wizenheimer/canary) — ⭐ 475 · `TypeScript` · Code — Canary is a QA testing framework designed specifically for coding agents like Claude Code. It automates end-to-end testing of UI flows in real browsers, capturing screen recordings, console logs, network HARs, and Playwright traces to verify code changes.
 - [avbiswas/fast-rlm](https://github.com/avbiswas/fast-rlm) — ⭐ 474 · `TypeScript` · Text — This repository implements Recursive Language Models (RLMs), detailing the architecture as described in an associated research paper.
+- [kyotofin/tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier) — ⭐ 473 · `TypeScript` · Finance — This project is a highly accurate tax document page classifier, built upon decisions from the Jev model. It achieves 100% strict accuracy across 261 IRS forms at a very low cost per page.
 - [Cookee24/PairTranslate](https://github.com/Cookee24/PairTranslate) — ⭐ 472 · `TypeScript` · Text — PairTranslate is an open-source browser extension that provides immersive, bilingual translation. It supports word, segment, and full-page translation, integrating with various engines, including AI models like ChatGPT and Gemini, and offers features like translating input fields and Markdown-formatted output.
 - [mattenarle10/markamd](https://github.com/mattenarle10/markamd) — ⭐ 470 · `TypeScript` · Productivity — This is a local, cross-platform Markdown editor with live preview, built using Tauri and React. It is designed for managing AI chat contexts and offers features like multiple themes, Vim mode, and PDF export.
 - [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) — ⭐ 468 · `TypeScript` · Code — A TypeScript-based policy layer (SDL‑MCP) that provides a context budget ledger for coding agents, compressing codebases into high‑signal context to save tokens and improve workflow.
@@ -4542,6 +4549,7 @@
 - [amirmushichge/tea-leaf-scroll-world](https://github.com/amirmushichge/tea-leaf-scroll-world) — ⭐ 242 · `TypeScript` · Video — A TypeScript web app that presents an immersive, scroll‑driven visual journey of a tea leaf from mountain mist to a cup.
 - [osolmaz/pi-workflows](https://github.com/osolmaz/pi-workflows) — ⭐ 240 · `TypeScript` · Code — This repository provides a workflow engine, JSON control-flow tool, and a live terminal viewer designed to support the 'pi coding agent'.
 - [osovv/grace-marketplace](https://github.com/osovv/grace-marketplace) — ⭐ 239 · `TypeScript` · Code — GRACE is an open agent framework for contract-driven AI code generation. It uses Graph-RAG, semantic markup, and knowledge graphs, supporting tools like Claude Code and Codex CLI for enhancing development workflows.
+- [monteduro/killmyidea](https://github.com/monteduro/killmyidea) — ⭐ 238 · `TypeScript` · Models — This tool allows users to describe their startup idea, which is then evaluated by the Jev model. Based on its judgment, Jev provides a decision on whether to 'kill it, fix it, or ship it'.
 - [hikariming/dshfind](https://github.com/hikariming/dshfind) — ⭐ 237 · `TypeScript` · Text — A web portal that provides tutorials, a plugin marketplace, and best‑practice guides for DeepSeek Harness (DSH), helping developers learn its principles and extend its ecosystem.
 - [stagas/hallucinate](https://github.com/stagas/hallucinate) — ⭐ 236 · `TypeScript` · Gaming — This repository implements a massively multiplayer online rave experience, offering an interactive digital environment for multiple users simultaneously.
 - [stella/stella](https://github.com/stella/stella) — ⭐ 234 · `TypeScript` · Productivity — Stella is an open-source legal workspace providing tools for case management, document storage with full-text search, and batch document review, aiming to integrate AI assistance for legal research.
@@ -4950,7 +4958,7 @@
 ## JavaScript
 
 <details>
-<summary>Show 531 repos</summary>
+<summary>Show 534 repos</summary>
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — ⭐ 245,191 · `JavaScript` · Code — This is an agent harness system designed to optimize the performance of AI coding agents like Claude Code, Codex, and Cursor. It provides capabilities for managing agent skills, memory, instincts, and security, facilitating research-first development.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 245,142 · `JavaScript` · Code — This repository provides an agent harness system for optimizing the performance, skills, memory, and security of AI coding agents. It supports development for various tools like Claude Code, Codex, Opencode, and Cursor.
@@ -4997,6 +5005,7 @@
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) — ⭐ 14,449 · `JavaScript` · Browser — Ego-Lite is a specialized browser built for AI agents to efficiently perform browser automation. It allows agents like Claude Code or Codex to leverage the user's logged-in browser state without interrupting their browsing experience, facilitating seamless human-agent collaboration.
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) — ⭐ 14,226 · `JavaScript` · Code — This repository provides a custom theme or "skin" for the Codex application, allowing users to personalize its visual appearance. It includes installation scripts for both Windows and macOS, enabling users to easily apply custom images and modify the Codex interface.
 - [maillab/cloud-mail](https://github.com/maillab/cloud-mail) — ⭐ 13,820 · `JavaScript` · Productivity — A Cloudflare-based email service designed to provide email functionality using Cloudflare Workers.
+- [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) — ⭐ 13,642 · `JavaScript` · Browser — This is a command-line interface (CLI) tool for Playwright, designed to simplify common web testing actions. It allows users to record and generate Playwright code, inspect web selectors, and take screenshots.
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) — ⭐ 12,519 · `JavaScript` · Code — This repository contains the extracted system prompts, tool descriptions, and sub-agent prompts used by Claude Code, covering various utilities like WebFetch, Bash commands, and security reviews. It serves as a resource for understanding and utilizing Claude Code's internal workings and is updated for each new version.
 - [plankanban/planka](https://github.com/plankanban/planka) — ⭐ 12,467 · `JavaScript` · Productivity — PLANKA is an open-source, Kanban-style project management tool designed for easy task and project organization.
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) — ⭐ 12,288 · `JavaScript` · Text — This is a simple, open-source browser extension and Greasemonkey script designed to provide bilingual translation directly within web pages. It offers a minimalistic approach to translating content, presenting original and translated text side-by-side.
@@ -5303,6 +5312,7 @@
 - [yennanliu/InvestSkill](https://github.com/yennanliu/InvestSkill) — ⭐ 197 · `JavaScript` · Finance — This repository provides a collection of 'skills' or tools designed for US stock analysis, specifically tailored for use with large language models like Claude Code and Gemini. It enables LLMs to perform financial research and generate insights.
 - [MrXujiang/HiCAD](https://github.com/MrXujiang/HiCAD) — ⭐ 193 · `JavaScript` · 3D — HiCAD is an AI-driven CAD modeling platform that generates 3D models from text descriptions. It translates natural language input into parametric modeling code using large language models, allowing users to preview and edit designs directly in the browser.
 - [wechat-miniprogram/ai-mode-skills](https://github.com/wechat-miniprogram/ai-mode-skills) — ⭐ 191 · `JavaScript` · Code — An official WeChat auxiliary toolset for AI development mode, designed to automatically convert mini-program source code into the required WeChat AI SKILL format, and perform verification and evaluation.
+- [resend/resend-skills](https://github.com/resend/resend-skills) — ⭐ 191 · `JavaScript` · Code — This repository contains AI agent skills specifically designed for interacting with the Resend API. These skills enable AI agents to programmatically send and receive emails.
 - [LakshmanTurlapati/FSB](https://github.com/LakshmanTurlapati/FSB) — ⭐ 187 · `JavaScript` · Browser — This is an intelligent, open-source assistant that automates browser tasks, leveraging multiple AI models and designed for agents to operate in real, logged-in browser environments.
 - [petersolopov/yace](https://github.com/petersolopov/yace) — ⭐ 187 · `JavaScript` · Code — Yace is a lightweight, less than 2KB browser-based code editor component designed for syntax highlighting and extensibility via plugins. It implements editing functionality by overlaying a transparent textarea on a highlighted pre element, avoiding large dependencies.
 - [mlunato47/claude-grc-plugin](https://github.com/mlunato47/claude-grc-plugin) — ⭐ 180 · `JavaScript` · Code — This is a plugin for Claude Code that enhances its capabilities to act as a Governance, Risk, and Compliance (GRC) analyst. It provides extensive knowledge covering multiple frameworks and commands for GRC work.
@@ -5359,6 +5369,7 @@
 - [mhenry3164/twenty-crm-mcp-server](https://github.com/mhenry3164/twenty-crm-mcp-server) — ⭐ 100 · `JavaScript` · Infrastructure — A Node.js MCP server that connects Twenty CRM to LLM assistants like Claude, exposing CRUD and search capabilities via the Model Context Protocol.
 - [sudoingX/octopus-invaders](https://github.com/sudoingX/octopus-invaders) — ⭐ 98 · `JavaScript` · Gaming — This repository contains a pixel art space shooter game, notable for being entirely generated by a 9B AI model without human-written code, showcasing AI's capabilities in game development.
 - [trungdq88/mechanical-deployables-treejs](https://github.com/trungdq88/mechanical-deployables-treejs) — ⭐ 96 · `JavaScript` · 3D — A JavaScript prompt and example code for generating mechanical deployable style 3D models using Three.js.
+- [mastra-ai/skills](https://github.com/mastra-ai/skills) — ⭐ 95 · `JavaScript` · Code — This repository offers official AI agent skills specifically for coding agents that operate within the Mastra AI framework. These skills empower agents to perform coding-related tasks and interactions.
 - [lanfuli/aleabito-serenity-skills](https://github.com/lanfuli/aleabito-serenity-skills) — ⭐ 94 · `JavaScript` · Finance — This repository provides AI agent skills, distilled from an equity researcher's public archive, to enable Claude/Codex agents to perform financial analysis, specifically focused on supply chain bottleneck identification and stock research. It supports both Chinese and English.
 - [tanevanwifferen/pi-mail](https://github.com/tanevanwifferen/pi-mail) — ⭐ 92 · `JavaScript` · Productivity — A multi‑agent coordination framework that adds an email‑like messaging system, Kanban board, Jira sync, web admin UI, and hierarchical CEO‑Manager‑Worker architecture with automatic agent spawning and MCP server capabilities.
 - [blendi-remade/earth-cinema](https://github.com/blendi-remade/earth-cinema) — ⭐ 88 · `JavaScript` · Browser — A Chrome extension that transforms Google Earth views into cinematic shots, utilizing fal.ai for processing. It allows users to generate fully controllable scenes based on real-world locations.
@@ -5489,7 +5500,7 @@
 ## Rust
 
 <details>
-<summary>Show 367 repos</summary>
+<summary>Show 368 repos</summary>
 
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) — ⭐ 195,162 · `Rust` · Code — claw-code is a Rust‑based AI agent that autonomously develops and maintains a museum exhibit, generating code and commit history without human intervention.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — ⭐ 130,391 · `Rust` · Code — This is a cross-platform desktop application that acts as an all-in-one assistant for managing multiple AI coding tools and their API providers, such as Claude Code, Codex, OpenCode, and Gemini CLI. It streamlines the process of switching between different AI services and managing their configurations, skills, and prompts.
@@ -5780,6 +5791,7 @@
 - [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) — ⭐ 90 · `Rust` · Infrastructure — VelesDB is a Rust‑based, local‑first memory engine that combines vector, graph, and columnar storage, providing explainable retrieval for AI agents across platforms.
 - [icedracon/adhammer](https://github.com/icedracon/adhammer) — ⭐ 89 · `Rust` · Security — A Rust-powered CLI toolkit for Active Directory security assessment, offering PingCastle-like audits and red‑team validation across DCE/RPC, Kerberos, NTLM, and SMB.
 - [Ephemeral-AI-Lab/ephemeral-sandbox](https://github.com/Ephemeral-AI-Lab/ephemeral-sandbox) — ⭐ 89 · `Rust` · Infrastructure — Open‑source sandbox infrastructure for parallel coding agents, providing isolated workspaces, MCP/CLI control, observability and atomic publication.
+- [AkashPriyadarshii/jev-curate](https://github.com/AkashPriyadarshii/jev-curate) — ⭐ 89 · `Rust` · Data — This is a high-throughput data sifter, powered by a Rust streaming core, designed for curating synthetic and pretraining datasets specifically for TypeSafe Jev. It supports Parquet and JSONL I/O and handles typed judgments for data evaluation.
 - [run-llama/sandboxed-lit](https://github.com/run-llama/sandboxed-lit) — ⭐ 89 · `Rust` · Code — A Rust-based CLI agent that provides a secure, sandboxed shell environment with full Bash access, enabling agents to process various document types like PDFs, images, and Office files using LiteParse.
 - [empero-org/abacus](https://github.com/empero-org/abacus) — ⭐ 88 · `Rust` · Code — A Rust‑based terminal UI coding agent that interacts with any LLM, remembers past sessions, and offers a fast, cross‑platform CLI experience.
 - [Dicklesworthstone/franken\_whisper](https://github.com/Dicklesworthstone/franken_whisper) — ⭐ 88 · `Rust` · Audio — Rust-based agent-first ASR orchestration stack that routes between Whisper implementations, streams NDJSON, persists to SQLite, and handles TTY audio.
@@ -6190,7 +6202,7 @@
 ## Shell
 
 <details>
-<summary>Show 210 repos</summary>
+<summary>Show 211 repos</summary>
 
 - [obra/superpowers](https://github.com/obra/superpowers) — ⭐ 279,888 · `Shell` · Code — Superpowers is an agentic skills framework and software development methodology. It provides a structured approach for building and managing AI agents, aiming to improve code quality and development efficiency.
 - [mattpocock/skills](https://github.com/mattpocock/skills) — ⭐ 242,646 · `Shell` · Code — This repository contains a collection of skills for "Real Engineers," specifically sourced from a .claude directory. These skills are designed to enhance the capabilities of an AI assistant like Claude.
@@ -6303,6 +6315,7 @@
 - [marimo-team/marimo-pair](https://github.com/marimo-team/marimo-pair) — ⭐ 402 · `Shell` · Code — Provides a way to inject AI agents into running marimo notebook sessions, turning notebooks into agent‑ready environments.
 - [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director) — ⭐ 387 · `Shell` · Video — A shell‑based tool that converts a text copy into a one‑minute stick‑man animation prompt package, including English voice‑over and sound effects, for use with Gemini Omni Flash.
 - [ukanwat/aaabench](https://github.com/ukanwat/aaabench) — ⭐ 378 · `Shell` · Code — A benchmark harness that gives a coding agent access to Unreal Engine 5 and asks it to build an open‑world game, testing long‑horizon self‑verification without any built‑in diagnostics.
+- [realZachi/pg-jev](https://github.com/realZachi/pg-jev) — ⭐ 373 · `Shell` · Data — This PostgreSQL extension allows users to query their database tables using plain language. Its natural language processing capabilities are powered by TypeSafe's Jev model.
 - [craftzdog/tmux-claude-session-manager](https://github.com/craftzdog/tmux-claude-session-manager) — ⭐ 373 · `Shell` · Productivity — This is a tmux session manager designed to streamline interactions with Claude within the terminal environment, enabling users to manage and switch between Claude-related tasks efficiently.
 - [DevCop95/bugbounty-lab101](https://github.com/DevCop95/bugbounty-lab101) — ⭐ 353 · `Shell` · Security — A comprehensive bug bounty workspace for HackerOne researchers, offering scope enforcement, automated recon/vulnerability pipelines, report templates, CVE/CWE watchlists, and a local VM practice lab.
 - [Minara-AI/skills](https://github.com/Minara-AI/skills) — ⭐ 336 · `Shell` · Finance — This repository provides a collection of skills for Minara, an AI CFO designed to perform financial analysis and manage trading activities using natural language.
