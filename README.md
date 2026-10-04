@@ -4,7 +4,7 @@
 
 > 9,200+ AI and agent repos, auto-distilled from what's actually being shared on X — ranked, classified, and worth your stars.
 
-[![repos](https://img.shields.io/badge/repos-9252-blue)](https://gh-ai.leap-forward.ca/) ![stars tracked](https://img.shields.io/badge/stars%20tracked-52%2C531%2C749-yellow) ![domains](https://img.shields.io/badge/domains-19-green) [![live site](https://img.shields.io/badge/live%20site-explore-ff4088)](https://gh-ai.leap-forward.ca/)
+[![repos](https://img.shields.io/badge/repos-9263-blue)](https://gh-ai.leap-forward.ca/) ![stars tracked](https://img.shields.io/badge/stars%20tracked-52%2C606%2C875-yellow) ![domains](https://img.shields.io/badge/domains-19-green) [![live site](https://img.shields.io/badge/live%20site-explore-ff4088)](https://gh-ai.leap-forward.ca/)
 
 The frontier moves daily, and the best new AI tooling rarely lands on a press release — it drops in a tweet. This catalog watches X for the repos developers are genuinely shipping and sharing, then filters to the ones with traction (10+ stars) and sorts the signal from the hype.
 
@@ -18,29 +18,29 @@ Bookmark it. The frontier won't wait, and neither does this list.
 
 | Metric | Count |
 | --- | --- |
-| Repositories | 9,252 |
-| Stars tracked | 52,531,749 |
+| Repositories | 9,263 |
+| Stars tracked | 52,606,875 |
 | Domains | 19 |
 | Types | 16 |
 | Languages | 80 |
 
 ## Browse by Domain
 
-- 🎬 [Video](domains/video.md) <kbd>468</kbd> — Generate cinematic clips from a text prompt, retime footage, or capture motion with nothing but a webcam.
+- 🎬 [Video](domains/video.md) <kbd>470</kbd> — Generate cinematic clips from a text prompt, retime footage, or capture motion with nothing but a webcam.
 - 🖼️ [Image](domains/image.md) <kbd>366</kbd> — From a blank canvas to a billion pixels of detail, these tools paint, repair, and reimagine.
 - 🎧 [Audio](domains/audio.md) <kbd>275</kbd> — Clone a voice from a few seconds, score a track from a hum, or pull vocals clean out of a finished mix.
-- 📝 [Text](domains/text.md) <kbd>784</kbd> — The beating heart of the AI boom: the models that reason, the retrieval that grounds them, and the tooling that ships them to production.
-- 💻 [Code](domains/code.md) <kbd>2027</kbd> — This is where AI stops suggesting and starts shipping.
+- 📝 [Text](domains/text.md) <kbd>785</kbd> — The beating heart of the AI boom: the models that reason, the retrieval that grounds them, and the tooling that ships them to production.
+- 💻 [Code](domains/code.md) <kbd>2029</kbd> — This is where AI stops suggesting and starts shipping.
 - 🌐 [Browser](domains/browser.md) <kbd>209</kbd> — The browser is the new API surface, and these repos teach machines to drive it.
 - 🤖 [Robotics](domains/robotics.md) <kbd>324</kbd> — AI is escaping the screen and grabbing things in the real world.
 - 🧊 [3D](domains/3d.md) <kbd>297</kbd> — Text in, geometry out.
 - 🗂️ [Data](domains/data.md) <kbd>205</kbd> — Models are only as good as what you feed them, and this is where the feedstock gets made.
 - 🏋️ [Training](domains/training.md) <kbd>303</kbd> — This is where raw weights become something brilliant.
-- 🧠 [Models](domains/models.md) <kbd>153</kbd> — The crown jewels: open weights you can download, run, and build on today.
+- 🧠 [Models](domains/models.md) <kbd>157</kbd> — The crown jewels: open weights you can download, run, and build on today.
 - ⚙️ [Infrastructure](domains/infrastructure.md) <kbd>769</kbd> — The unglamorous layer that decides whether your AI ships or stalls.
 - 👁️ [Multimodal](domains/multimodal.md) <kbd>303</kbd> — Where models stop reading and start seeing, hearing, and reasoning across pixels, text, and video at once.
 - 🛡️ [Security](domains/security.md) <kbd>434</kbd> — AI is now both the weapon and the shield, and this is where that arms race plays out in code.
-- ⚡ [Productivity](domains/productivity.md) <kbd>902</kbd> — The everyday-tool layer where AI quietly hands you back hours.
+- ⚡ [Productivity](domains/productivity.md) <kbd>904</kbd> — The everyday-tool layer where AI quietly hands you back hours.
 - 💸 [Finance](domains/finance.md) <kbd>223</kbd> — Where AI meets money on the line.
 - 🔬 [Science](domains/science.md) <kbd>231</kbd> — AI is rewriting the pace of discovery — folding proteins in hours, simulating particles, and proving theorems.
 - 🎮 [Gaming](domains/gaming.md) <kbd>99</kbd> — Games are AI's favorite proving ground — and now the agents that learned to play are building the worlds too.
@@ -49,8 +49,8 @@ Bookmark it. The frontier won't wait, and neither does this list.
 ## Browse by Subdomain
 
 - **Video**
-  - [Editor](domains/video.md#editor) <kbd>80</kbd> — AI-driven cutting, trimming, and timeline magic that turns raw footage into a finished edit
-  - [Generation](domains/video.md#generation) <kbd>211</kbd> — Text-to-video and image-to-video models that conjure full clips from a single prompt
+  - [Editor](domains/video.md#editor) <kbd>81</kbd> — AI-driven cutting, trimming, and timeline magic that turns raw footage into a finished edit
+  - [Generation](domains/video.md#generation) <kbd>212</kbd> — Text-to-video and image-to-video models that conjure full clips from a single prompt
   - [Motion Capture](domains/video.md#motion-capture) <kbd>20</kbd> — Turn ordinary video into rigged 3D motion, no suit or studio required
   - [Streaming](domains/video.md#streaming) <kbd>18</kbd> — Real-time inference for live video: filters, overlays, and analysis at broadcast speed
   - [Analysis](domains/video.md#analysis) <kbd>57</kbd> — Detect, track, and caption everything happening across thousands of frames
@@ -74,7 +74,7 @@ Bookmark it. The frontier won't wait, and neither does this list.
   - [Transcription](domains/audio.md#transcription) <kbd>65</kbd> — Fast, accurate speech-to-text with diarization across dozens of languages
   - [Other](domains/audio.md#other) <kbd>21</kbd> — Sound event detection, audio fingerprinting, and niche tools the pros reach for
 - **Text**
-  - [LLM Core](domains/text.md#llm-core) <kbd>191</kbd> — Foundation models, training frameworks, and inference engines that power everything else
+  - [LLM Core](domains/text.md#llm-core) <kbd>192</kbd> — Foundation models, training frameworks, and inference engines that power everything else
   - [RAG](domains/text.md#rag) <kbd>183</kbd> — Retrieval pipelines that feed LLMs real, sourced facts instead of guesses
   - [Translation](domains/text.md#translation) <kbd>32</kbd> — Neural machine translation that bridges languages with near-native fluency
   - [Summarization](domains/text.md#summarization) <kbd>16</kbd> — Compress documents, threads, and transcripts into the parts that matter
@@ -94,7 +94,7 @@ Bookmark it. The frontier won't wait, and neither does this list.
   - [Documentation](domains/code.md#documentation) <kbd>57</kbd> — Generate docstrings, READMEs, and API references that actually stay in sync with the code
   - [Testing](domains/code.md#testing) <kbd>60</kbd> — Auto-write unit tests, fuzz edge cases, and chase down coverage gaps you'd never spot
   - [Debugging](domains/code.md#debugging) <kbd>22</kbd> — Paste the stack trace and let the model find the root cause and the fix
-  - [Other](domains/code.md#other) <kbd>463</kbd> — Commit-message writers, code search, and dev-loop oddballs worth a star
+  - [Other](domains/code.md#other) <kbd>465</kbd> — Commit-message writers, code search, and dev-loop oddballs worth a star
 - **Browser**
   - [Automation](domains/browser.md#automation) <kbd>47</kbd> — Script clicks, navigation, and form-filling that run unattended at scale
   - [Scraping](domains/browser.md#scraping) <kbd>28</kbd> — Pull structured data from messy pages with LLMs that survive layout changes
@@ -132,11 +132,11 @@ Bookmark it. The frontier won't wait, and neither does this list.
   - [Pretraining](domains/training.md#pretraining) <kbd>27</kbd> — Build foundation models from scratch with battle-tested training stacks
   - [Other](domains/training.md#other) <kbd>92</kbd> — Curriculum tricks, optimizers, and experimental training methods worth a look
 - **Models**
-  - [LLM Weights](domains/models.md#llm-weights) <kbd>59</kbd> — Open large language models you can grab, run, and fine-tune without an API bill
+  - [LLM Weights](domains/models.md#llm-weights) <kbd>62</kbd> — Open large language models you can grab, run, and fine-tune without an API bill
   - [Vision Models](domains/models.md#vision-models) <kbd>17</kbd> — State-of-the-art image understanding, detection, and segmentation backbones
   - [Multimodal Models](domains/models.md#multimodal-models) <kbd>11</kbd> — Models that see, read, and listen at once, fusing text, image, and audio
   - [Specialized Models](domains/models.md#specialized-models) <kbd>51</kbd> — Domain experts for code, biology, math, and other narrow but mighty tasks
-  - [Other](domains/models.md#other) <kbd>15</kbd> — Niche checkpoints, merges, and experimental weights worth a download
+  - [Other](domains/models.md#other) <kbd>16</kbd> — Niche checkpoints, merges, and experimental weights worth a download
 - **Infrastructure**
   - [Inference Server](domains/infrastructure.md#inference-server) <kbd>193</kbd> — Serve models with blazing throughput and low latency under real traffic
   - [GPU/Hardware](domains/infrastructure.md#gpuhardware) <kbd>85</kbd> — Squeeze every FLOP from your accelerators with kernels, drivers, and scheduling
@@ -160,8 +160,8 @@ Bookmark it. The frontier won't wait, and neither does this list.
   - [Privacy](domains/security.md#privacy) <kbd>44</kbd> — PII redaction, differential privacy, and keeping your data out of the training set
   - [Other](domains/security.md#other) <kbd>44</kbd> — Supply-chain scanners, threat-intel feeds, and the niche security tooling worth bookmarking
 - **Productivity**
-  - [Notes](domains/productivity.md#notes) <kbd>87</kbd> — Second-brain tools that capture, link, and resurface your ideas on demand
-  - [Tasks](domains/productivity.md#tasks) <kbd>34</kbd> — To-do managers that prioritize, break down, and chase your work for you
+  - [Notes](domains/productivity.md#notes) <kbd>88</kbd> — Second-brain tools that capture, link, and resurface your ideas on demand
+  - [Tasks](domains/productivity.md#tasks) <kbd>35</kbd> — To-do managers that prioritize, break down, and chase your work for you
   - [Email/Calendar](domains/productivity.md#emailcalendar) <kbd>24</kbd> — Inbox triage and scheduling agents that clear the noise and book the meeting
   - [Writing](domains/productivity.md#writing) <kbd>95</kbd> — Drafting, editing, and rewriting copilots that match your voice and tighten your prose
   - [Personal Assistant](domains/productivity.md#personal-assistant) <kbd>287</kbd> — All-in-one agents that plan your day, run errands, and answer before you ask
@@ -192,21 +192,21 @@ Bookmark it. The frontier won't wait, and neither does this list.
 
 ## Browse by Type
 
-- 🚀 [Application](types/application.md) <kbd>1804</kbd> — Full-blown products you can run today, not weekend experiments.
-- 📦 [Library](types/library.md) <kbd>1181</kbd> — Drop-in building blocks that do the hard part so you don't have to.
+- 🚀 [Application](types/application.md) <kbd>1806</kbd> — Full-blown products you can run today, not weekend experiments.
+- 📦 [Library](types/library.md) <kbd>1182</kbd> — Drop-in building blocks that do the hard part so you don't have to.
 - 🏗️ [Framework](types/framework.md) <kbd>544</kbd> — Opinionated foundations that shape how you build entire AI systems.
 - ⌨️ [CLI Tool](types/cli-tool.md) <kbd>680</kbd> — Terminal-first power that fits into pipes, scripts, and CI without a browser tab in sight.
 - 🤖 [AI Agent](types/ai-agent.md) <kbd>577</kbd> — Autonomous workers that plan, call tools, and chase a goal across many steps.
 - 🧩 [Agent Framework](types/agent-framework.md) <kbd>504</kbd> — The scaffolding for building your own agents: memory, tool calling, planning loops, and multi-agent orchestration.
-- 🔌 [MCP Server](types/mcp-server.md) <kbd>264</kbd> — Plug new powers straight into Claude, Cursor, and any MCP-aware client.
-- 🧷 [Plugin/Extension](types/plugin-extension.md) <kbd>562</kbd> — Bolt AI onto the tools you already use, from VS Code to your browser.
+- 🔌 [MCP Server](types/mcp-server.md) <kbd>265</kbd> — Plug new powers straight into Claude, Cursor, and any MCP-aware client.
+- 🧷 [Plugin/Extension](types/plugin-extension.md) <kbd>563</kbd> — Bolt AI onto the tools you already use, from VS Code to your browser.
 - 🎒 [Skill Pack](types/skill-pack.md) <kbd>548</kbd> — Bundled know-how that teaches an agent a new trick on demand.
 - 🗂️ [Awesome List](types/awesome-list.md) <kbd>1</kbd> — Hand-picked maps to a whole subfield, saving you hours of search-engine archaeology.
-- 🎓 [Tutorial/Course](types/tutorial-course.md) <kbd>349</kbd> — Learn by building, with code you can run as you read.
-- 🔬 [Paper Code](types/paper-code.md) <kbd>772</kbd> — The official implementations behind the research everyone's citing.
+- 🎓 [Tutorial/Course](types/tutorial-course.md) <kbd>350</kbd> — Learn by building, with code you can run as you read.
+- 🔬 [Paper Code](types/paper-code.md) <kbd>775</kbd> — The official implementations behind the research everyone's citing.
 - 📊 [Dataset](types/dataset.md) <kbd>64</kbd> — Ready-to-train data that would've cost you months to collect and clean.
 - 🧠 [Model Weights](types/model-weights.md) <kbd>110</kbd> — Pretrained brains you can download, run locally, and fine-tune on your own terms.
-- 🖥️ [Self-hosted Service](types/self-hosted-service.md) <kbd>583</kbd> — Run it on your own hardware and keep your data in your own walls.
+- 🖥️ [Self-hosted Service](types/self-hosted-service.md) <kbd>585</kbd> — Run it on your own hardware and keep your data in your own walls.
 - ⚡ [Boilerplate/Template](types/boilerplate-template.md) <kbd>99</kbd> — A wired-up starting line so you skip the boring setup and ship on day one.
 
 ## More ways to browse
