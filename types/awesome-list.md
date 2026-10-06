@@ -6,4 +6,4 @@ Hand-picked maps to a whole subfield, saving you hours of search-engine archaeol
 
 [↑ Back to index](../README.md)
 
-- [vectorize-io/agent-memory-benchmark](https://github.com/vectorize-io/agent-memory-benchmark) — ⭐ 129 · `Python` · Code — This repository provides a benchmark for evaluating the memory capabilities of AI agents. It's used to measure how effectively agents can retain and utilize information across interactions.
+- [vectorize-io/agent-memory-benchmark](https://github.com/vectorize-io/agent-memory-benchmark) — ⭐ 131 · `Python` · Code — This repository provides a benchmark for evaluating the memory capabilities of AI agents. It's used to measure how effectively agents can retain and utilize information across interactions.
