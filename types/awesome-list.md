@@ -7,4 +7,4 @@ Hand-picked maps to a whole subfield, saving you hours of search-engine archaeol
 [↑ Back to index](../README.md)
 
 - [vectorize-io/agent-memory-benchmark](https://github.com/vectorize-io/agent-memory-benchmark) — ⭐ 150 · `Python` · Code — This repository provides a benchmark for evaluating the memory capabilities of AI agents. It's used to measure how effectively agents can retain and utilize information across interactions.
-- [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) — ⭐ 77 · `Python` · Code — A quality-ranked discovery engine for AI coding skills, plugins, and MCP servers. It helps users find and utilize tools compatible with various AI coding platforms like Claude Code, Codex, and Cursor.
+- [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) — ⭐ 78 · `Python` · Code — A quality-ranked discovery engine for AI coding skills, plugins, and MCP servers. It helps users find and utilize tools compatible with various AI coding platforms like Claude Code, Codex, and Cursor.
